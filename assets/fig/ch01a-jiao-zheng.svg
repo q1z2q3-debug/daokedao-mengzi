@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="520" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="6" fill="#25211D" font-weight="700">上 下 交 征 利</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C">《孟子》梁惠王上　第一章　MZ001</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+
+  <text x="60" y="140" font-size="8" fill="#994433" letter-spacing="2">苟</text>
+  <text x="60" y="154" font-size="8" fill="#994433" letter-spacing="2">为</text>
+  <text x="60" y="168" font-size="8" fill="#994433" letter-spacing="2">后</text>
+  <text x="60" y="182" font-size="8" fill="#994433" letter-spacing="2">义</text>
+  <text x="60" y="196" font-size="8" fill="#994433" letter-spacing="2">而</text>
+  <text x="60" y="210" font-size="8" fill="#994433" letter-spacing="2">先</text>
+  <text x="60" y="224" font-size="8" fill="#994433" letter-spacing="2">利</text>
+  <text x="60" y="262" font-size="8" fill="#7C6D5C" letter-spacing="2">不</text>
+  <text x="60" y="276" font-size="8" fill="#7C6D5C" letter-spacing="2">夺</text>
+  <text x="60" y="290" font-size="8" fill="#7C6D5C" letter-spacing="2">不</text>
+  <text x="60" y="304" font-size="8" fill="#7C6D5C" letter-spacing="2">餍</text>
+
+  <rect x="120" y="118" width="120" height="44" rx="3" fill="#FCFAF6" stroke="#994433" stroke-width="1"/>
+  <text x="180" y="146" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#25211D">王</text>
+  <text x="180" y="176" text-anchor="middle" font-size="7" fill="#7C6D5C">何以利吾国</text>
+
+  <rect x="320" y="118" width="120" height="44" rx="3" fill="#FCFAF6" stroke="#994433" stroke-width="1"/>
+  <text x="380" y="146" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#25211D">大夫</text>
+  <text x="380" y="176" text-anchor="middle" font-size="7" fill="#7C6D5C">何以利吾家</text>
+
+  <rect x="520" y="118" width="120" height="44" rx="3" fill="#FCFAF6" stroke="#994433" stroke-width="1"/>
+  <text x="580" y="146" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#25211D">士庶人</text>
+  <text x="580" y="176" text-anchor="middle" font-size="7" fill="#7C6D5C">何以利吾身</text>
+
+  <line x1="180" y1="182" x2="180" y2="200" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="165" y="200" width="30" height="12" rx="2" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="169" y1="212" x2="169" y2="222" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="175" y1="212" x2="175" y2="223" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="181" y1="212" x2="181" y2="223" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="187" y1="212" x2="187" y2="222" stroke="#7C6D5C" stroke-width="0.8"/>
+
+  <line x1="380" y1="182" x2="380" y2="200" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="365" y="200" width="30" height="12" rx="2" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="369" y1="212" x2="369" y2="222" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="375" y1="212" x2="375" y2="223" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="381" y1="212" x2="381" y2="223" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="387" y1="212" x2="387" y2="222" stroke="#7C6D5C" stroke-width="0.8"/>
+
+  <line x1="580" y1="182" x2="580" y2="200" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="565" y="200" width="30" height="12" rx="2" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="569" y1="212" x2="569" y2="222" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="575" y1="212" x2="575" y2="223" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="581" y1="212" x2="581" y2="223" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="587" y1="212" x2="587" y2="222" stroke="#7C6D5C" stroke-width="0.8"/>
+
+  <line x1="180" y1="226" x2="352" y2="256" stroke="#994433" stroke-width="1"/>
+  <polygon points="352,256 344,250 342,259" fill="#994433"/>
+  <line x1="380" y1="226" x2="380" y2="256" stroke="#994433" stroke-width="1"/>
+  <polygon points="380,258 375,248 385,248" fill="#994433"/>
+  <line x1="580" y1="226" x2="408" y2="256" stroke="#994433" stroke-width="1"/>
+  <polygon points="408,256 416,250 418,259" fill="#994433"/>
+
+  <rect x="332" y="258" width="96" height="46" rx="3" fill="#FCFAF6" stroke="#994433" stroke-width="1.4"/>
+  <text x="380" y="289" text-anchor="middle" font-size="22" letter-spacing="2" fill="#994433" font-weight="700">利</text>
+  <text x="380" y="318" text-anchor="middle" font-size="7" fill="#7C6D5C">三取同至　一处难容</text>
+
+  <line x1="380" y1="320" x2="380" y2="356" stroke="#7C6D5C" stroke-width="1"/>
+
+  <line x1="120" y1="360" x2="358" y2="360" stroke="#25211D" stroke-width="3"/>
+  <line x1="402" y1="360" x2="640" y2="360" stroke="#25211D" stroke-width="3"/>
+  <line x1="358" y1="360" x2="352" y2="374" stroke="#25211D" stroke-width="2"/>
+  <line x1="402" y1="360" x2="408" y2="374" stroke="#25211D" stroke-width="2"/>
+  <line x1="366" y1="366" x2="360" y2="378" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="394" y1="366" x2="400" y2="378" stroke="#7C6D5C" stroke-width="1.2"/>
+  <rect x="372" y="368" width="6" height="5" fill="#7C6D5C" opacity="0.7"/>
+  <rect x="384" y="371" width="5" height="4" fill="#7C6D5C" opacity="0.5"/>
+
+  <text x="380" y="398" text-anchor="middle" font-size="10.5" letter-spacing="4" fill="#994433">国　危</text>
+  <text x="380" y="414" text-anchor="middle" font-size="7" fill="#7C6D5C">缺口不在外　在取处</text>
+
+  <text x="132" y="352" font-size="6.4" fill="#7C6D5C">城墙</text>
+
+  <line x1="120" y1="440" x2="640" y2="440" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="462" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D">三只手同向，墙就从里面裂。</text>
+  <text x="640" y="492" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 交征 · ch01a</text>
+  <text x="120" y="492" font-size="5.6" fill="#7C6D5C">孟子 · 梁惠王上</text>
+</svg>

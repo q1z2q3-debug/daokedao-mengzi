@@ -143,10 +143,6 @@ INDEX = """<!DOCTYPE html>
 open(os.path.join(docs, "index.html"), "w", encoding="utf-8").write(INDEX)
 open(os.path.join(docs, "robots.txt"), "w", encoding="utf-8").write(
     "User-agent: *\nAllow: /\nSitemap: %s/sitemap.xml\n" % SITE)
-open(os.path.join(docs, "sitemap.xml"), "w", encoding="utf-8").write(
-    '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-    '  <url><loc>%s/</loc><priority>1.0</priority><lastmod>%s</lastmod></url>\n'
-    '  <url><loc>%s/book.html</loc><priority>0.9</priority><lastmod>%s</lastmod></url>\n'
-    '</urlset>\n' % (SITE, DATE, SITE, DATE))
+# sitemap 由 build_site.py 统一生成（含章页），此处不再覆盖
 print("卷首页 %s 字节；首页已写；已成章 %d" % (
     os.path.getsize(os.path.join(docs, "book.html")), len(ch_files)))
