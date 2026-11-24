@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">巨 室 之 门</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》离娄上　第六十七章　MZ067</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">门不上锁　不须锁</text>
+  <line x1="300" y1="190" x2="300" y2="404" stroke="#25211D" stroke-width="2.0"/>
+  <line x1="460" y1="190" x2="460" y2="404" stroke="#25211D" stroke-width="2.0"/>
+  <line x1="294" y1="190" x2="466" y2="190" stroke="#25211D" stroke-width="2.2"/>
+  <line x1="292" y1="404" x2="468" y2="404" stroke="#8C7B69" stroke-width="1.6"/>
+  <line x1="316" y1="190" x2="316" y2="404" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="444" y1="190" x2="444" y2="404" stroke="#7C6D5C" stroke-width="1.0"/>
+  <circle cx="380" cy="262" r="12" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <path d="M 380,274 C 366,282 362,300 362,318 L 398,318 C 398,300 394,282 380,274 Z" fill="#F0EBE2" stroke="#25211D" stroke-width="1.2"/>
+  <path d="M 362,318 C 350,330 352,340 366,344 L 394,344 C 408,340 410,330 398,318" fill="#F0EBE2" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="372" y1="286" x2="362" y2="324" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="388" y1="286" x2="398" y2="324" stroke="#25211D" stroke-width="1.0"/>
+  <circle cx="362" cy="326" r="4" fill="#FCFAF6" stroke="#25211D" stroke-width="1.0"/>
+  <circle cx="398" cy="326" r="4" fill="#FCFAF6" stroke="#25211D" stroke-width="1.0"/>
+  <rect x="340" y="344" width="80" height="7" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.2"/>
+  <circle cx="206" cy="331.55" r="5.55" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="206" y1="337.1" x2="206" y2="382.24" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="206" y1="345.98" x2="194.16" y2="362.26" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="206" y1="345.98" x2="217.84" y2="362.26" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="206" y1="382.24" x2="199.34" y2="400" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="206" y1="382.24" x2="212.66" y2="400" stroke="#25211D" stroke-width="1.1"/>
+  <circle cx="252" cy="347" r="5" fill="none" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="252" y1="352" x2="252" y2="389.12" stroke="#25211D" stroke-width="1.25"/>
+  <line x1="252" y1="359.44" x2="242.08" y2="373.08" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="252" y1="359.44" x2="261.92" y2="373.08" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="252" y1="389.12" x2="246.42" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="252" y1="389.12" x2="257.58" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <circle cx="548" cy="337.25" r="5.25" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="548" y1="342.5" x2="548" y2="385.2" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="548" y1="350.9" x2="536.8" y2="366.29999999999995" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="548" y1="350.9" x2="559.2" y2="366.29999999999995" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="548" y1="385.2" x2="541.7" y2="402" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="548" y1="385.2" x2="554.3" y2="402" stroke="#25211D" stroke-width="1.1"/>
+  <circle cx="592" cy="351" r="5" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="592" y1="356" x2="592" y2="390.08" stroke="#25211D" stroke-width="1.125"/>
+  <line x1="592" y1="362.96" x2="582.72" y2="375.71999999999997" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="592" y1="362.96" x2="601.28" y2="375.71999999999997" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="592" y1="390.08" x2="586.78" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="592" y1="390.08" x2="597.22" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <text x="206" y="420" text-anchor="middle" font-size="6.0" letter-spacing="0" fill="#7C6D5C" font-weight="400">国人望门</text>
+  <path d="M 372,404 C 330,412 296,418 262,418" fill="none" stroke="#7C6D5C" stroke-width="1.2" stroke-dasharray="3,3"/>
+  <path d="M 376,414 C 336,422 302,428 272,428" fill="none" stroke="#7C6D5C" stroke-width="1.0" stroke-dasharray="3,3"/>
+  <path d="M 388,404 C 430,412 464,418 498,418" fill="none" stroke="#7C6D5C" stroke-width="1.2" stroke-dasharray="3,3"/>
+  <path d="M 384,414 C 424,422 458,428 488,428" fill="none" stroke="#7C6D5C" stroke-width="1.0" stroke-dasharray="3,3"/>
+  <text x="300" y="178" text-anchor="middle" font-size="6.0" letter-spacing="0" fill="#7C6D5C" font-weight="400">巨室之所慕</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">巨室之所慕，一国慕之；沛然德教溢乎四海。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 巨室之门 · ch67a</text>
+</svg>

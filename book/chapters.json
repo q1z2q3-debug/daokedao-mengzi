@@ -1,6 +1,6 @@
 {
  "book": "润泽说 道可道之孟子",
- "version": "0.12.0",
+ "version": "0.13.0",
  "count": 260,
  "volumes": [
   {
@@ -779,110 +779,110 @@
    "卷": "七",
    "篇": "离娄上",
    "章序": 1,
-   "章题": "",
+   "章题": "离娄之明",
    "file": null,
-   "page": null,
+   "page": "ch/mz062.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ063",
    "卷": "七",
    "篇": "离娄上",
    "章序": 2,
-   "章题": "",
+   "章题": "规矩之至",
    "file": null,
-   "page": null,
+   "page": "ch/mz063.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ064",
    "卷": "七",
    "篇": "离娄上",
    "章序": 3,
-   "章题": "",
+   "章题": "三代之仁",
    "file": null,
-   "page": null,
+   "page": "ch/mz064.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ065",
    "卷": "七",
    "篇": "离娄上",
    "章序": 4,
-   "章题": "",
+   "章题": "反求诸己",
    "file": null,
-   "page": null,
+   "page": "ch/mz065.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ066",
    "卷": "七",
    "篇": "离娄上",
    "章序": 5,
-   "章题": "",
+   "章题": "天下国家",
    "file": null,
-   "page": null,
+   "page": "ch/mz066.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ067",
    "卷": "七",
    "篇": "离娄上",
    "章序": 6,
-   "章题": "",
+   "章题": "不得罪巨室",
    "file": null,
-   "page": null,
+   "page": "ch/mz067.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ068",
    "卷": "七",
    "篇": "离娄上",
    "章序": 7,
-   "章题": "",
+   "章题": "小德役大德",
    "file": null,
-   "page": null,
+   "page": "ch/mz068.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ069",
    "卷": "七",
    "篇": "离娄上",
    "章序": 8,
-   "章题": "",
+   "章题": "沧浪之水",
    "file": null,
-   "page": null,
+   "page": "ch/mz069.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ070",
    "卷": "七",
    "篇": "离娄上",
    "章序": 9,
-   "章题": "",
+   "章题": "桀纣失天下",
    "file": null,
-   "page": null,
+   "page": "ch/mz070.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ071",
    "卷": "七",
    "篇": "离娄上",
    "章序": 10,
-   "章题": "",
+   "章题": "自暴自弃",
    "file": null,
-   "page": null,
+   "page": "ch/mz071.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ072",

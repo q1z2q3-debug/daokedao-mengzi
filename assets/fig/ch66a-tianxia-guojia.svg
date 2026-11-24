@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">一 条 向 下 走 的 链</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》离娄上　第六十六章　MZ066</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">人有恒言　皆曰天下国家</text>
+  <line x1="150" y1="344" x2="610" y2="344" stroke="#8C7B69" stroke-width="1.4"/>
+  <line x1="150" y1="350" x2="610" y2="350" stroke="#BFB4A4" stroke-width="0.6"/>
+  <path d="M 380,344 C 378,378 374,404 372,428" fill="none" stroke="#7C6D5C" stroke-width="3.4"/>
+  <path d="M 374,380 C 356,392 336,398 318,400" fill="none" stroke="#7C6D5C" stroke-width="2.2"/>
+  <path d="M 386,386 C 404,398 424,402 442,402" fill="none" stroke="#7C6D5C" stroke-width="2.2"/>
+  <path d="M 320,398 C 308,408 300,414 292,420" fill="none" stroke="#7C6D5C" stroke-width="1.3"/>
+  <path d="M 440,400 C 452,410 460,416 468,420" fill="none" stroke="#7C6D5C" stroke-width="1.3"/>
+  <path d="M 376,404 C 362,414 352,420 344,424" fill="none" stroke="#7C6D5C" stroke-width="1.3"/>
+  <path d="M 384,406 C 396,416 404,420 412,424" fill="none" stroke="#7C6D5C" stroke-width="1.3"/>
+  <path d="M 362,344 L 366,290 L 394,290 L 398,344 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M 380,290 C 380,250 410,232 444,222" fill="none" stroke="#7C6D5C" stroke-width="1.6"/>
+  <path d="M 380,290 C 380,250 350,232 316,222" fill="none" stroke="#7C6D5C" stroke-width="1.6"/>
+  <path d="M 444,222 C 466,214 484,208 496,202" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <path d="M 316,222 C 294,214 276,208 264,202" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <path d="M 244,208 C 250,182 264,172 282,168 C 300,150 336,144 364,146 C 392,144 424,152 442,168 C 466,174 494,182 512,206 C 470,220 452,212 434,218 C 408,226 386,214 364,220 C 340,226 318,214 296,218 C 274,222 256,214 244,208 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.3"/>
+  <path d="M 300,186 C 316,172 340,166 358,168" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 400,168 C 418,166 440,172 456,184" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 330,200 C 352,190 386,188 410,196" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="380" y="190" text-anchor="middle" font-size="8.4" letter-spacing="2" fill="#994433" font-weight="400">天下</text>
+  <text x="402" y="320" text-anchor="middle" font-size="8" letter-spacing="0" fill="#25211D" font-weight="400">家</text>
+  <line x1="396" y1="316" x2="382" y2="314" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="456" y="250" text-anchor="middle" font-size="7.6" letter-spacing="0" fill="#7C6D5C" font-weight="400">国</text>
+  <line x1="448" y1="254" x2="420" y2="244" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="458" y="404" text-anchor="middle" font-size="8.4" letter-spacing="0" fill="#994433" font-weight="400">身</text>
+  <line x1="446" y1="400" x2="400" y2="398" stroke="#DCD5C8" stroke-width="0.8"/>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">天下之本在国，国之本在家，家之本在身。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 一条向下走的链 · ch66a</text>
+</svg>
