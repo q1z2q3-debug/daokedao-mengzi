@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="560" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">一 身 百 工</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C">《孟子》滕文公上　第五十章　MZ050</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <circle cx="380" cy="212" r="13" fill="none" stroke="#25211D" stroke-width="1.3"/>
+  <line x1="380" y1="225" x2="380" y2="316" stroke="#25211D" stroke-width="1.3"/>
+  <line x1="380" y1="316" x2="356" y2="374" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="380" y1="316" x2="406" y2="374" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="380" y1="248" x2="340" y2="286" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="380" y1="248" x2="420" y2="286" stroke="#25211D" stroke-width="1.2"/>
+  <rect x="358" y="228" width="44" height="74" fill="none" stroke="#8C7B69" stroke-width="1" stroke-dasharray="4 3"/>
+  <path d="M 366,196 L 394,196 L 400,184 L 360,184 Z" fill="#F0EBE2" stroke="#994433" stroke-width="1.1"/>
+  <text x="380" y="176" text-anchor="middle" font-size="5.8" fill="#994433">冠</text>
+  <path d="M 196,300 A 30,20 0 0 0 256,300 Z" fill="#FCFAF6" stroke="#994433" stroke-width="1.1"/>
+  <line x1="196" y1="300" x2="256" y2="300" stroke="#994433" stroke-width="1.1"/>
+  <text x="226" y="322" text-anchor="middle" font-size="5.8" fill="#994433">釜</text>
+  <path d="M 496,372 L 550,350" stroke="#994433" stroke-width="1.6"/>
+  <polygon points="550,350 538,344 542,358" fill="#994433"/>
+  <line x1="496" y1="372" x2="492" y2="386" stroke="#994433" stroke-width="1.2"/>
+  <text x="528" y="318" text-anchor="middle" font-size="5.8" fill="#994433">耒耜</text>
+  <path d="M 358,384 A 12,7 0 0 0 382,384 Z" fill="#F0EBE2" stroke="#994433" stroke-width="1"/>
+  <path d="M 394,384 A 12,7 0 0 0 418,384 Z" fill="#F0EBE2" stroke="#994433" stroke-width="1"/>
+  <text x="388" y="404" text-anchor="middle" font-size="5.8" fill="#994433">屦</text>
+  <line x1="366" y1="184" x2="300" y2="150" stroke="#BFB4A4" stroke-width="0.9" stroke-dasharray="5 4"/>
+  <text x="284" y="142" text-anchor="middle" font-size="5.6" fill="#BFB4A4">冠者之手</text>
+  <line x1="356" y1="252" x2="286" y2="238" stroke="#BFB4A4" stroke-width="0.9" stroke-dasharray="5 4"/>
+  <text x="262" y="230" text-anchor="middle" font-size="5.6" fill="#BFB4A4">织者之手</text>
+  <line x1="256" y1="306" x2="234" y2="356" stroke="#BFB4A4" stroke-width="0.9" stroke-dasharray="5 4"/>
+  <text x="222" y="372" text-anchor="middle" font-size="5.6" fill="#BFB4A4">陶者之手</text>
+  <line x1="536" y1="352" x2="570" y2="316" stroke="#BFB4A4" stroke-width="0.9" stroke-dasharray="5 4"/>
+  <text x="592" y="306" text-anchor="middle" font-size="5.6" fill="#BFB4A4">冶者之手</text>
+  <line x1="414" y1="382" x2="470" y2="418" stroke="#BFB4A4" stroke-width="0.9" stroke-dasharray="5 4"/>
+  <text x="506" y="430" text-anchor="middle" font-size="5.6" fill="#BFB4A4">屦者之手</text>
+  <line x1="120" y1="456" x2="640" y2="456" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="480" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D">你身上穿的戴的，全是别人的手。</text>
+  <text x="120" y="514" font-size="5.6" fill="#7C6D5C">孟子 · 滕文公上</text>
+  <text x="640" y="514" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 一身百工 · ch50a</text>
+</svg>
