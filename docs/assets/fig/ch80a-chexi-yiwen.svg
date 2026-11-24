@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">撤 席 的 一 问</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》离娄上　第八十章　MZ080</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">将彻，必请所与</text>
+  <line x1="556" y1="176" x2="556" y2="396" stroke="#DCD5C8" stroke-width="2.0"/>
+  <line x1="700" y1="176" x2="700" y2="396" stroke="#DCD5C8" stroke-width="2.0"/>
+  <line x1="550" y1="176" x2="706" y2="176" stroke="#DCD5C8" stroke-width="2.2"/>
+  <line x1="700" y1="176" x2="664" y2="396" stroke="#DCD5C8" stroke-width="1.4"/>
+  <circle cx="672" cy="290" r="3" fill="#7C6D5C" stroke="#7C6D5C" stroke-width="0.8"/>
+  <circle cx="616" cy="264" r="9" fill="#F0EBE2" stroke="#BFB4A4" stroke-width="1.0"/>
+  <path d="M 616,273 C 604,292 600,320 602,352 L 630,352 C 632,320 628,292 616,273 Z" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="608" y1="296" x2="592" y2="330" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="624" y1="296" x2="638" y2="328" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="606" y1="352" x2="600" y2="396" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="626" y1="352" x2="632" y2="396" stroke="#BFB4A4" stroke-width="0.9"/>
+  <text x="612" y="424" text-anchor="middle" font-size="5.8" letter-spacing="0" fill="#BFB4A4" font-weight="400">门 外 之 谁</text>
+  <rect x="250" y="330" width="190" height="12" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.3"/>
+  <line x1="266" y1="342" x2="266" y2="396" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="424" y1="342" x2="424" y2="396" stroke="#8C7B69" stroke-width="1.1"/>
+  <ellipse cx="300" cy="314" rx="17" ry="10" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <rect x="296" y="296" width="8" height="10" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <path d="M 304,306 C 314,304 316,296 312,290" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M 292,300 C 284,300 282,310 288,312" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <ellipse cx="360" cy="326" rx="27" ry="9" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <ellipse cx="360" cy="322" rx="12" ry="5" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <ellipse cx="410" cy="324" rx="11" ry="5" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M 399,324 C 395,320 395,328 401,326" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 421,324 C 425,320 425,328 419,326" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="446" y1="300" x2="496" y2="310" stroke="#25211D" stroke-width="1.4"/>
+  <ellipse cx="504" cy="314" rx="11" ry="5" fill="#F0EBE2" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="500" y1="318" x2="498" y2="323" stroke="#25211D" stroke-width="0.7"/>
+  <line x1="505" y1="319" x2="504" y2="324" stroke="#25211D" stroke-width="0.7"/>
+  <line x1="510" y1="318" x2="511" y2="323" stroke="#25211D" stroke-width="0.7"/>
+  <ellipse cx="522" cy="306" rx="24" ry="8" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.1"/>
+  <ellipse cx="522" cy="302" rx="9" ry="4" fill="#994433" stroke="#994433" stroke-width="0.9"/>
+  <text x="524" y="338" text-anchor="middle" font-size="6.0" letter-spacing="0" fill="#994433" font-weight="400">余 食 外 递</text>
+  <line x1="516" y1="342" x2="508" y2="318" stroke="#DCD5C8" stroke-width="0.8"/>
+  <circle cx="190" cy="297.6" r="7.6" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="190" y1="305.2" x2="190" y2="374.8" stroke="#25211D" stroke-width="1.32"/>
+  <line x1="190" y1="374.8" x2="182.58" y2="396" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="190" y1="374.8" x2="197.42" y2="396" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="190" y1="315.8" x2="174.1" y2="343.36" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="190" y1="315.8" x2="200.6" y2="339.12" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="215.44" y1="300.6" x2="219.68" y2="396" stroke="#25211D" stroke-width="1.2100000000000002"/>
+  <path d="M 215.44,300.6 C 210.14,294.6 219.68,293.6 221.8,300.6" fill="none" stroke="#25211D" stroke-width="0.9900000000000001"/>
+  <circle cx="168.8" cy="347.6" r="8.5" fill="#F0EBE2" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="168.8" y1="339.6" x2="177.28" y2="322.16" stroke="#25211D" stroke-width="0.9900000000000001"/>
+  <text x="190" y="420" text-anchor="middle" font-size="6.2" letter-spacing="0" fill="#25211D" font-weight="400">曾皙</text>
+  <path d="M 352,404 L 352,392 C 352,388 357,387 363,387 L 384,387 C 400,388 408,395 408,404 L 352,404 Z" fill="#FCFAF6" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="352" y1="404" x2="408" y2="404" stroke="#8C7B69" stroke-width="2.0"/>
+  <ellipse cx="371" cy="389" rx="7" ry="2.6" fill="none" stroke="#BFB4A4" stroke-width="0.7"/>
+  <path d="M 416,404 L 416,392 C 416,388 421,387 427,387 L 448,387 C 464,388 472,395 472,404 L 416,404 Z" fill="#FCFAF6" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="416" y1="404" x2="472" y2="404" stroke="#8C7B69" stroke-width="2.0"/>
+  <ellipse cx="435" cy="389" rx="7" ry="2.6" fill="none" stroke="#BFB4A4" stroke-width="0.7"/>
+  <text x="412" y="424" text-anchor="middle" font-size="5.8" letter-spacing="0" fill="#BFB4A4" font-weight="400">鞋尖朝外</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">事亲若曾子者，可也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 撤席的一问 · ch80a</text>
+</svg>

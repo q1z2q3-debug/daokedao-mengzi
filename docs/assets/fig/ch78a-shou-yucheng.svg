@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">手 与 秤</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》离娄上　第七十八章　MZ078</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">嫂溺援之以手　天下溺援之以道</text>
+  <line x1="80" y1="404" x2="240" y2="404" stroke="#8C7B69" stroke-width="1.4"/>
+  <rect x="236" y="348" width="176" height="56" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.1"/>
+  <path d="M 236,348 C 290,342 360,354 412,348" fill="none" stroke="#7C6D5C" stroke-width="1.3"/>
+  <path d="M 250,364 C 290,359 356,369 400,364" fill="none" stroke="#BFB4A4" stroke-width="0.8" stroke-dasharray="4,3"/>
+  <path d="M 250,377 C 290,372 356,382 400,377" fill="none" stroke="#BFB4A4" stroke-width="0.8" stroke-dasharray="4,3"/>
+  <path d="M 250,390 C 290,385 356,395 400,390" fill="none" stroke="#BFB4A4" stroke-width="0.8" stroke-dasharray="4,3"/>
+  <text x="96" y="344" text-anchor="start" font-size="6.2" letter-spacing="0" fill="#7C6D5C" font-weight="400">岸 上</text>
+  <circle cx="126" cy="286" r="9.4" fill="none" stroke="#25211D" stroke-width="1.3"/>
+  <line x1="126" y1="295" x2="126" y2="360" stroke="#25211D" stroke-width="1.4"/>
+  <path d="M 126,312 C 170,330 214,344 246,352" fill="none" stroke="#25211D" stroke-width="1.4"/>
+  <line x1="126" y1="360" x2="112" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="126" y1="360" x2="140" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <ellipse cx="252" cy="354" rx="9" ry="4.6" fill="#F0EBE2" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="252" y1="352" x2="246" y2="347" stroke="#25211D" stroke-width="0.7"/>
+  <text x="196" y="288" text-anchor="middle" font-size="5.8" letter-spacing="0" fill="#7C6D5C" font-weight="400">岸上之手</text>
+  <line x1="352" y1="404" x2="354" y2="356" stroke="#25211D" stroke-width="1.3"/>
+  <ellipse cx="354" cy="350" rx="9" ry="4.6" fill="#F0EBE2" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="351" y1="346" x2="351" y2="340" stroke="#25211D" stroke-width="0.7"/>
+  <line x1="354" y1="345" x2="354" y2="339" stroke="#25211D" stroke-width="0.7"/>
+  <line x1="357" y1="346" x2="357" y2="340" stroke="#25211D" stroke-width="0.7"/>
+  <path d="M 336,352 C 344,346 366,346 372,352" fill="none" stroke="#BFB4A4" stroke-width="0.8"/>
+  <text x="392" y="330" text-anchor="start" font-size="5.8" letter-spacing="0" fill="#994433" font-weight="400">水中之手</text>
+  <line x1="500" y1="200" x2="700" y2="200" stroke="#7C6D5C" stroke-width="1.6"/>
+  <circle cx="500" cy="200" r="4" fill="#25211D" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="700" y1="200" x2="700" y2="230" stroke="#8C7B69" stroke-width="1.0"/>
+  <rect x="684" y="230" width="32" height="22" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.1"/>
+  <text x="700" y="276" text-anchor="middle" font-size="6.2" letter-spacing="0" fill="#8C7B69" font-weight="400">物</text>
+  <line x1="600" y1="200" x2="600" y2="238" stroke="#8C7B69" stroke-width="1.0"/>
+  <path d="M 588,238 L 612,238 L 606,272 L 594,272 Z" fill="#F0EBE2" stroke="#994433" stroke-width="1.2"/>
+  <text x="600" y="288" text-anchor="middle" font-size="8.4" letter-spacing="2" fill="#994433" font-weight="400">权</text>
+  <line x1="556" y1="196" x2="656" y2="196" stroke="#BFB4A4" stroke-width="0.8" stroke-dasharray="3,3"/>
+  <text x="606" y="182" text-anchor="middle" font-size="6.2" letter-spacing="0" fill="#7C6D5C" font-weight="400">权而得中</text>
+  <text x="600" y="330" text-anchor="middle" font-size="5.8" letter-spacing="0" fill="#BFB4A4" font-weight="400">称过轻重　才取这一点</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">嫂溺援之以手者，权也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 手与秤 · ch78a</text>
+</svg>
