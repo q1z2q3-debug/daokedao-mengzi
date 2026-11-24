@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="6" fill="#25211D" font-weight="700">五 旬 与 箪 壶</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C">《孟子》梁惠王下　第十七章　MZ017</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="200" y="132" text-anchor="middle" font-size="26" letter-spacing="8" fill="#8C7B69">五旬</text>
+  <text x="200" y="156" text-anchor="middle" font-size="7" fill="#7C6D5C">人力不至于此</text>
+  <text x="600" y="132" text-anchor="middle" font-size="7.4" fill="#994433">取之而燕民悦，则取之</text>
+
+  <rect x="330" y="204" width="230" height="94" fill="#FCFAF6" stroke="#25211D" stroke-width="1.3"/>
+  <rect x="336" y="188" width="18" height="16" fill="#FCFAF6" stroke="#25211D" stroke-width="1"/>
+  <rect x="372" y="188" width="18" height="16" fill="#FCFAF6" stroke="#25211D" stroke-width="1"/>
+  <rect x="408" y="188" width="18" height="16" fill="#FCFAF6" stroke="#25211D" stroke-width="1"/>
+  <rect x="498" y="188" width="18" height="16" fill="#FCFAF6" stroke="#25211D" stroke-width="1"/>
+  <rect x="534" y="188" width="18" height="16" fill="#FCFAF6" stroke="#25211D" stroke-width="1"/>
+  <rect x="418" y="238" width="66" height="60" fill="#F0EBE2" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="418" y1="238" x2="386" y2="300" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="484" y1="238" x2="516" y2="300" stroke="#7C6D5C" stroke-width="1.1"/>
+  <text x="451" y="272" text-anchor="middle" font-size="6.6" fill="#25211D">城门不闭</text>
+
+  <circle cx="288" cy="242" r="10" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="288" y1="252" x2="288" y2="278" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="288" y1="278" x2="278" y2="298" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="288" y1="278" x2="298" y2="298" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="278" y1="272" x2="270" y2="256" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="298" y1="272" x2="306" y2="256" stroke="#7C6D5C" stroke-width="1.1"/>
+  <polygon points="266,238 310,238 306,262 270,262" fill="#FCFAF6" stroke="#994433" stroke-width="1.2"/>
+  <line x1="267" y1="248" x2="309" y2="248" stroke="#994433" stroke-width="0.7"/>
+  <line x1="269" y1="256" x2="307" y2="256" stroke="#994433" stroke-width="0.7"/>
+  <text x="288" y="228" text-anchor="middle" font-size="6.6" fill="#994433">箪食</text>
+
+  <circle cx="592" cy="242" r="10" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="592" y1="252" x2="592" y2="278" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="592" y1="278" x2="582" y2="298" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="592" y1="278" x2="602" y2="298" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="572" y1="272" x2="580" y2="258" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="612" y1="272" x2="604" y2="258" stroke="#7C6D5C" stroke-width="1.1"/>
+  <ellipse cx="592" cy="248" rx="15" ry="12" fill="#FCFAF6" stroke="#994433" stroke-width="1.2"/>
+  <line x1="592" y1="236" x2="592" y2="228" stroke="#994433" stroke-width="1"/>
+  <path d="M 592,228 C 600,226 604,230 602,234" fill="none" stroke="#994433" stroke-width="1"/>
+  <path d="M 606,244 C 614,242 616,252 610,256" fill="none" stroke="#994433" stroke-width="1"/>
+  <text x="592" y="216" text-anchor="middle" font-size="6.6" fill="#994433">壶浆</text>
+
+  <path d="M 96,376 C 136,366 176,366 216,376 C 256,386 296,386 336,376 C 366,368 390,368 404,374" fill="none" stroke="#8C7B69" stroke-width="1.2"/>
+  <path d="M 96,392 C 136,382 176,382 216,392 C 256,402 296,402 336,392 C 366,384 390,384 404,390" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <text x="300" y="424" text-anchor="middle" font-size="7.4" fill="#8C7B69">如水益深</text>
+
+  <line x1="468" y1="404" x2="694" y2="404" stroke="#BFB4A4" stroke-width="0.9"/>
+  <polygon points="506,404 514,378 522,404" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <polygon points="542,404 552,370 562,404" fill="none" stroke="#994433" stroke-width="1.2"/>
+  <polygon points="582,404 590,380 598,404" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <text x="660" y="392" text-anchor="middle" font-size="7.4" fill="#994433">如火益热</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D">人迎的是“水退了”，不是你。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 梁惠王下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 五旬与箪壶 · ch17a</text>
+</svg>

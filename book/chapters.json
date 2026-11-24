@@ -1,6 +1,6 @@
 {
  "book": "润泽说 道可道之孟子",
- "version": "0.6.0",
+ "version": "0.7.0",
  "count": 260,
  "volumes": [
   {
@@ -262,110 +262,110 @@
    "卷": "二",
    "篇": "梁惠王下",
    "章序": 8,
-   "章题": "",
+   "章题": "诛一夫",
    "file": null,
-   "page": null,
+   "page": "ch/mz015.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ016",
    "卷": "二",
    "篇": "梁惠王下",
    "章序": 9,
-   "章题": "",
+   "章题": "为巨室",
    "file": null,
-   "page": null,
+   "page": "ch/mz016.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ017",
    "卷": "二",
    "篇": "梁惠王下",
    "章序": 10,
-   "章题": "",
+   "章题": "五旬而举之",
    "file": null,
-   "page": null,
+   "page": "ch/mz017.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ018",
    "卷": "二",
    "篇": "梁惠王下",
    "章序": 11,
-   "章题": "",
+   "章题": "汤一征自葛始",
    "file": null,
-   "page": null,
+   "page": "ch/mz018.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ019",
    "卷": "二",
    "篇": "梁惠王下",
    "章序": 12,
-   "章题": "",
+   "章题": "出乎尔者反乎尔者",
    "file": null,
-   "page": null,
+   "page": "ch/mz019.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ020",
    "卷": "二",
    "篇": "梁惠王下",
    "章序": 13,
-   "章题": "",
+   "章题": "凿斯池也",
    "file": null,
-   "page": null,
+   "page": "ch/mz020.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ021",
    "卷": "二",
    "篇": "梁惠王下",
    "章序": 14,
-   "章题": "",
+   "章题": "强为善而已矣",
    "file": null,
-   "page": null,
+   "page": "ch/mz021.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ022",
    "卷": "二",
    "篇": "梁惠王下",
    "章序": 15,
-   "章题": "",
+   "章题": "不以其所以养人者害人",
    "file": null,
-   "page": null,
+   "page": "ch/mz022.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ023",
    "卷": "二",
    "篇": "梁惠王下",
    "章序": 16,
-   "章题": "",
+   "章题": "行止非人所能",
    "file": null,
-   "page": null,
+   "page": "ch/mz023.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ024",
    "卷": "三",
    "篇": "公孙丑上",
    "章序": 1,
-   "章题": "",
+   "章题": "以齐王犹反手",
    "file": null,
-   "page": null,
+   "page": "ch/mz024.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ025",

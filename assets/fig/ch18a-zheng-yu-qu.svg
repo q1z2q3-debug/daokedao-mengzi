@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="6" fill="#25211D" font-weight="700">征 与 取</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C">《孟子》梁惠王下　第十八章　MZ018</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="204" y="112" text-anchor="middle" font-size="8" letter-spacing="2" fill="#994433">征：诛其君，吊其民</text>
+  <text x="566" y="112" text-anchor="middle" font-size="8" letter-spacing="2" fill="#8C7B69">取：杀、系、毁、迁</text>
+
+  <path d="M 96,182 C 150,150 250,150 300,182" fill="none" stroke="#BFB4A4" stroke-width="1.2" stroke-dasharray="6 4"/>
+  <text x="200" y="142" text-anchor="middle" font-size="6.8" fill="#8C7B69">大旱之望云霓</text>
+
+  <rect x="96" y="230" width="52" height="34" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
+  <polygon points="96,230 104,218 140,218 148,230" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <rect x="160" y="230" width="52" height="34" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
+  <polygon points="160,230 168,218 204,218 212,230" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <rect x="224" y="230" width="52" height="34" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
+  <polygon points="224,230 232,218 268,218 276,230" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="186" y="288" text-anchor="middle" font-size="6.8" fill="#7C6D5C">归市者不止</text>
+
+  <path d="M 106,320 L 106,300 M 106,310 L 98,302 M 106,310 L 114,302" stroke="#7C6D5C" stroke-width="1"/>
+  <path d="M 150,320 L 150,298 M 150,310 L 142,302 M 150,310 L 158,302" stroke="#7C6D5C" stroke-width="1"/>
+  <path d="M 194,320 L 194,300 M 194,310 L 186,302 M 194,310 L 202,302" stroke="#7C6D5C" stroke-width="1"/>
+  <line x1="90" y1="320" x2="262" y2="320" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="186" y="340" text-anchor="middle" font-size="6.8" fill="#7C6D5C">耕者不变</text>
+
+  <line x1="380" y1="120" x2="380" y2="380" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="134" text-anchor="middle" font-size="6.8" fill="#8C7B69">分界</text>
+
+  <g transform="rotate(74 470 190)">
+    <circle cx="470" cy="168" r="8" fill="none" stroke="#8C7B69" stroke-width="1"/>
+    <line x1="470" y1="178" x2="470" y2="196" stroke="#8C7B69" stroke-width="1"/>
+    <line x1="470" y1="196" x2="462" y2="212" stroke="#8C7B69" stroke-width="1"/>
+    <line x1="470" y1="196" x2="478" y2="212" stroke="#8C7B69" stroke-width="1"/>
+  </g>
+  <text x="470" y="230" text-anchor="middle" font-size="6.5" fill="#8C7B69">杀其父兄</text>
+
+  <circle cx="552" cy="170" r="6" fill="none" stroke="#8C7B69" stroke-width="1"/>
+  <circle cx="584" cy="170" r="6" fill="none" stroke="#8C7B69" stroke-width="1"/>
+  <path d="M 544,182 C 548,174 556,174 560,180 C 568,172 578,174 582,180 C 588,174 592,178 592,186" fill="none" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="552" y1="176" x2="552" y2="196" stroke="#8C7B69" stroke-width="1"/>
+  <line x1="584" y1="176" x2="584" y2="196" stroke="#8C7B69" stroke-width="1"/>
+  <text x="566" y="230" text-anchor="middle" font-size="6.5" fill="#8C7B69">系累其子弟</text>
+
+  <path d="M 616,196 L 616,172 L 630,160 L 644,172 L 644,196" fill="none" stroke="#8C7B69" stroke-width="1"/>
+  <line x1="616" y1="172" x2="644" y2="172" stroke="#8C7B69" stroke-width="0.8"/>
+  <line x1="630" y1="196" x2="630" y2="172" stroke="#8C7B69" stroke-width="0.8"/>
+  <line x1="648" y1="200" x2="666" y2="184" stroke="#994433" stroke-width="0.9" stroke-dasharray="4 3"/>
+  <text x="636" y="230" text-anchor="middle" font-size="6.5" fill="#8C7B69">毁其宗庙</text>
+
+  <rect x="452" y="268" width="34" height="26" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1"/>
+  <line x1="480" y1="281" x2="514" y2="281" stroke="#8C7B69" stroke-width="1"/>
+  <polygon points="526,281 512,275 512,287" fill="#8C7B69"/>
+  <text x="490" y="312" text-anchor="middle" font-size="6.5" fill="#8C7B69">迁其重器</text>
+
+  <text x="566" y="360" text-anchor="middle" font-size="7" fill="#994433">谋于燕众</text>
+  <text x="566" y="376" text-anchor="middle" font-size="7" fill="#994433">置君而后去</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D">征是换他的君，取是换他的国。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 梁惠王下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 征与取 · ch18a</text>
+</svg>

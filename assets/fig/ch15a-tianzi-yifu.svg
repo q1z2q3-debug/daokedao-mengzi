@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="6" fill="#25211D" font-weight="700">天 子 与 一 夫</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C">《孟子》梁惠王下　第十五章　MZ015</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="196" y="112" text-anchor="middle" font-size="8" letter-spacing="2" fill="#994433">四海归之</text>
+  <text x="576" y="112" text-anchor="middle" font-size="8" letter-spacing="2" fill="#8C7B69">天下叛之</text>
+
+  <rect x="132" y="150" width="128" height="58" fill="#FCFAF6" stroke="#994433" stroke-width="1.4"/>
+  <text x="196" y="186" text-anchor="middle" font-size="15" letter-spacing="5" fill="#994433">天子</text>
+  <line x1="150" y1="208" x2="142" y2="232" stroke="#994433" stroke-width="1"/>
+  <line x1="196" y1="208" x2="196" y2="234" stroke="#994433" stroke-width="1"/>
+  <line x1="242" y1="208" x2="250" y2="232" stroke="#994433" stroke-width="1"/>
+
+  <g stroke="#994433" stroke-width="1" fill="none">
+    <circle cx="126" cy="258" r="6"/><circle cx="160" cy="262" r="6"/><circle cx="196" cy="264" r="6"/>
+    <circle cx="232" cy="262" r="6"/><circle cx="266" cy="258" r="6"/>
+    <line x1="126" y1="252" x2="130" y2="238"/><line x1="160" y1="256" x2="162" y2="240"/>
+    <line x1="196" y1="258" x2="196" y2="240"/><line x1="232" y1="256" x2="230" y2="240"/>
+    <line x1="266" y1="252" x2="262" y2="238"/>
+    <line x1="118" y1="252" x2="134" y2="252"/><line x1="152" y1="256" x2="168" y2="256"/>
+    <line x1="188" y1="258" x2="204" y2="258"/><line x1="224" y1="256" x2="240" y2="256"/>
+    <line x1="258" y1="252" x2="274" y2="252"/>
+  </g>
+  <text x="196" y="296" text-anchor="middle" font-size="7" fill="#7C6D5C">众手托之，位才立</text>
+
+  <g transform="rotate(16 576 176)">
+    <rect x="512" y="148" width="128" height="52" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.2" stroke-dasharray="5 4"/>
+    <text x="576" y="181" text-anchor="middle" font-size="14" letter-spacing="5" fill="#8C7B69">天子</text>
+  </g>
+  <circle cx="576" cy="252" r="13" fill="none" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="576" y1="265" x2="576" y2="306" stroke="#8C7B69" stroke-width="1.3"/>
+  <line x1="548" y1="284" x2="604" y2="284" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="576" y1="306" x2="560" y2="338" stroke="#8C7B69" stroke-width="1.3"/>
+  <line x1="576" y1="306" x2="592" y2="338" stroke="#8C7B69" stroke-width="1.3"/>
+  <text x="576" y="366" text-anchor="middle" font-size="7" fill="#7C6D5C">牌落了，人还在</text>
+
+  <line x1="266" y1="228" x2="544" y2="228" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="380" y="130" text-anchor="middle" font-size="7.4" letter-spacing="1" fill="#7C6D5C">诛一夫　非弑君</text>
+  <polygon points="486,268 472,206 500,206" fill="#FCFAF6" stroke="#994433" stroke-width="1.2"/>
+  <rect x="480" y="168" width="12" height="40" fill="#FCFAF6" stroke="#994433" stroke-width="1.1"/>
+  <line x1="474" y1="206" x2="498" y2="206" stroke="#994433" stroke-width="1.2"/>
+  <text x="512" y="240" font-size="6.6" fill="#994433">诛</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D">诛的是人，不是位子；位子是人给的。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 梁惠王下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 天子与一夫 · ch15a</text>
+</svg>
