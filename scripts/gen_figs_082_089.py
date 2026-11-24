@@ -1,0 +1,412 @@
+# -*- coding: utf-8 -*-
+"""离娄上 图 72–81（v0.14.0 二稿）
+用法：python3 scripts/gen_figs_072_081.py
+注意：P() 第五位才是 dash；画虚线须写 P(d, col, sw, "none", "x,y")。
+"""
+import os, math
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+FIG = os.path.join(ROOT, "assets", "fig")
+
+PAPER = "#F7F4EE"; INK = "#25211D"; ZHE = "#994433"; ZONG = "#7C6D5C"
+LINE = "#DCD5C8"; GREY = "#BFB4A4"; WARM = "#8C7B69"
+SOFT = "#F0EBE2"; PALE = "#FCFAF6"
+
+
+def T(x, y, s, size=6.6, fill=INK, anchor="middle", ls=0, weight="400"):
+    return (f'  <text x="{x}" y="{y}" text-anchor="{anchor}" font-size="{size}" '
+            f'letter-spacing="{ls}" fill="{fill}" font-weight="{weight}">{s}</text>')
+
+
+def L(x1, y1, x2, y2, col=INK, sw=1.2, dash=None):
+    d = f' stroke-dasharray="{dash}"' if dash else ''
+    return (f'  <line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{col}" '
+            f'stroke-width="{sw}"{d}/>')
+
+
+def P(d, col=INK, sw=1.2, fill="none", dash=None):
+    da = f' stroke-dasharray="{dash}"' if dash else ''
+    return f'  <path d="{d}" fill="{fill}" stroke="{col}" stroke-width="{sw}"{da}/>'
+
+
+def C(cx, cy, r, col=INK, sw=1.2, fill="none"):
+    return f'  <circle cx="{cx}" cy="{cy}" r="{r}" fill="{fill}" stroke="{col}" stroke-width="{sw}"/>'
+
+
+def E(cx, cy, rx, ry, col=INK, sw=1.2, fill="none"):
+    return (f'  <ellipse cx="{cx}" cy="{cy}" rx="{rx}" ry="{ry}" fill="{fill}" '
+            f'stroke="{col}" stroke-width="{sw}"/>')
+
+
+def R(x, y, w, hh, col=INK, sw=1.2, fill="none"):
+    return f'  <rect x="{x}" y="{y}" width="{w}" height="{hh}" fill="{fill}" stroke="{col}" stroke-width="{sw}"/>'
+
+
+def arrow(x1, y1, x2, y2, col=INK, sw=1.2, size=5):
+    ang = math.atan2(y2 - y1, x2 - x1)
+    p1 = (x2 + size * math.cos(ang + 2.6), y2 + size * math.sin(ang + 2.6))
+    p2 = (x2 + size * math.cos(ang - 2.6), y2 + size * math.sin(ang - 2.6))
+    return [L(x1, y1, x2, y2, col, sw),
+            P(f"M {p1[0]:.1f},{p1[1]:.1f} L {x2},{y2} L {p2[0]:.1f},{p2[1]:.1f}", col, sw * 0.9)]
+
+
+def stand(x, fy, H, col=INK, sw=1.2, arms="down"):
+    hr = max(5, H * 0.075)
+    top = fy - H
+    hy = top + hr * 2 + H * 0.12
+    o = [C(x, top + hr, hr, col, sw), L(x, top + hr * 2, x, fy - H * 0.24, col, sw * 1.25)]
+    if arms == "down":
+        o += [L(x, hy, x - H * 0.16, hy + H * 0.22, col, sw),
+              L(x, hy, x + H * 0.16, hy + H * 0.22, col, sw)]
+    elif arms == "point":
+        o += [L(x, hy, x - H * 0.16, hy + H * 0.2, col, sw),
+              L(x, hy, x + H * 0.5, hy + H * 0.06, col, sw)]
+    o += [L(x, fy - H * 0.24, x - H * 0.09, fy, col, sw), L(x, fy - H * 0.24, x + H * 0.09, fy, col, sw)]
+    return o
+
+
+def head_(t, sub, h):
+    return [
+        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 {h}" width="760" height="{h}" '
+        f'font-family="\'Noto Serif SC\',\'Songti SC\',\'Source Han Serif SC\',serif">',
+        f'  <rect x="0" y="0" width="760" height="{h}" fill="{PAPER}"/>',
+        f'  <rect x="10" y="10" width="740" height="{h-40}" fill="none" stroke="{LINE}" stroke-width="1"/>',
+        f'  <rect x="16" y="16" width="728" height="{h-52}" fill="none" stroke="{LINE}" stroke-width="0.6"/>',
+        T(380, 48, t, 21, INK, ls=5, weight="700"),
+        T(380, 68, sub, 10.5, ZONG, ls=2),
+        L(120, 80, 640, 80, LINE, 1),
+    ]
+
+
+def tail_(h, q, label, name, key):
+    return [
+        L(120, h - 104, 640, h - 104, LINE, 1),
+        T(380, h - 80, q, 8.6, INK, ls=2),
+        f'  <text x="120" y="{h-46}" font-size="5.6" fill="{ZONG}">孟子 · 离娄上</text>',
+        f'  <text x="640" y="{h-46}" text-anchor="end" font-size="5.6" fill="{ZONG}">{label} · {name} · {key}</text>',
+    ]
+
+
+def _flat(x):
+    out = []
+    for it in x:
+        if isinstance(it, (list, tuple)):
+            out.extend(_flat(it))
+        else:
+            out.append(it)
+    return out
+
+
+def save(name, lines):
+    s = "\n".join(_flat(lines)) + "\n</svg>\n"
+    with open(os.path.join(FIG, name), "w", encoding="utf-8") as f:
+        f.write(s)
+    print(name, len(s))
+
+
+def house(cx, base, w=104, hh=76, col=INK, sw=1.3):
+    left = cx - w / 2
+    return [P(f"M {left},{base} L {left},{base-hh} L {cx},{base-hh-34} L {left+w},{base-hh} L {left+w},{base}",
+              col, sw, fill=SOFT),
+            R(cx - 16, base - 56, 32, 56, col, sw * 0.9, fill=PALE)]
+
+
+def oldman(cx, base, H=100, col=INK, sw=1.1):
+    hr = 7.6
+    top = base - H
+    shoulder = top + hr * 2 + H * 0.1
+    o = [C(cx, top + hr, hr, col, sw), L(cx, top + hr * 2, cx, base - H * 0.2, col, sw * 1.2),
+         L(cx, base - H * 0.2, cx - H * 0.07, base, col, sw),
+         L(cx, base - H * 0.2, cx + H * 0.07, base, col, sw),
+         L(cx, shoulder, cx - H * 0.15, shoulder + H * 0.26, col, sw),
+         L(cx, shoulder, cx + H * 0.1, shoulder + H * 0.22, col, sw),
+         L(cx + H * 0.24, top + hr + 3, cx + H * 0.28, base, col, sw * 1.1),
+         P(f"M {cx+H*0.24},{top+hr+3} C {cx+H*0.19},{top+hr-3} {cx+H*0.28},{top+hr-4} {cx+H*0.30},{top+hr+3}",
+           col, sw * 0.9),
+         C(cx - H * 0.2, shoulder + H * 0.3, 8.5, col, sw, fill=SOFT),
+         L(cx - H * 0.2, shoulder + H * 0.3 - 8, cx - H * 0.12, shoulder + H * 0.06, col, sw * 0.9)]
+    return o
+
+
+def shoe(x, y, w=56, col=INK, sw=1.0):
+    """侧形鞋：厚底、后跟直、前掌斜下，鞋口一个小椭圆。"""
+    return [P(f"M {x},{y} L {x},{y-12} C {x},{y-16} {x+5},{y-17} {x+11},{y-17} "
+              f"L {x+w*0.58:.0f},{y-17} C {x+w*0.86:.0f},{y-16} {x+w},{y-9} {x+w},{y} L {x},{y} Z",
+              col, sw, fill=PALE),
+            L(x, y, x + w, y, WARM, 2.0),
+            f'  <ellipse cx="{x+19:.0f}" cy="{y-15}" rx="7" ry="2.6" fill="none" stroke="{GREY}" stroke-width="0.7"/>']
+
+
+def dou(x, y, w=84, hh=76):
+    """斗：上宽下窄的开口量器。"""
+    return [P(f"M {x},{y} L {x+w},{y} L {x+w*0.82},{y+hh} L {x+w*0.18},{y+hh} Z", ZONG, 1.6),
+            L(x, y, x + w, y, ZONG, 1.2)]
+
+
+
+def bowl(cx, cy, rw=88, rh=26, col=INK, sw=1.4):
+    """陶碗：口沿椭圆、腹壁、圈足。"""
+    return [E(cx, cy, rw, rh, col, sw, fill=SOFT),
+            P(f"M {cx-rw},{cy} C {cx-rw},{cy+rh*1.5} {cx-rw*0.55},{cy+rh*2.1} {cx},{cy+rh*2.1} "
+              f"C {cx+rw*0.55},{cy+rh*2.1} {cx+rw},{cy+rh*1.5} {cx+rw},{cy}", col, sw, fill=SOFT),
+            P(f"M {cx-rw*0.3},{cy+rh*2.1} L {cx-rw*0.24},{cy+rh*2.6} L {cx+rw*0.24},{cy+rh*2.6} "
+              f"L {cx+rw*0.3},{cy+rh*2.1}", col, sw * 0.9)]
+
+
+def desk(x, y, w=260, hh=12, col=WARM, sw=1.3):
+    return [R(x, y, w, hh, col, sw, fill=SOFT),
+            L(x + 14, y + hh, x + 14, y + 62, col, 1.1),
+            L(x + w - 14, y + hh, x + w - 14, y + 62, col, 1.1)]
+
+
+def slip(x, y, w=120, hh=26, col=WARM, sw=1.0):
+    """简册：横放的一卷，编绳两道。"""
+    return [R(x, y, w, hh, col, sw, fill=PALE),
+            L(x + 18, y, x + 18, y + hh, GREY, 0.6),
+            L(x + 40, y, x + 40, y + hh, GREY, 0.6),
+            L(x + 62, y, x + 62, y + hh, GREY, 0.6),
+            L(x + 84, y, x + 84, y + hh, GREY, 0.6),
+            L(x + 3, y + 7, x + w - 3, y + 7, ZONG, 0.7),
+            L(x + 3, y + hh - 7, x + w - 3, y + hh - 7, ZONG, 0.7)]
+
+
+def doufood(cx, base, H=86, col=ZONG, sw=1.2):
+    """豆：高足盘。"""
+    return [E(cx, base - H, 34, 10, col, sw, fill=SOFT),
+            P(f"M {cx-24},{base-H+8} C {cx-24},{base-H+34} {cx+24},{base-H+34} {cx+24},{base-H+8}",
+              col, sw, fill=SOFT),
+            L(cx, base - H + 34, cx, base - 12, col, sw * 1.1),
+            E(cx, base - 10, 20, 7, col, sw, fill=SOFT)]
+
+
+def child(cx, base, H=54, col=ZONG, sw=1.0):
+    hr = 4.6
+    top = base - H
+    return [C(cx, top + hr, hr, col, sw), L(cx, top + hr * 2, cx, base - H * 0.3, col, sw),
+            L(cx, base - H * 0.3, cx - 7, base, col, sw), L(cx, base - H * 0.3, cx + 7, base, col, sw),
+            L(cx, top + hr * 2 + 4, cx - 11, base - H * 0.45, col, sw * 0.9),
+            L(cx, top + hr * 2 + 4, cx + 11, base - H * 0.45, col, sw * 0.9)]
+
+
+# ---------------------------------------------------------- 82 誉与毁
+h = 540
+o = head_("誉 与 毁", "《孟子》离娄上　第八十二章　MZ082", h)
+o.append(T(380, 112, "有不虞之誉，有求全之毁", 6.6, GREY, ls=1))
+o += [L(120, 404, 640, 404, WARM, 1.3)]
+o += bowl(330, 296, 76, 22)
+o += [E(330, 296, 62, 16, ZONG, 0.7)]
+o += [T(330, 268, "一 只 好 碗", 6.4, ZONG)]
+# 无故而至的誉：三片落花，自上而下
+for (x, y, d) in ((258, 186, -26), (288, 204, 8), (316, 180, -14)):
+    ca, sa = math.cos(math.radians(d)), math.sin(math.radians(d))
+    o += [P(f"M {x-16*ca:.1f},{y-16*sa:.1f} C {x-6*sa:.1f},{y+6*ca:.1f} {x+6*sa:.1f},{y-6*ca:.1f} {x+16*ca:.1f},{y+16*sa:.1f} "
+            f"C {x-6*sa:.1f},{y+6*ca:.1f} {x-6*sa:.1f},{y+6*ca:.1f} {x-16*ca:.1f},{y-16*sa:.1f} Z", ZHE, 1.1, fill=PALE)]
+o += [P("M 288,146 L 288,160", GREY, 0.9, "none", "3,3")]
+o += [T(264, 232, "不 虞 之 誉", 6.8, ZHE, ls=2)]
+o += [arrow(292, 240, 306, 268, GREY, 0.9, size=4.0)]
+# 求全之毁：镜中放大一道细纹
+o += [C(556, 262, 34, ZONG, 1.4), L(580, 288, 616, 324, ZONG, 2.4)]
+o += [P("M 540,246 L 548,256 L 544,268 L 556,280", ZHE, 1.3)]
+o += [T(548, 216, "求 全 之 毁", 6.8, ZHE, ls=2), L(544, 224, 548, 240, LINE, 0.8)]
+o += [P("M 398,312 L 404,318 L 400,324 L 406,330", ZHE, 1.0)]
+o += [T(414, 338, "一道细纹", 5.6, GREY), L(412, 332, 404, 322, LINE, 0.7)]
+o += [T(380, 424, "誉来无端，毁来无隙", 6.2, GREY)]
+o += tail_(h, "有不虞之誉，有求全之毁。", "图一", "誉与毁", "ch82a")
+save("ch82a-yu-yu-hui.svg", o)
+
+# ---------------------------------------------------------- 83 话与镇纸
+h = 540
+o = head_("话 与 镇 纸", "《孟子》离娄上　第八十三章　MZ083", h)
+o.append(T(380, 112, "人之易其言也，无责耳矣", 6.6, GREY, ls=1))
+o += desk(100, 322, 230)
+o += desk(410, 322, 220)
+for (dx, dy) in ((4, -4), (40, -18), (76, -2)):
+    o += [P(f"M {112+dx},{300+dy} L {168+dx},{296+dy} L {170+dx},{316+dy} L {114+dx},{320+dy} Z",
+            ZONG, 0.9, fill=PALE),
+          L(120 + dx, 305 + dy, 158 + dx, 302 + dy, GREY, 0.6),
+          L(120 + dx, 310 + dy, 150 + dx, 308 + dy, GREY, 0.6)]
+o += [T(215, 358, "散在案上，无人接住", 5.8, GREY)]
+# 镇纸：一块有厚度的石，横压在一页纸上
+o += [P("M 438,300 L 502,294 L 506,316 L 442,322 Z", ZONG, 0.9, fill=PALE),
+      L(448, 306, 496, 302, GREY, 0.6), L(448, 313, 488, 309, GREY, 0.6)]
+o += [P("M 434,288 L 508,282 L 511,297 L 437,303 Z", ZHE, 1.3, fill=SOFT),
+      L(434, 288, 437, 303, ZHE, 0.9), L(508, 282, 511, 297, ZHE, 0.9)]
+o += [T(478, 268, "镇 纸 · 责", 7.2, ZHE, ls=2)]
+o += arrow(348, 300, 400, 300, GREY, 0.9, size=5.0)
+o += [T(578, 296, "话被压住", 5.8, ZHE), L(570, 300, 512, 306, LINE, 0.8)]
+o += [T(520, 358, "有责，则不敢易", 5.8, GREY)]
+o += [T(380, 424, "话轻，因为没人接住它", 6.2, GREY)]
+o += tail_(h, "人之易其言也，无责耳矣。", "图一", "话与镇纸", "ch83a")
+save("ch83a-hua-yu-zhenzhi.svg", o)
+
+# ---------------------------------------------------------- 84 人与空席
+h = 540
+o = head_("人 与 空 席", "《孟子》离娄上　第八十四章　MZ084", h)
+o.append(T(380, 112, "人之患在好为人师", 6.6, GREY, ls=1))
+o += [L(96, 404, 664, 404, WARM, 1.3)]
+# 讲台
+o += [R(286, 296, 150, 14, ZONG, 1.3, fill=SOFT),
+      L(302, 310, 302, 404, ZONG, 1.1), L(420, 310, 420, 404, ZONG, 1.1),
+      R(316, 348, 90, 8, GREY, 0.9)]
+o += [C(360, 196, 11, INK, 1.4), L(360, 207, 360, 268, INK, 1.5),
+      L(360, 268, 348, 296, INK, 1.2), L(360, 268, 372, 296, INK, 1.2),
+      L(360, 226, 340, 244, INK, 1.2), L(360, 226, 396, 252, INK, 1.3)]
+o += [L(396, 252, 496, 366, INK, 1.1), L(490, 362, 496, 372, INK, 0.9), L(496, 372, 502, 364, INK, 0.9)]
+# 空席
+o += [P("M 456,404 L 574,404 L 556,378 L 474,378 Z", ZONG, 1.2, fill=PALE)]
+for i in range(1, 4):
+    o.append(L(470 + i * 22, 378, 462 + i * 22, 404, GREY, 0.6, "4,3"))
+o += [L(474, 391, 556, 391, GREY, 0.9, "4,3")]
+o += [T(514, 424, "席上无人", 6.0, GREY)]
+o += [T(360, 176, "站在台上", 5.8, ZONG)]
+o += [T(380, 130, "患", 9.4, ZHE, ls=5)]
+o += tail_(h, "人之患在好为人师。", "图一", "人与空席", "ch84a")
+save("ch84a-ren-yu-ying.svg", o)
+
+# ---------------------------------------------------------- 85 车与舍馆
+h = 540
+o = head_("车 与 舍 馆", "《孟子》离娄上　第八十五章　MZ085", h)
+o.append(T(380, 112, "子来几日矣　舍馆未定", 6.6, GREY, ls=1))
+o += [L(70, 404, 690, 404, WARM, 1.3)]
+o += [C(168, 366, 25, INK, 1.3), C(168, 366, 4, INK, 1.0, fill=INK),
+      C(258, 366, 25, INK, 1.3), C(258, 366, 4, INK, 1.0, fill=INK)]
+for cx in (168, 258):
+    for ang in (0, 45, 90, 135):
+        dx, dy = 24 * math.cos(math.radians(ang)), 24 * math.sin(math.radians(ang))
+        o += [L(cx - dx, 366 - dy, cx + dx, 366 + dy, GREY, 0.6)]
+o += [R(156, 296, 116, 52, ZONG, 1.4, fill=SOFT),
+      L(156, 312, 272, 312, ZONG, 0.9),
+      L(156, 330, 272, 330, GREY, 0.7, "5,3")]
+o += [L(156, 322, 76, 330, ZONG, 2.0), L(76, 322, 76, 338, ZONG, 1.4)]
+o += child(316, 404, 62, GREY, 0.9)
+o += [T(316, 424, "乐正子", 5.8, GREY)]
+# 舍馆
+o += [L(470, 232, 470, 396, LINE, 2.2), L(612, 232, 612, 396, LINE, 2.2), L(462, 232, 620, 232, LINE, 2.2)]
+o += [R(478, 320, 128, 72, WARM, 1.2, fill=SOFT), L(542, 320, 542, 392, WARM, 1.0),
+      L(478, 330, 606, 330, WARM, 1.0)]
+o += [T(542, 306, "舍 馆 未 定", 6.2, ZONG, ls=2), L(542, 310, 542, 318, LINE, 0.8)]
+# 三日刻痕
+for i in range(3):
+    x = 372 + i * 24
+    o += [L(x, 404, x, 396, GREY, 0.9), T(x, 390, "日", 5.4, GREY)]
+o += [T(470, 424, "路走完了，礼还没走", 5.8, GREY)]
+o += tail_(h, "子闻之也，舍馆定，然后求见长者乎？", "图一", "车与舍馆", "ch85a")
+save("ch85a-che-yu-sheguan.svg", o)
+
+# ---------------------------------------------------------- 86 饭压书
+h = 540
+o = head_("饭 压 书", "《孟子》离娄上　第八十六章　MZ086", h)
+o.append(T(380, 112, "子之从于子敖来，徒餔啜也", 6.6, GREY, ls=1))
+o += desk(180, 348, 400, 14)
+o += [R(248, 306, 260, 42, WARM, 1.0, fill=PALE)]
+for i in range(1, 11):
+    o.append(L(248 + i * 23, 306, 248 + i * 23, 348, ZONG, 0.7))
+o += [L(250, 316, 506, 316, ZONG, 1.0), L(250, 338, 506, 338, ZONG, 1.0)]
+# 簋：腹 + 口沿 + 腹中饭 + 圈足（压在简册上）
+o += [P("M 328,266 C 328,288 346,300 368,300 C 390,300 408,288 408,266", ZONG, 1.3, fill=SOFT),
+      P("M 340,264 C 352,252 384,252 396,264", ZONG, 1.0, fill=SOFT),
+      E(368, 266, 40, 12, ZONG, 1.4, fill="none")]
+o += [P("M 336,266 C 344,250 392,250 400,266 Z", ZONG, 0.9, fill=PALE)]
+o += [P("M 352,300 L 346,306 L 390,306 L 384,300", ZONG, 1.2)]
+o += [T(368, 238, "餔 啜", 6.6, ZHE, ls=3), L(368, 244, 368, 252, LINE, 0.8)]
+o += [T(240, 300, "简册", 5.8, ZONG, anchor="end")]
+o += [T(380, 424, "古之道，不换一顿饭", 6.2, GREY)]
+o += tail_(h, "我不意子学古之道而以餔啜也。", "图一", "饭压书", "ch86a")
+save("ch86a-fan-ya-shu.svg", o)
+
+# ---------------------------------------------------------- 87 三炷香
+h = 540
+o = head_("三 炷 香", "《孟子》离娄上　第八十七章　MZ087", h)
+o.append(T(380, 112, "不孝有三，无后为大", 6.6, GREY, ls=1))
+o += [L(120, 404, 640, 404, WARM, 1.3)]
+# 香炉
+o += [E(380, 336, 66, 17, ZONG, 1.4, fill=SOFT),
+      P("M 314,336 C 314,368 350,382 380,382 C 410,382 446,368 446,336", ZONG, 1.3, fill=SOFT),
+      L(344, 380, 336, 404, ZONG, 1.2), L(380, 382, 380, 404, ZONG, 1.2), L(416, 380, 424, 404, ZONG, 1.2)]
+o += [E(380, 336, 44, 9, PALE, 0.8, fill=PALE)]
+# 前两炷：燃着
+for x in (356, 380):
+    o += [L(x, 336, x, 214, WARM, 1.6)]
+    o += [C(x, 210, 3.2, ZHE, 1.0, fill=ZHE)]
+    o += [P(f"M {x},{200} C {x-8},192 {x+8},184 {x},176", GREY, 0.7, "none", "3,3")]
+# 第三炷：只剩一截香脚，上面那一段空着（虚线示其位）
+o += [L(404, 336, 404, 306, WARM, 1.6)]
+o += [L(404, 300, 404, 216, GREY, 0.7, "4,4")]
+o += [L(396, 208, 412, 224, ZHE, 1.1), L(412, 208, 396, 224, ZHE, 1.1)]
+o += [T(444, 262, "断", 7.2, ZHE, ls=3), L(414, 258, 412, 232, LINE, 0.8)]
+o += [T(380, 424, "香火断在哪一炷上", 6.0, GREY)]
+o += tail_(h, "不孝有三，无后为大。", "图一", "三炷香", "ch87a")
+save("ch87a-san-yu-yi.svg", o)
+
+# ---------------------------------------------------------- 88 一株树
+h = 540
+o = head_("一 株 树", "《孟子》离娄上　第八十八章　MZ088", h)
+o.append(T(380, 112, "仁之实，事亲是也；义之实，从兄是也", 6.4, GREY, ls=1))
+o += [L(96, 372, 640, 372, WARM, 1.4)]
+o += [P("M 380,372 L 380,232", ZONG, 7.0),
+      P("M 380,372 C 352,380 334,392 320,404", ZONG, 2.6),
+      P("M 380,372 C 408,380 426,392 440,404", ZONG, 2.6),
+      P("M 380,372 L 380,404", ZONG, 2.8)]
+o += [P("M 380,300 C 346,286 326,268 312,244", ZONG, 3.6), P("M 380,300 C 414,286 434,268 448,244", ZONG, 3.6)]
+o += [P("M 380,262 C 358,250 344,238 332,222", ZONG, 2.8), P("M 380,262 C 402,250 416,238 428,222", ZONG, 2.8)]
+# 叶：两端尖的杏仁形
+def leaf(cx, cy, ang, sz=13):
+    ca, sa = math.cos(math.radians(ang)), math.sin(math.radians(ang))
+    x1, y1 = cx - sz * ca, cy - sz * sa
+    x2, y2 = cx + sz * ca, cy + sz * sa
+    px, py = -sz * 0.42 * sa, sz * 0.42 * ca
+    return P(f"M {x1:.1f},{y1:.1f} C {cx+px:.1f},{cy+py:.1f} {cx+px:.1f},{cy+py:.1f} {x2:.1f},{y2:.1f} "
+             f"C {cx-px:.1f},{cy-py:.1f} {cx-px:.1f},{cy-py:.1f} {x1:.1f},{y1:.1f}", ZHE, 1.1, fill=PALE)
+o += [leaf(312, 240, -32), leaf(322, 226, -18), leaf(306, 226, -48)]
+o += [leaf(448, 240, 32), leaf(438, 226, 18), leaf(454, 226, 48)]
+o += [leaf(332, 218, -70), leaf(344, 206, -60)]
+o += [leaf(428, 218, 70), leaf(416, 206, 60)]
+o += [leaf(380, 200, 90)]
+o += [T(380, 182, "乐", 7.6, ZHE, ls=3)]
+o += [T(292, 206, "智", 6.8, ZONG), T(468, 206, "礼", 6.8, ZONG)]
+o += [T(396, 256, "从兄", 6.4, ZONG, anchor="start")]
+o += [T(300, 390, "事亲", 7.0, ZONG, ls=2)]
+o += [T(380, 424, "根不深，枝不活", 6.0, GREY)]
+o += [C(560, 352, 7, INK, 1.1), L(560, 359, 560, 388, INK, 1.1),
+      L(560, 388, 550, 400, INK, 1.0), L(560, 388, 570, 400, INK, 1.0),
+      L(560, 366, 546, 354, INK, 1.0), L(560, 366, 574, 352, INK, 1.0)]
+o += [C(608, 358, 6.4, INK, 1.0), L(608, 364, 608, 390, INK, 1.0),
+      L(608, 390, 600, 400, INK, 0.9), L(608, 390, 616, 400, INK, 0.9),
+      L(608, 370, 596, 360, INK, 0.9), L(608, 370, 620, 358, INK, 0.9)]
+o += [T(584, 424, "足之蹈之，手之舞之", 5.8, GREY)]
+o += tail_(h, "乐则生矣，生则恶可已也。", "图一", "一株树", "ch88a")
+save("ch88a-yizhu-shu.svg", o)
+
+# ---------------------------------------------------------- 89 草芥与一饭
+h = 540
+o = head_("草 芥 与 一 饭", "《孟子》离娄上　第八十九章　MZ089", h)
+o.append(T(380, 112, "视天下悦而归己，犹草芥也", 6.4, GREY, ls=1))
+o += [L(96, 404, 690, 404, WARM, 1.3)]
+# 天下：脚边一小片界画的田
+o += [R(130, 376, 96, 28, ZONG, 0.8, fill=SOFT)]
+for i in range(1, 3):
+    o.append(L(130 + i * 32, 376, 130 + i * 32, 404, ZONG, 0.5))
+o += [T(178, 368, "天下", 6.0, ZONG, ls=2)]
+# 草芥：手中拈着的一撮
+o += [P("M 340,314 C 334,328 332,336 334,346", ZHE, 1.3),
+      P("M 340,314 C 342,328 348,338 356,346", ZHE, 1.3),
+      P("M 340,314 C 348,324 358,330 368,332", ZHE, 1.2)]
+o += [T(316, 300, "草 芥", 6.4, ZHE, ls=2, anchor="end"), L(320, 304, 336, 312, LINE, 0.8)]
+# 舜：一手拈草，一手捧饭
+o += [C(380, 226, 11, INK, 1.4), L(380, 237, 380, 320, INK, 1.5),
+      L(380, 320, 362, 404, INK, 1.2), L(380, 320, 398, 404, INK, 1.2),
+      L(380, 264, 412, 288, INK, 1.2), L(412, 288, 434, 304, INK, 1.2),
+      L(380, 264, 352, 292, INK, 1.2), L(352, 292, 340, 312, INK, 1.2)]
+o += [E(462, 312, 26, 9, ZONG, 1.3, fill=SOFT),
+      P("M 438,309 C 450,300 478,300 486,309", ZHE, 1.2, fill=SOFT)]
+o += [T(462, 290, "一 饭", 6.0, ZHE)]
+# 瞽瞍：坐受
+o += [C(614, 274, 10, GREY, 1.2), L(614, 284, 614, 340, GREY, 1.3),
+      L(614, 340, 590, 356, GREY, 1.1), L(614, 340, 640, 348, GREY, 1.1),
+      L(614, 298, 596, 300, GREY, 1.0), L(596, 300, 586, 304, GREY, 1.0),
+      L(614, 298, 632, 316, GREY, 1.0),
+      P("M 566,404 L 660,404 L 654,378 L 574,378 Z", ZONG, 1.0, fill=PALE)]
+o += [T(614, 424, "瞽瞍厎豫", 5.8, GREY)]
+o += [T(380, 424, "天下放下了，饭捧起来了", 6.0, GREY)]
+o += tail_(h, "瞽瞍厎豫而天下之父子定。此之谓大孝。", "图一", "草芥与一饭", "ch89a")
+save("ch89a-caojie-yi-fan.svg", o)

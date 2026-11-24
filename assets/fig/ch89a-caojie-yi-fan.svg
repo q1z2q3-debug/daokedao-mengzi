@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">草 芥 与 一 饭</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》离娄上　第八十九章　MZ089</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">视天下悦而归己，犹草芥也</text>
+  <line x1="96" y1="404" x2="690" y2="404" stroke="#8C7B69" stroke-width="1.3"/>
+  <rect x="130" y="376" width="96" height="28" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="162" y1="376" x2="162" y2="404" stroke="#7C6D5C" stroke-width="0.5"/>
+  <line x1="194" y1="376" x2="194" y2="404" stroke="#7C6D5C" stroke-width="0.5"/>
+  <text x="178" y="368" text-anchor="middle" font-size="6.0" letter-spacing="2" fill="#7C6D5C" font-weight="400">天下</text>
+  <path d="M 340,314 C 334,328 332,336 334,346" fill="none" stroke="#994433" stroke-width="1.3"/>
+  <path d="M 340,314 C 342,328 348,338 356,346" fill="none" stroke="#994433" stroke-width="1.3"/>
+  <path d="M 340,314 C 348,324 358,330 368,332" fill="none" stroke="#994433" stroke-width="1.2"/>
+  <text x="316" y="300" text-anchor="end" font-size="6.4" letter-spacing="2" fill="#994433" font-weight="400">草 芥</text>
+  <line x1="320" y1="304" x2="336" y2="312" stroke="#DCD5C8" stroke-width="0.8"/>
+  <circle cx="380" cy="226" r="11" fill="none" stroke="#25211D" stroke-width="1.4"/>
+  <line x1="380" y1="237" x2="380" y2="320" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="380" y1="320" x2="362" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="380" y1="320" x2="398" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="380" y1="264" x2="412" y2="288" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="412" y1="288" x2="434" y2="304" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="380" y1="264" x2="352" y2="292" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="352" y1="292" x2="340" y2="312" stroke="#25211D" stroke-width="1.2"/>
+  <ellipse cx="462" cy="312" rx="26" ry="9" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.3"/>
+  <path d="M 438,309 C 450,300 478,300 486,309" fill="#F0EBE2" stroke="#994433" stroke-width="1.2"/>
+  <text x="462" y="290" text-anchor="middle" font-size="6.0" letter-spacing="0" fill="#994433" font-weight="400">一 饭</text>
+  <circle cx="614" cy="274" r="10" fill="none" stroke="#BFB4A4" stroke-width="1.2"/>
+  <line x1="614" y1="284" x2="614" y2="340" stroke="#BFB4A4" stroke-width="1.3"/>
+  <line x1="614" y1="340" x2="590" y2="356" stroke="#BFB4A4" stroke-width="1.1"/>
+  <line x1="614" y1="340" x2="640" y2="348" stroke="#BFB4A4" stroke-width="1.1"/>
+  <line x1="614" y1="298" x2="596" y2="300" stroke="#BFB4A4" stroke-width="1.0"/>
+  <line x1="596" y1="300" x2="586" y2="304" stroke="#BFB4A4" stroke-width="1.0"/>
+  <line x1="614" y1="298" x2="632" y2="316" stroke="#BFB4A4" stroke-width="1.0"/>
+  <path d="M 566,404 L 660,404 L 654,378 L 574,378 Z" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="614" y="424" text-anchor="middle" font-size="5.8" letter-spacing="0" fill="#BFB4A4" font-weight="400">瞽瞍厎豫</text>
+  <text x="380" y="424" text-anchor="middle" font-size="6.0" letter-spacing="0" fill="#BFB4A4" font-weight="400">天下放下了，饭捧起来了</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">瞽瞍厎豫而天下之父子定。此之谓大孝。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 草芥与一饭 · ch89a</text>
+</svg>

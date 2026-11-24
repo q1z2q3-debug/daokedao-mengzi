@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">车 与 舍 馆</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》离娄上　第八十五章　MZ085</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">子来几日矣　舍馆未定</text>
+  <line x1="70" y1="404" x2="690" y2="404" stroke="#8C7B69" stroke-width="1.3"/>
+  <circle cx="168" cy="366" r="25" fill="none" stroke="#25211D" stroke-width="1.3"/>
+  <circle cx="168" cy="366" r="4" fill="#25211D" stroke="#25211D" stroke-width="1.0"/>
+  <circle cx="258" cy="366" r="25" fill="none" stroke="#25211D" stroke-width="1.3"/>
+  <circle cx="258" cy="366" r="4" fill="#25211D" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="144.0" y1="366.0" x2="192.0" y2="366.0" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="151.02943725152286" y1="349.02943725152284" x2="184.97056274847714" y2="382.97056274847716" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="168.0" y1="342.0" x2="168.0" y2="390.0" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="184.97056274847714" y1="349.02943725152284" x2="151.02943725152286" y2="382.97056274847716" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="234.0" y1="366.0" x2="282.0" y2="366.0" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="241.02943725152286" y1="349.02943725152284" x2="274.97056274847716" y2="382.97056274847716" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="258.0" y1="342.0" x2="258.0" y2="390.0" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="274.97056274847716" y1="349.02943725152284" x2="241.02943725152286" y2="382.97056274847716" stroke="#BFB4A4" stroke-width="0.6"/>
+  <rect x="156" y="296" width="116" height="52" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.4"/>
+  <line x1="156" y1="312" x2="272" y2="312" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="156" y1="330" x2="272" y2="330" stroke="#BFB4A4" stroke-width="0.7" stroke-dasharray="5,3"/>
+  <line x1="156" y1="322" x2="76" y2="330" stroke="#7C6D5C" stroke-width="2.0"/>
+  <line x1="76" y1="322" x2="76" y2="338" stroke="#7C6D5C" stroke-width="1.4"/>
+  <circle cx="316" cy="346.6" r="4.6" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="316" y1="351.2" x2="316" y2="385.4" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="316" y1="385.4" x2="309" y2="404" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="316" y1="385.4" x2="323" y2="404" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="316" y1="355.2" x2="305" y2="376.1" stroke="#BFB4A4" stroke-width="0.81"/>
+  <line x1="316" y1="355.2" x2="327" y2="376.1" stroke="#BFB4A4" stroke-width="0.81"/>
+  <text x="316" y="424" text-anchor="middle" font-size="5.8" letter-spacing="0" fill="#BFB4A4" font-weight="400">乐正子</text>
+  <line x1="470" y1="232" x2="470" y2="396" stroke="#DCD5C8" stroke-width="2.2"/>
+  <line x1="612" y1="232" x2="612" y2="396" stroke="#DCD5C8" stroke-width="2.2"/>
+  <line x1="462" y1="232" x2="620" y2="232" stroke="#DCD5C8" stroke-width="2.2"/>
+  <rect x="478" y="320" width="128" height="72" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="542" y1="320" x2="542" y2="392" stroke="#8C7B69" stroke-width="1.0"/>
+  <line x1="478" y1="330" x2="606" y2="330" stroke="#8C7B69" stroke-width="1.0"/>
+  <text x="542" y="306" text-anchor="middle" font-size="6.2" letter-spacing="2" fill="#7C6D5C" font-weight="400">舍 馆 未 定</text>
+  <line x1="542" y1="310" x2="542" y2="318" stroke="#DCD5C8" stroke-width="0.8"/>
+  <line x1="372" y1="404" x2="372" y2="396" stroke="#BFB4A4" stroke-width="0.9"/>
+  <text x="372" y="390" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">日</text>
+  <line x1="396" y1="404" x2="396" y2="396" stroke="#BFB4A4" stroke-width="0.9"/>
+  <text x="396" y="390" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">日</text>
+  <line x1="420" y1="404" x2="420" y2="396" stroke="#BFB4A4" stroke-width="0.9"/>
+  <text x="420" y="390" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">日</text>
+  <text x="470" y="424" text-anchor="middle" font-size="5.8" letter-spacing="0" fill="#BFB4A4" font-weight="400">路走完了，礼还没走</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">子闻之也，舍馆定，然后求见长者乎？</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 车与舍馆 · ch85a</text>
+</svg>
