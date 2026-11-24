@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">养 与 弃</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》离娄下　第九十七章　MZ097</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">中也养不中，才也养不才</text>
+  <line x1="96" y1="404" x2="664" y2="404" stroke="#8C7B69" stroke-width="1.3"/>
+  <path d="M 196,404 L 202,392 C 210,386 250,386 258,392 L 264,404 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="230" y1="396" x2="230" y2="346" stroke="#7C6D5C" stroke-width="1.6"/>
+  <path d="M 203.4,346.1 C 218.6,345.3 218.6,345.3 228.6,333.9 C 213.4,334.7 213.4,334.7 203.4,346.1" fill="#FCFAF6" stroke="#994433" stroke-width="1.1"/>
+  <path d="M 231.4,331.9 C 241.4,343.3 241.4,343.3 256.6,344.1 C 246.6,332.7 246.6,332.7 231.4,331.9" fill="#FCFAF6" stroke="#994433" stroke-width="1.1"/>
+  <line x1="230" y1="396" x2="230" y2="372" stroke="#BFB4A4" stroke-width="0.6" stroke-dasharray="4,3"/>
+  <path d="M 198,318 C 194,328 198,336 202,334 C 206,332 204,324 198,318 Z" fill="none" stroke="#BFB4A4" stroke-width="0.8"/>
+  <path d="M 216,300 C 212,310 216,318 220,316 C 224,314 222,306 216,300 Z" fill="none" stroke="#BFB4A4" stroke-width="0.8"/>
+  <text x="230" y="424" text-anchor="middle" font-size="5.8" letter-spacing="0" fill="#BFB4A4" font-weight="400">养：涵育熏陶，俟其自化</text>
+  <line x1="472" y1="398" x2="556" y2="392" stroke="#7C6D5C" stroke-width="1.5"/>
+  <path d="M 514.1,371.4 C 502.7,381.4 502.7,381.4 501.9,396.6 C 513.3,386.6 513.3,386.6 514.1,371.4" fill="#FCFAF6" stroke="#994433" stroke-width="1.1"/>
+  <path d="M 537.4,393.6 C 539.7,378.6 539.7,378.6 530.6,366.4 C 528.3,381.4 528.3,381.4 537.4,393.6" fill="#FCFAF6" stroke="#994433" stroke-width="1.1"/>
+  <line x1="472" y1="398" x2="456" y2="390" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="472" y1="398" x2="458" y2="404" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="478" y1="396" x2="466" y2="384" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="520" y="424" text-anchor="middle" font-size="5.8" letter-spacing="0" fill="#BFB4A4" font-weight="400">弃：遽绝之而不教</text>
+  <line x1="296" y1="368" x2="424" y2="368" stroke="#7C6D5C" stroke-width="2.4"/>
+  <line x1="296" y1="362" x2="296" y2="374" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="424" y1="362" x2="424" y2="374" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="340" y1="362" x2="340" y2="374" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="384" y1="362" x2="384" y2="374" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="360" y="352" text-anchor="middle" font-size="6.0" letter-spacing="2" fill="#994433" font-weight="400">不能以寸</text>
+  <text x="380" y="322" text-anchor="middle" font-size="6.0" letter-spacing="0" fill="#BFB4A4" font-weight="400">贤与不肖，其间几何</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">中也养不中，才也养不才。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 养与弃 · ch97a</text>
+</svg>

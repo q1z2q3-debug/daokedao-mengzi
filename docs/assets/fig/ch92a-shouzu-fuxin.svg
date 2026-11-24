@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">手 足 · 腹 心</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》离娄下　第九十二章　MZ092</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">君之视臣如手足，则臣视君如腹心</text>
+  <text x="210" y="132" text-anchor="middle" font-size="7.0" letter-spacing="3" fill="#7C6D5C" font-weight="400">君 视 臣</text>
+  <text x="550" y="132" text-anchor="middle" font-size="7.0" letter-spacing="3" fill="#7C6D5C" font-weight="400">臣 视 君</text>
+  <path d="M 196,202 C 188,186 196,174 210,174 C 224,174 232,186 224,202 Z" fill="#FCFAF6" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="200" y1="174" x2="200" y2="156" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="207" y1="174" x2="207" y2="152" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="214" y1="174" x2="214" y2="153" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="221" y1="174" x2="221" y2="158" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="197" y1="188" x2="183" y2="178" stroke="#25211D" stroke-width="1.0"/>
+  <path d="M 550,194 C 532,180 534,164 550,172 C 566,164 568,180 550,194 Z" fill="#F0EBE2" stroke="#994433" stroke-width="1.2"/>
+  <line x1="300" y1="180" x2="470" y2="180" stroke="#BFB4A4" stroke-width="1.0"/>
+  <path d="M 466.6,182.1 L 470,180 L 466.6,177.9" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <text x="210" y="230" text-anchor="middle" font-size="6.6" letter-spacing="2" fill="#7C6D5C" font-weight="400">手足</text>
+  <text x="550" y="230" text-anchor="middle" font-size="6.6" letter-spacing="2" fill="#7C6D5C" font-weight="400">腹心</text>
+  <ellipse cx="214" cy="270" rx="22" ry="9" fill="#FCFAF6" stroke="#25211D" stroke-width="1.0"/>
+  <circle cx="190" cy="262" r="7" fill="#FCFAF6" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="188" y1="256" x2="184" y2="246" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="202" y1="279" x2="202" y2="294" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="210" y1="280" x2="210" y2="294" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="220" y1="280" x2="220" y2="294" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="228" y1="279" x2="228" y2="294" stroke="#25211D" stroke-width="1.0"/>
+  <path d="M 234,268 C 246,266 248,254 240,250" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <circle cx="526" cy="252" r="5.6" fill="none" stroke="#BFB4A4" stroke-width="0.8"/>
+  <line x1="526" y1="258" x2="526" y2="282" stroke="#BFB4A4" stroke-width="0.8"/>
+  <line x1="526" y1="282" x2="520" y2="294" stroke="#BFB4A4" stroke-width="0.8"/>
+  <line x1="526" y1="282" x2="532" y2="294" stroke="#BFB4A4" stroke-width="0.8"/>
+  <circle cx="568" cy="252" r="5.6" fill="none" stroke="#BFB4A4" stroke-width="0.8"/>
+  <line x1="568" y1="258" x2="568" y2="282" stroke="#BFB4A4" stroke-width="0.8"/>
+  <line x1="568" y1="282" x2="562" y2="294" stroke="#BFB4A4" stroke-width="0.8"/>
+  <line x1="568" y1="282" x2="574" y2="294" stroke="#BFB4A4" stroke-width="0.8"/>
+  <line x1="538" y1="270" x2="558" y2="270" stroke="#DCD5C8" stroke-width="1.0" stroke-dasharray="3,3"/>
+  <line x1="300" y1="272" x2="470" y2="272" stroke="#BFB4A4" stroke-width="1.0"/>
+  <path d="M 466.6,274.1 L 470,272 L 466.6,269.9" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <text x="210" y="322" text-anchor="middle" font-size="6.6" letter-spacing="2" fill="#7C6D5C" font-weight="400">犬马</text>
+  <text x="550" y="322" text-anchor="middle" font-size="6.6" letter-spacing="2" fill="#7C6D5C" font-weight="400">国人</text>
+  <path d="M 188,366 C 198,350 224,350 234,366 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="200" y1="360" x2="196" y2="342" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="208" y1="358" x2="210" y2="340" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="218" y1="358" x2="224" y2="344" stroke="#BFB4A4" stroke-width="0.9"/>
+  <path d="M 544,332 L 552,332 L 552,364 L 548,370 L 544,364 Z" fill="#FCFAF6" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="536" y1="364" x2="560" y2="364" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="548" y1="370" x2="548" y2="382" stroke="#7C6D5C" stroke-width="1.6"/>
+  <circle cx="548" cy="384" r="3.0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="300" y1="360" x2="470" y2="360" stroke="#BFB4A4" stroke-width="1.0"/>
+  <path d="M 466.6,362.1 L 470,360 L 466.6,357.9" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <text x="210" y="410" text-anchor="middle" font-size="6.6" letter-spacing="2" fill="#7C6D5C" font-weight="400">土芥</text>
+  <text x="550" y="410" text-anchor="middle" font-size="6.6" letter-spacing="2" fill="#7C6D5C" font-weight="400">寇雠</text>
+  <text x="380" y="424" text-anchor="middle" font-size="6.2" letter-spacing="0" fill="#BFB4A4" font-weight="400">施与报，对等；视之轻，报之亦轻</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">君之视臣如手足，则臣视君如腹心。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 手足·腹心 · ch92a</text>
+</svg>
