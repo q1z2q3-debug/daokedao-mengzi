@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="560" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">棺 与 寸</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C">《孟子》公孙丑下　第三十九章　MZ039</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="228" y="176" width="304" height="200" fill="#FCFAF6" stroke="#25211D" stroke-width="1.6"/>
+  <rect x="270" y="218" width="220" height="116" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.2"/>
+  <text x="380" y="282" text-anchor="middle" font-size="7.4" fill="#7C6D5C">棺　七寸</text>
+  <line x1="228" y1="218" x2="270" y2="218" stroke="#994433" stroke-width="0.9"/>
+  <line x1="228" y1="218" x2="228" y2="200" stroke="#994433" stroke-width="0.5"/>
+  <line x1="270" y1="218" x2="270" y2="200" stroke="#994433" stroke-width="0.5"/>
+  <text x="249" y="192" text-anchor="middle" font-size="6" fill="#994433">七寸</text>
+  <text x="380" y="164" text-anchor="middle" font-size="6.8" fill="#8C7B69">椁　与棺相称</text>
+
+  <line x1="120" y1="432" x2="640" y2="432" stroke="#8C7B69" stroke-width="1.2"/>
+  <path d="M 140,432 C 140,442 152,442 152,432" fill="none" stroke="#BFB4A4" stroke-width="0.7"/>
+  <path d="M 196,432 C 196,442 208,442 208,432" fill="none" stroke="#BFB4A4" stroke-width="0.7"/>
+  <path d="M 252,432 C 252,442 264,442 264,432" fill="none" stroke="#BFB4A4" stroke-width="0.7"/>
+  <path d="M 308,432 C 308,442 320,442 320,432" fill="none" stroke="#BFB4A4" stroke-width="0.7"/>
+  <path d="M 364,432 C 364,442 376,442 376,432" fill="none" stroke="#BFB4A4" stroke-width="0.7"/>
+  <path d="M 420,432 C 420,442 432,442 432,432" fill="none" stroke="#BFB4A4" stroke-width="0.7"/>
+  <path d="M 476,432 C 476,442 488,442 488,432" fill="none" stroke="#BFB4A4" stroke-width="0.7"/>
+  <path d="M 532,432 C 532,442 544,442 544,432" fill="none" stroke="#BFB4A4" stroke-width="0.7"/>
+  <path d="M 588,432 C 588,442 600,442 600,432" fill="none" stroke="#BFB4A4" stroke-width="0.7"/>
+  <text x="380" y="458" text-anchor="middle" font-size="6.4" fill="#8C7B69">土</text>
+  <text x="380" y="410" text-anchor="middle" font-size="6.4" fill="#994433">不让土贴近皮肤</text>
+  <line x1="120" y1="456" x2="640" y2="456" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="480" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D">不是花得多，是该给的不省。</text>
+  <text x="120" y="514" font-size="5.6" fill="#7C6D5C">孟子 · 公孙丑下</text>
+  <text x="640" y="514" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 棺与寸 · ch39a</text>
+</svg>

@@ -1,6 +1,6 @@
 {
  "book": "润泽说 道可道之孟子",
- "version": "0.8.0",
+ "version": "0.9.0",
  "count": 260,
  "volumes": [
   {
@@ -460,110 +460,110 @@
    "卷": "四",
    "篇": "公孙丑下",
    "章序": 1,
-   "章题": "",
+   "章题": "天时地利人和",
    "file": null,
-   "page": null,
+   "page": "ch/mz033.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ034",
    "卷": "四",
    "篇": "公孙丑下",
    "章序": 2,
-   "章题": "",
+   "章题": "不召之臣",
    "file": null,
-   "page": null,
+   "page": "ch/mz034.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ035",
    "卷": "四",
    "篇": "公孙丑下",
    "章序": 3,
-   "章题": "",
+   "章题": "货取",
    "file": null,
-   "page": null,
+   "page": "ch/mz035.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ036",
    "卷": "四",
    "篇": "公孙丑下",
    "章序": 4,
-   "章题": "",
+   "章题": "失伍",
    "file": null,
-   "page": null,
+   "page": "ch/mz036.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ037",
    "卷": "四",
    "篇": "公孙丑下",
    "章序": 5,
-   "章题": "",
+   "章题": "官守言责",
    "file": null,
-   "page": null,
+   "page": "ch/mz037.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ038",
    "卷": "四",
    "篇": "公孙丑下",
    "章序": 6,
-   "章题": "",
+   "章题": "不恶而严",
    "file": null,
-   "page": null,
+   "page": "ch/mz038.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ039",
    "卷": "四",
    "篇": "公孙丑下",
    "章序": 7,
-   "章题": "",
+   "章题": "俭其亲",
    "file": null,
-   "page": null,
+   "page": "ch/mz039.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ040",
    "卷": "四",
    "篇": "公孙丑下",
    "章序": 8,
-   "章题": "",
+   "章题": "以燕伐燕",
    "file": null,
-   "page": null,
+   "page": "ch/mz040.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ041",
    "卷": "四",
    "篇": "公孙丑下",
    "章序": 9,
-   "章题": "",
+   "章题": "过则改之",
    "file": null,
-   "page": null,
+   "page": "ch/mz041.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ042",
    "卷": "四",
    "篇": "公孙丑下",
    "章序": 10,
-   "章题": "",
+   "章题": "龙断",
    "file": null,
-   "page": null,
+   "page": "ch/mz042.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ043",

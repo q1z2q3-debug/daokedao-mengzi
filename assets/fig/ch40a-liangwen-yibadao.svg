@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">两 问 与 一 把 刀</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C">《孟子》公孙丑下　第四十章　MZ040</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <path d="M 306,218 L 486,214 L 486,232 L 306,236 Z" fill="#E8DED0" stroke="#994433" stroke-width="1.2"/>
+  <line x1="306" y1="218" x2="486" y2="214" stroke="#994433" stroke-width="1.2"/>
+  <rect x="272" y="214" width="36" height="26" rx="3" fill="#FCFAF6" stroke="#994433" stroke-width="1.1"/>
+  <line x1="282" y1="222" x2="282" y2="234" stroke="#994433" stroke-width="0.8"/>
+  <line x1="294" y1="222" x2="294" y2="234" stroke="#994433" stroke-width="0.8"/>
+  <text x="380" y="204" text-anchor="middle" font-size="6.6" fill="#994433">刀</text>
+
+  <rect x="150" y="176" width="110" height="96" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1"/>
+  <text x="205" y="210" text-anchor="middle" font-size="7.4" fill="#8C7B69">人可杀与</text>
+  <text x="205" y="234" text-anchor="middle" font-size="7" fill="#8C7B69">曰：可</text>
+  <text x="205" y="258" text-anchor="middle" font-size="6" fill="#BFB4A4">问的是事</text>
+
+  <rect x="506" y="176" width="140" height="96" fill="#FCFAF6" stroke="#994433" stroke-width="1"/>
+  <text x="576" y="210" text-anchor="middle" font-size="7.4" fill="#994433">孰可杀之</text>
+  <text x="576" y="234" text-anchor="middle" font-size="7" fill="#994433">曰：士师</text>
+  <text x="576" y="258" text-anchor="middle" font-size="6" fill="#994433">问的是人</text>
+
+  <rect x="524" y="306" width="46" height="46" fill="#994433" opacity="0.85"/>
+  <text x="547" y="336" text-anchor="middle" font-size="9" fill="#F7F4EE" font-weight="700">士</text>
+  <text x="547" y="372" text-anchor="middle" font-size="6.2" fill="#7C6D5C">有印者杀，叫刑</text>
+  <text x="298" y="336" text-anchor="middle" font-size="6.2" fill="#8C7B69">无印者杀，叫杀</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D">先问谁来做，再问能不能做。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 公孙丑下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 两问与一把刀 · ch40a</text>
+</svg>
