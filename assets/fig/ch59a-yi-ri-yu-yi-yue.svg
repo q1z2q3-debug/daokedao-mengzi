@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">一 日 与 一 月</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》滕文公下　第五十九章　MZ059</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="129" y="226" width="42" height="48" fill="none" stroke="#DCD5C8" stroke-width="0.9"/>
+  <path d="M 141.8,251.18 C 141.8,246.26 148.36,245.44 154.92,247.08 C 157.38,247.9 157.38,255.28 153.28,256.92 C 148.36,258.56 141.8,256.92 141.8,251.18 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 142.62,250.36 L 136.06,245.44 L 137.7,252.82 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 154.92,247.9 C 156.56,244.62 157.38,242.98 158.2,240.52 L 161.48,239.7 C 159.84,244.62 158.2,247.08 156.56,247.9 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <circle cx="161.48" cy="239.7" r="2.624" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 163.612,239.7 L 166.4,240.192 L 163.612,241.34 Z" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 160.66,236.42000000000002 l 1.148,-1.64 l 1.312,1.64" fill="none" stroke="#994433" stroke-width="1"/>
+  <path d="M 148.36,251.18 C 151.64,248.72 154.1,250.36 152.46,253.64 C 150.82,255.28 147.54,254.46 148.36,251.18 Z" fill="none" stroke="#F7F4EE" stroke-width="0.8"/>
+  <line x1="148.36" y1="256.92" x2="147.54" y2="262.66" stroke="#994433" stroke-width="1.1"/>
+  <line x1="151.64" y1="256.92" x2="152.46" y2="262.66" stroke="#994433" stroke-width="1.1"/>
+  <circle cx="162.3" cy="238.88" r="0.574" fill="#F7F4EE" stroke="#F7F4EE" stroke-width="0.6"/>
+  <rect x="129" y="276" width="42" height="48" fill="none" stroke="#DCD5C8" stroke-width="0.9"/>
+  <path d="M 141.8,301.18 C 141.8,296.26 148.36,295.44 154.92,297.08 C 157.38,297.9 157.38,305.28 153.28,306.92 C 148.36,308.56 141.8,306.92 141.8,301.18 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 142.62,300.36 L 136.06,295.44 L 137.7,302.82 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 154.92,297.9 C 156.56,294.62 157.38,292.98 158.2,290.52 L 161.48,289.7 C 159.84,294.62 158.2,297.08 156.56,297.9 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <circle cx="161.48" cy="289.7" r="2.624" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 163.612,289.7 L 166.4,290.192 L 163.612,291.34 Z" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 160.66,286.42 l 1.148,-1.64 l 1.312,1.64" fill="none" stroke="#994433" stroke-width="1"/>
+  <path d="M 148.36,301.18 C 151.64,298.72 154.1,300.36 152.46,303.64 C 150.82,305.28 147.54,304.46 148.36,301.18 Z" fill="none" stroke="#F7F4EE" stroke-width="0.8"/>
+  <line x1="148.36" y1="306.92" x2="147.54" y2="312.66" stroke="#994433" stroke-width="1.1"/>
+  <line x1="151.64" y1="306.92" x2="152.46" y2="312.66" stroke="#994433" stroke-width="1.1"/>
+  <circle cx="162.3" cy="288.88" r="0.574" fill="#F7F4EE" stroke="#F7F4EE" stroke-width="0.6"/>
+  <rect x="173" y="226" width="42" height="48" fill="none" stroke="#DCD5C8" stroke-width="0.9"/>
+  <path d="M 185.8,251.18 C 185.8,246.26 192.36,245.44 198.92,247.08 C 201.38,247.9 201.38,255.28 197.28,256.92 C 192.36,258.56 185.8,256.92 185.8,251.18 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 186.62,250.36 L 180.06,245.44 L 181.7,252.82 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 198.92,247.9 C 200.56,244.62 201.38,242.98 202.2,240.52 L 205.48,239.7 C 203.84,244.62 202.2,247.08 200.56,247.9 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <circle cx="205.48" cy="239.7" r="2.624" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 207.612,239.7 L 210.4,240.192 L 207.612,241.34 Z" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 204.66,236.42000000000002 l 1.148,-1.64 l 1.312,1.64" fill="none" stroke="#994433" stroke-width="1"/>
+  <path d="M 192.36,251.18 C 195.64,248.72 198.1,250.36 196.46,253.64 C 194.82,255.28 191.54,254.46 192.36,251.18 Z" fill="none" stroke="#F7F4EE" stroke-width="0.8"/>
+  <line x1="192.36" y1="256.92" x2="191.54" y2="262.66" stroke="#994433" stroke-width="1.1"/>
+  <line x1="195.64" y1="256.92" x2="196.46" y2="262.66" stroke="#994433" stroke-width="1.1"/>
+  <circle cx="206.3" cy="238.88" r="0.574" fill="#F7F4EE" stroke="#F7F4EE" stroke-width="0.6"/>
+  <rect x="173" y="276" width="42" height="48" fill="none" stroke="#DCD5C8" stroke-width="0.9"/>
+  <path d="M 185.8,301.18 C 185.8,296.26 192.36,295.44 198.92,297.08 C 201.38,297.9 201.38,305.28 197.28,306.92 C 192.36,308.56 185.8,306.92 185.8,301.18 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 186.62,300.36 L 180.06,295.44 L 181.7,302.82 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 198.92,297.9 C 200.56,294.62 201.38,292.98 202.2,290.52 L 205.48,289.7 C 203.84,294.62 202.2,297.08 200.56,297.9 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <circle cx="205.48" cy="289.7" r="2.624" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 207.612,289.7 L 210.4,290.192 L 207.612,291.34 Z" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 204.66,286.42 l 1.148,-1.64 l 1.312,1.64" fill="none" stroke="#994433" stroke-width="1"/>
+  <path d="M 192.36,301.18 C 195.64,298.72 198.1,300.36 196.46,303.64 C 194.82,305.28 191.54,304.46 192.36,301.18 Z" fill="none" stroke="#F7F4EE" stroke-width="0.8"/>
+  <line x1="192.36" y1="306.92" x2="191.54" y2="312.66" stroke="#994433" stroke-width="1.1"/>
+  <line x1="195.64" y1="306.92" x2="196.46" y2="312.66" stroke="#994433" stroke-width="1.1"/>
+  <circle cx="206.3" cy="288.88" r="0.574" fill="#F7F4EE" stroke="#F7F4EE" stroke-width="0.6"/>
+  <rect x="217" y="226" width="42" height="48" fill="none" stroke="#DCD5C8" stroke-width="0.9"/>
+  <path d="M 229.8,251.18 C 229.8,246.26 236.36,245.44 242.92,247.08 C 245.38,247.9 245.38,255.28 241.28,256.92 C 236.36,258.56 229.8,256.92 229.8,251.18 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 230.62,250.36 L 224.06,245.44 L 225.7,252.82 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 242.92,247.9 C 244.56,244.62 245.38,242.98 246.2,240.52 L 249.48,239.7 C 247.84,244.62 246.2,247.08 244.56,247.9 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <circle cx="249.48" cy="239.7" r="2.624" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 251.612,239.7 L 254.4,240.192 L 251.612,241.34 Z" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 248.66,236.42000000000002 l 1.148,-1.64 l 1.312,1.64" fill="none" stroke="#994433" stroke-width="1"/>
+  <path d="M 236.36,251.18 C 239.64,248.72 242.1,250.36 240.46,253.64 C 238.82,255.28 235.54,254.46 236.36,251.18 Z" fill="none" stroke="#F7F4EE" stroke-width="0.8"/>
+  <line x1="236.36" y1="256.92" x2="235.54" y2="262.66" stroke="#994433" stroke-width="1.1"/>
+  <line x1="239.64" y1="256.92" x2="240.46" y2="262.66" stroke="#994433" stroke-width="1.1"/>
+  <circle cx="250.3" cy="238.88" r="0.574" fill="#F7F4EE" stroke="#F7F4EE" stroke-width="0.6"/>
+  <rect x="217" y="276" width="42" height="48" fill="none" stroke="#DCD5C8" stroke-width="0.9"/>
+  <path d="M 229.8,301.18 C 229.8,296.26 236.36,295.44 242.92,297.08 C 245.38,297.9 245.38,305.28 241.28,306.92 C 236.36,308.56 229.8,306.92 229.8,301.18 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 230.62,300.36 L 224.06,295.44 L 225.7,302.82 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 242.92,297.9 C 244.56,294.62 245.38,292.98 246.2,290.52 L 249.48,289.7 C 247.84,294.62 246.2,297.08 244.56,297.9 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <circle cx="249.48" cy="289.7" r="2.624" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 251.612,289.7 L 254.4,290.192 L 251.612,291.34 Z" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 248.66,286.42 l 1.148,-1.64 l 1.312,1.64" fill="none" stroke="#994433" stroke-width="1"/>
+  <path d="M 236.36,301.18 C 239.64,298.72 242.1,300.36 240.46,303.64 C 238.82,305.28 235.54,304.46 236.36,301.18 Z" fill="none" stroke="#F7F4EE" stroke-width="0.8"/>
+  <line x1="236.36" y1="306.92" x2="235.54" y2="312.66" stroke="#994433" stroke-width="1.1"/>
+  <line x1="239.64" y1="306.92" x2="240.46" y2="312.66" stroke="#994433" stroke-width="1.1"/>
+  <circle cx="250.3" cy="288.88" r="0.574" fill="#F7F4EE" stroke="#F7F4EE" stroke-width="0.6"/>
+  <rect x="261" y="226" width="42" height="48" fill="none" stroke="#DCD5C8" stroke-width="0.9"/>
+  <path d="M 273.8,251.18 C 273.8,246.26 280.36,245.44 286.92,247.08 C 289.38,247.9 289.38,255.28 285.28,256.92 C 280.36,258.56 273.8,256.92 273.8,251.18 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 274.62,250.36 L 268.06,245.44 L 269.7,252.82 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 286.92,247.9 C 288.56,244.62 289.38,242.98 290.2,240.52 L 293.48,239.7 C 291.84,244.62 290.2,247.08 288.56,247.9 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <circle cx="293.48" cy="239.7" r="2.624" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 295.612,239.7 L 298.4,240.192 L 295.612,241.34 Z" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 292.66,236.42000000000002 l 1.148,-1.64 l 1.312,1.64" fill="none" stroke="#994433" stroke-width="1"/>
+  <path d="M 280.36,251.18 C 283.64,248.72 286.1,250.36 284.46,253.64 C 282.82,255.28 279.54,254.46 280.36,251.18 Z" fill="none" stroke="#F7F4EE" stroke-width="0.8"/>
+  <line x1="280.36" y1="256.92" x2="279.54" y2="262.66" stroke="#994433" stroke-width="1.1"/>
+  <line x1="283.64" y1="256.92" x2="284.46" y2="262.66" stroke="#994433" stroke-width="1.1"/>
+  <circle cx="294.3" cy="238.88" r="0.574" fill="#F7F4EE" stroke="#F7F4EE" stroke-width="0.6"/>
+  <rect x="261" y="276" width="42" height="48" fill="none" stroke="#DCD5C8" stroke-width="0.9"/>
+  <path d="M 273.8,301.18 C 273.8,296.26 280.36,295.44 286.92,297.08 C 289.38,297.9 289.38,305.28 285.28,306.92 C 280.36,308.56 273.8,306.92 273.8,301.18 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 274.62,300.36 L 268.06,295.44 L 269.7,302.82 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 286.92,297.9 C 288.56,294.62 289.38,292.98 290.2,290.52 L 293.48,289.7 C 291.84,294.62 290.2,297.08 288.56,297.9 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <circle cx="293.48" cy="289.7" r="2.624" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 295.612,289.7 L 298.4,290.192 L 295.612,291.34 Z" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 292.66,286.42 l 1.148,-1.64 l 1.312,1.64" fill="none" stroke="#994433" stroke-width="1"/>
+  <path d="M 280.36,301.18 C 283.64,298.72 286.1,300.36 284.46,303.64 C 282.82,305.28 279.54,304.46 280.36,301.18 Z" fill="none" stroke="#F7F4EE" stroke-width="0.8"/>
+  <line x1="280.36" y1="306.92" x2="279.54" y2="312.66" stroke="#994433" stroke-width="1.1"/>
+  <line x1="283.64" y1="306.92" x2="284.46" y2="312.66" stroke="#994433" stroke-width="1.1"/>
+  <circle cx="294.3" cy="288.88" r="0.574" fill="#F7F4EE" stroke="#F7F4EE" stroke-width="0.6"/>
+  <text x="216" y="372" text-anchor="middle" font-size="6.8" letter-spacing="0" fill="#994433" font-weight="400">日攘一鸡</text>
+  <text x="216" y="386" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">一月三十只</text>
+  <text x="372" y="246" text-anchor="middle" font-size="7" letter-spacing="0" fill="#7C6D5C" font-weight="400">都</text>
+  <text x="372" y="282" text-anchor="middle" font-size="7" letter-spacing="0" fill="#7C6D5C" font-weight="400">是</text>
+  <text x="372" y="318" text-anchor="middle" font-size="7" letter-spacing="0" fill="#7C6D5C" font-weight="400">偷</text>
+  <line x1="352" y1="228" x2="392" y2="228" stroke="#DCD5C8" stroke-width="0.9"/>
+  <line x1="352" y1="332" x2="392" y2="332" stroke="#DCD5C8" stroke-width="0.9"/>
+  <rect x="514" y="212" width="118" height="128" fill="none" stroke="#DCD5C8" stroke-width="0.9"/>
+  <path d="M 546.0,269.6 C 546.0,255.2 565.2,252.8 584.4,257.6 C 591.6,260.0 591.6,281.6 579.6,286.4 C 565.2,291.2 546.0,286.4 546.0,269.6 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 548.4,267.2 L 529.2,252.8 L 534.0,274.4 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 584.4,260.0 C 589.2,250.4 591.6,245.6 594.0,238.4 L 603.6,236.0 C 598.8,250.4 594.0,257.6 589.2,260.0 Z" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <circle cx="603.6" cy="236.0" r="7.68" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 609.84,236.0 L 618.0,237.44 L 609.84,240.8 Z" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M 601.2,226.4 l 3.36,-4.8 l 3.84,4.8" fill="none" stroke="#994433" stroke-width="1"/>
+  <path d="M 565.2,269.6 C 574.8,262.4 582.0,267.2 577.2,276.8 C 572.4,281.6 562.8,279.2 565.2,269.6 Z" fill="none" stroke="#F7F4EE" stroke-width="0.8"/>
+  <line x1="565.2" y1="286.4" x2="562.8" y2="303.2" stroke="#994433" stroke-width="1.1"/>
+  <line x1="574.8" y1="286.4" x2="577.2" y2="303.2" stroke="#994433" stroke-width="1.1"/>
+  <circle cx="606.0" cy="233.6" r="1.68" fill="#F7F4EE" stroke="#F7F4EE" stroke-width="0.6"/>
+  <text x="572" y="372" text-anchor="middle" font-size="6.8" letter-spacing="0" fill="#7C6D5C" font-weight="400">月攘一鸡</text>
+  <text x="572" y="386" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">一月一只</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">如知其非义，斯速已矣，何待来年。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 滕文公下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 一日与一月 · ch59a</text>
+</svg>

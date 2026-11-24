@@ -1,6 +1,6 @@
 {
  "book": "润泽说 道可道之孟子",
- "version": "0.11.0",
+ "version": "0.12.0",
  "count": 260,
  "volumes": [
   {
@@ -669,110 +669,110 @@
    "卷": "六",
    "篇": "滕文公下",
    "章序": 1,
-   "章题": "",
+   "章题": "枉尺直寻",
    "file": null,
-   "page": null,
+   "page": "ch/mz052.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ053",
    "卷": "六",
    "篇": "滕文公下",
    "章序": 2,
-   "章题": "",
+   "章题": "大丈夫",
    "file": null,
-   "page": null,
+   "page": "ch/mz053.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ054",
    "卷": "六",
    "篇": "滕文公下",
    "章序": 3,
-   "章题": "",
+   "章题": "仕犹耕",
    "file": null,
-   "page": null,
+   "page": "ch/mz054.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ055",
    "卷": "六",
    "篇": "滕文公下",
    "章序": 4,
-   "章题": "",
+   "章题": "食志食功",
    "file": null,
-   "page": null,
+   "page": "ch/mz055.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ056",
    "卷": "六",
    "篇": "滕文公下",
    "章序": 5,
-   "章题": "",
+   "章题": "苟行王政",
    "file": null,
-   "page": null,
+   "page": "ch/mz056.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ057",
    "卷": "六",
    "篇": "滕文公下",
    "章序": 6,
-   "章题": "",
+   "章题": "一傅众咻",
    "file": null,
-   "page": null,
+   "page": "ch/mz057.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ058",
    "卷": "六",
    "篇": "滕文公下",
    "章序": 7,
-   "章题": "",
+   "章题": "不见诸侯",
    "file": null,
-   "page": null,
+   "page": "ch/mz058.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ059",
    "卷": "六",
    "篇": "滕文公下",
    "章序": 8,
-   "章题": "",
+   "章题": "月攘一鸡",
    "file": null,
-   "page": null,
+   "page": "ch/mz059.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ060",
    "卷": "六",
    "篇": "滕文公下",
    "章序": 9,
-   "章题": "",
+   "章题": "一治一乱",
    "file": null,
-   "page": null,
+   "page": "ch/mz060.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ061",
    "卷": "六",
    "篇": "滕文公下",
    "章序": 10,
-   "章题": "",
+   "章题": "蚓而后可",
    "file": null,
-   "page": null,
+   "page": "ch/mz061.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ062",
