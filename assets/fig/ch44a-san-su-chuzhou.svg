@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="560" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">三 宿 出 昼</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C">《孟子》公孙丑下　第四十四章　MZ044</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="186" y="212" width="22" height="164" fill="#FCFAF6" stroke="#25211D" stroke-width="1.4"/>
+  <rect x="292" y="212" width="22" height="164" fill="#FCFAF6" stroke="#25211D" stroke-width="1.4"/>
+  <line x1="186" y1="212" x2="314" y2="212" stroke="#25211D" stroke-width="1.6"/>
+  <line x1="186" y1="376" x2="314" y2="376" stroke="#25211D" stroke-width="1"/>
+  <text x="250" y="200" text-anchor="middle" font-size="7" fill="#7C6D5C">昼　邑门</text>
+
+  <path d="M 212,246 A 12,12 0 1 0 224,258 A 10,10 0 1 1 212,246 Z" fill="none" stroke="#994433" stroke-width="1.2"/>
+  <path d="M 244,246 A 12,12 0 1 0 256,258 A 10,10 0 1 1 244,246 Z" fill="none" stroke="#994433" stroke-width="1.2"/>
+  <path d="M 276,246 A 12,12 0 1 0 288,258 A 10,10 0 1 1 276,246 Z" fill="none" stroke="#994433" stroke-width="1.2"/>
+  <text x="250" y="286" text-anchor="middle" font-size="6.2" fill="#994433">三 宿　夜夜等一个“召”</text>
+  <circle cx="366" cy="286" r="9" fill="none" stroke="#994433" stroke-width="1.2"/>
+  <line x1="366" y1="295" x2="366" y2="330" stroke="#994433" stroke-width="1.2"/>
+  <line x1="366" y1="330" x2="354" y2="352" stroke="#994433" stroke-width="1.2"/>
+  <line x1="366" y1="330" x2="380" y2="348" stroke="#994433" stroke-width="1.2"/>
+  <line x1="366" y1="302" x2="386" y2="310" stroke="#994433" stroke-width="1.1"/>
+  <text x="366" y="372" text-anchor="middle" font-size="6.4" fill="#994433">第四日，出昼</text>
+
+  <path d="M 404,318 L 640,304" stroke="#BFB4A4" stroke-width="1.1" stroke-dasharray="7 5"/>
+  <polygon points="656,303 636,296 638,311" fill="#BFB4A4"/>
+  <text x="560" y="336" text-anchor="middle" font-size="6.6" fill="#8C7B69">出昼而王不追　→　浩然有归志</text>
+  <line x1="120" y1="456" x2="640" y2="456" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="480" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D">心里已走，脚下还站三夜。</text>
+  <text x="120" y="514" font-size="5.6" fill="#7C6D5C">孟子 · 公孙丑下</text>
+  <text x="640" y="514" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 三宿出昼 · ch44a</text>
+</svg>

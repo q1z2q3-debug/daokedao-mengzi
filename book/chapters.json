@@ -1,6 +1,6 @@
 {
  "book": "润泽说 道可道之孟子",
- "version": "0.9.0",
+ "version": "0.10.0",
  "count": 260,
  "volumes": [
   {
@@ -570,44 +570,44 @@
    "卷": "四",
    "篇": "公孙丑下",
    "章序": 11,
-   "章题": "",
+   "章题": "隐几而卧",
    "file": null,
-   "page": null,
+   "page": "ch/mz043.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ044",
    "卷": "四",
    "篇": "公孙丑下",
    "章序": 12,
-   "章题": "",
+   "章题": "浩然归志",
    "file": null,
-   "page": null,
+   "page": "ch/mz044.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ045",
    "卷": "四",
    "篇": "公孙丑下",
    "章序": 13,
-   "章题": "",
+   "章题": "舍我其谁",
    "file": null,
-   "page": null,
+   "page": "ch/mz045.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ046",
    "卷": "四",
    "篇": "公孙丑下",
    "章序": 14,
-   "章题": "",
+   "章题": "仕不受禄",
    "file": null,
-   "page": null,
+   "page": "ch/mz046.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ047",
