@@ -1,6 +1,6 @@
 {
  "book": "润泽说 道可道之孟子",
- "version": "0.7.0",
+ "version": "0.8.0",
  "count": 260,
  "volumes": [
   {
@@ -372,88 +372,88 @@
    "卷": "三",
    "篇": "公孙丑上",
    "章序": 2,
-   "章题": "",
+   "章题": "以力假仁者霸",
    "file": null,
-   "page": null,
+   "page": "ch/mz025.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ026",
    "卷": "三",
    "篇": "公孙丑上",
    "章序": 3,
-   "章题": "",
+   "章题": "仁则荣",
    "file": null,
-   "page": null,
+   "page": "ch/mz026.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ027",
    "卷": "三",
    "篇": "公孙丑上",
    "章序": 4,
-   "章题": "",
+   "章题": "尊贤使能",
    "file": null,
-   "page": null,
+   "page": "ch/mz027.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ028",
    "卷": "三",
    "篇": "公孙丑上",
    "章序": 5,
-   "章题": "",
+   "章题": "人皆有不忍人之心",
    "file": null,
-   "page": null,
+   "page": "ch/mz028.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ029",
    "卷": "三",
    "篇": "公孙丑上",
    "章序": 6,
-   "章题": "",
+   "章题": "矢人函人",
    "file": null,
-   "page": null,
+   "page": "ch/mz029.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ030",
    "卷": "三",
    "篇": "公孙丑上",
    "章序": 7,
-   "章题": "",
+   "章题": "仁者如射",
    "file": null,
-   "page": null,
+   "page": "ch/mz030.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ031",
    "卷": "三",
    "篇": "公孙丑上",
    "章序": 8,
-   "章题": "",
+   "章题": "与人为善",
    "file": null,
-   "page": null,
+   "page": "ch/mz031.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ032",
    "卷": "三",
    "篇": "公孙丑上",
    "章序": 9,
-   "章题": "",
+   "章题": "伯夷隘",
    "file": null,
-   "page": null,
+   "page": "ch/mz032.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ033",
