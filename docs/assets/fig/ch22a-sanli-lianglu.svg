@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="6" fill="#25211D" font-weight="700">三 礼 与 两 条 路</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C">《孟子》梁惠王下　第二十二章　MZ022</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="140" y="116" text-anchor="middle" font-size="7" fill="#8C7B69">事之以皮币</text>
+  <rect x="104" y="134" width="64" height="40" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.1"/>
+  <path d="M 110,146 C 122,140 134,146 128,150 C 140,148 146,156 136,160" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 110,158 C 124,152 138,158 132,162" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="136" y="192" text-anchor="middle" font-size="6.6" fill="#7C6D5C">不得免焉</text>
+
+  <text x="380" y="116" text-anchor="middle" font-size="7" fill="#8C7B69">事之以犬马</text>
+  <rect x="344" y="134" width="64" height="40" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.1"/>
+  <path d="M 356,170 L 356,154 C 358,150 364,148 372,148 L 384,150 L 388,144 L 396,146 L 396,152 C 392,156 388,158 384,160 L 384,170" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <path d="M 356,150 C 348,146 348,142 352,140" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="364" y1="160" x2="364" y2="172" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="378" y1="162" x2="378" y2="172" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="376" y="192" text-anchor="middle" font-size="6.6" fill="#7C6D5C">不得免焉</text>
+
+  <text x="620" y="116" text-anchor="middle" font-size="7" fill="#8C7B69">事之以珠玉</text>
+  <rect x="584" y="134" width="64" height="40" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.1"/>
+  <circle cx="600" cy="152" r="7" fill="none" stroke="#994433" stroke-width="1"/>
+  <circle cx="618" cy="158" r="7" fill="none" stroke="#994433" stroke-width="1"/>
+  <circle cx="634" cy="150" r="7" fill="none" stroke="#994433" stroke-width="1"/>
+  <line x1="600" y1="160" x2="618" y2="164" stroke="#BFB4A4" stroke-width="0.8"/>
+  <text x="616" y="192" text-anchor="middle" font-size="6.6" fill="#7C6D5C">不得免焉</text>
+
+  <path d="M 176,154 L 236,154" stroke="#DCD5C8" stroke-width="0.9"/>
+  <path d="M 416,154 L 476,154" stroke="#DCD5C8" stroke-width="0.9"/>
+
+  <rect x="300" y="236" width="330" height="34" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.1"/>
+  <text x="465" y="258" text-anchor="middle" font-size="7.6" letter-spacing="2" fill="#7C6D5C">土地　所以养人者也</text>
+  <line x1="612" y1="202" x2="612" y2="226" stroke="#994433" stroke-width="1" stroke-dasharray="5 4"/>
+  <polygon points="612,236 607,222 617,222" fill="#994433"/>
+  <text x="612" y="284" text-anchor="middle" font-size="6.8" fill="#994433">所欲者，吾土地</text>
+
+
+  <line x1="70" y1="292" x2="690" y2="292" stroke="#DCD5C8" stroke-width="0.8"/>
+
+  <path d="M 128,344 C 200,348 280,340 356,322" fill="none" stroke="#994433" stroke-width="1.3" stroke-dasharray="7 4"/>
+  <polygon points="370,318 354,314 360,326" fill="#994433"/>
+  <text x="196" y="330" text-anchor="middle" font-size="7.2" fill="#994433">去邠　从之者如归市</text>
+  <text x="196" y="356" text-anchor="middle" font-size="6.6" fill="#8C7B69">权：迁以图存</text>
+
+  <rect x="574" y="316" width="48" height="56" fill="#FCFAF6" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="586" y1="330" x2="610" y2="330" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="586" y1="344" x2="610" y2="344" stroke="#25211D" stroke-width="0.9"/>
+  <text x="598" y="366" text-anchor="middle" font-size="5.6" fill="#25211D">世守</text>
+  <text x="598" y="396" text-anchor="middle" font-size="7.2" fill="#25211D">效死勿去</text>
+  <text x="598" y="414" text-anchor="middle" font-size="6.6" fill="#8C7B69">义：守正而俟死</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D">地是养人的；地开始杀人，它就不再是地。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 梁惠王下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一 · 三礼与两条路 · ch22a</text>
+</svg>

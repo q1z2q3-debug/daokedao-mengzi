@@ -4,7 +4,7 @@
 图以 {{fig:键|caption}} 占位，构建时内联 assets/fig/<键>*.svg（单文件自包含，无外链）。
 用法：python3 scripts/build_site.py
 """
-import datetime, glob, json, os, re, subprocess, sys
+import datetime, glob, json, os, re, shutil, subprocess, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BOOK = os.path.join(ROOT, "book")
@@ -78,6 +78,16 @@ def main():
         + "\n  ".join(urls) + "\n</urlset>\n")
     json.dump(d, open(os.path.join(BOOK, "chapters.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
+
+    # 图另存一份到站内，供 SVG 直链
+    dest = os.path.join(DOCS, "assets", "fig")
+    os.makedirs(dest, exist_ok=True)
+    n_fig = 0
+    for f in sorted(os.listdir(FIG)):
+        if f.endswith(".svg"):
+            shutil.copyfile(os.path.join(FIG, f), os.path.join(dest, f))
+            n_fig += 1
+    print("图另存 %d 张到 docs/assets/fig" % n_fig)
     print("章页 %d 张：%s" % (len(pages), "、".join(pages) or "无"))
 
 
