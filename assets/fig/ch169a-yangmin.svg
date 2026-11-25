@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">殃 民</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子下　第一百六十九章　MZ169</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="2" fill="#BFB4A4" font-weight="400">不教民而用之，谓之殃民</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <circle cx="230" cy="315.2" r="7.199999999999999" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="230" y1="322.4" x2="230" y2="380.96" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="230" y1="333.91999999999996" x2="214.64" y2="355.03999999999996" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="230" y1="333.91999999999996" x2="245.36" y2="355.03999999999996" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="230" y1="380.96" x2="221.36" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="230" y1="380.96" x2="238.64" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <circle cx="320" cy="318.9" r="6.8999999999999995" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="320" y1="325.8" x2="320" y2="381.92" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="320" y1="336.84000000000003" x2="305.28" y2="357.08000000000004" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="320" y1="336.84000000000003" x2="334.72" y2="357.08000000000004" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="320" y1="381.92" x2="311.72" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="320" y1="381.92" x2="328.28" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <circle cx="410" cy="322.6" r="6.6" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="410" y1="329.2" x2="410" y2="382.88" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="410" y1="339.76" x2="395.92" y2="359.12" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="410" y1="339.76" x2="424.08" y2="359.12" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="410" y1="382.88" x2="402.08" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="410" y1="382.88" x2="417.92" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <text x="320" y="424" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">未 教 之 民</text>
+  <line x1="560" y1="404" x2="560" y2="276" stroke="#7C6D5C" stroke-width="1.56"/>
+  <path d="M 560,311.84000000000003 L 594,324.64 L 586,340.0 L 560,327.2 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M 552,404 L 568,404 L 560,394 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.08"/>
+  <line x1="620" y1="404" x2="620" y2="286" stroke="#7C6D5C" stroke-width="1.56"/>
+  <path d="M 620,319.04 L 654,330.84000000000003 L 646,345.0 L 620,333.2 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M 612,404 L 628,404 L 620,394 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.08"/>
+  <text x="590" y="424" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#994433" font-weight="400">战 阵</text>
+  <path d="M 440,340 L 520,360" fill="none" stroke="#994433" stroke-width="1.0" stroke-dasharray="4,3"/>
+  <path d="M 424,340 L 440,332 L 438,348 Z" fill="#994433" stroke="#994433" stroke-width="0.9"/>
+  <text x="470" y="320" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#994433" font-weight="400">驱 之</text>
+  <text x="380" y="214" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">一战胜齐，遂有南阳，然且不可</text>
+  <text x="380" y="250" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">徒取诸彼以与此，仁者不为</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">殃民者，不容于尧舜之世。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图八十 · 殃民 · ch169a</text>
+</svg>
