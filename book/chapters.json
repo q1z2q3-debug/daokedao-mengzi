@@ -1,6 +1,6 @@
 {
  "book": "润泽说 道可道之孟子",
- "version": "0.29.0",
+ "version": "0.30.0",
  "count": 260,
  "volumes": [
   {
@@ -2495,66 +2495,66 @@
    "卷": "十三",
    "篇": "尽心上",
    "章序": 41,
-   "章题": "",
+   "章题": "引而不发",
    "file": null,
-   "page": null,
+   "page": "ch/mz218.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ219",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 42,
-   "章题": "",
+   "章题": "以道殉身",
    "file": null,
-   "page": null,
+   "page": "ch/mz219.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ220",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 43,
-   "章题": "",
+   "章题": "五挟不答",
    "file": null,
-   "page": null,
+   "page": "ch/mz220.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ221",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 44,
-   "章题": "",
+   "章题": "进锐退速",
    "file": null,
-   "page": null,
+   "page": "ch/mz221.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ222",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 45,
-   "章题": "",
+   "章题": "亲亲仁民",
    "file": null,
-   "page": null,
+   "page": "ch/mz222.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ223",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 46,
-   "章题": "",
+   "章题": "当务为急",
    "file": null,
-   "page": null,
+   "page": "ch/mz223.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ224",

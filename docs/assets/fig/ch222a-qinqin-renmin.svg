@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">亲 亲 仁 民</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第二百二十二章　MZ222</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">君子之于物也，爱之而弗仁；于民也，仁之而弗亲</text>
+  <text x="380" y="152" text-anchor="middle" font-size="6.6" letter-spacing="2" fill="#25211D" font-weight="400">理 一 而 分 殊</text>
+  <text x="380" y="170" text-anchor="middle" font-size="4.7" letter-spacing="1" fill="#BFB4A4" font-weight="400">统 而 言 之 则 皆 仁，分 而 言 之 则 有 序</text>
+  <circle cx="380" cy="300" r="40" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <circle cx="380" cy="300" r="80" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <circle cx="380" cy="300" r="118" fill="none" stroke="#BFB4A4" stroke-width="1.0"/>
+  <text x="380" y="306" text-anchor="middle" font-size="8.0" letter-spacing="1" fill="#7C6D5C" font-weight="400">亲</text>
+  <text x="380" y="242" text-anchor="middle" font-size="7.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">民</text>
+  <text x="380" y="198" text-anchor="middle" font-size="6.8" letter-spacing="1" fill="#BFB4A4" font-weight="400">物</text>
+  <text x="380" y="430" text-anchor="middle" font-size="4.9" letter-spacing="1" fill="#7C6D5C" font-weight="400">亲 亲 → 仁 民 → 爱 物</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">亲亲而仁民，仁民而爱物。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百三十三 · 亲亲仁民 · ch222a</text>
+</svg>
