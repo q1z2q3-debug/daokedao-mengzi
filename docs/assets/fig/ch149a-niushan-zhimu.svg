@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">牛 山 之 木</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子上　第一百四十九章　MZ149</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">斧斤伐之，牛羊又从而牧之</text>
+  <path d="M 140.0,404 L 242.4,274 L 319.2,323.4 L 389.6,292.2 L 460.0,404" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="190" y1="380" x2="220" y2="340" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="410" y1="380" x2="382" y2="336" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="488" y1="334" x2="458" y2="270" stroke="#7C6D5C" stroke-width="1.44"/>
+  <path d="M 458,270 L 468,254 L 452,248 L 444,266 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="250" y1="404" x2="300" y2="404" stroke="#8C7B69" stroke-width="1.0"/>
+  <line x1="300" y1="404" x2="350" y2="404" stroke="#8C7B69" stroke-width="1.0"/>
+  <path d="M 262,404 L 262,388 L 290,388 L 290,404 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="276" y="424" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#7C6D5C" font-weight="400">牛羊</text>
+  <path d="M 358,404 L 358,382" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 358,382 L 350,374" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 358,382 L 366,374" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="358" y="368" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#994433" font-weight="400">萌蘖</text>
+  <text x="300" y="292" text-anchor="middle" font-size="8.0" letter-spacing="3" fill="#BFB4A4" font-weight="400">濯濯</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <text x="560" y="424" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">此岂山之性也哉</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">苟得其养，无物不长；苟失其养，无物不消。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图六十 · 牛山之木 · ch149a</text>
+</svg>

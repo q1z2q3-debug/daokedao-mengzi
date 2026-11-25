@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">一 日 暴 之</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子上　第一百五十章　MZ150</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">一日暴之，十日寒之，未有能生者也</text>
+  <line x1="120" y1="404" x2="300" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <path d="M 210,404 L 210,352" fill="none" stroke="#7C6D5C" stroke-width="1.4"/>
+  <path d="M 210,372 L 194,352" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M 210,372 L 226,352" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M 210,352 L 202,340" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 210,352 L 218,340" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="210" y="424" text-anchor="middle" font-size="5.8" letter-spacing="0" fill="#7C6D5C" font-weight="400">苗</text>
+  <circle cx="210" cy="268" r="15" fill="none" stroke="#994433" stroke-width="1.2"/>
+  <text x="210" y="273" text-anchor="middle" font-size="8.6" letter-spacing="0" fill="#994433" font-weight="400">日</text>
+  <line x1="229.0" y1="268.0" x2="236.0" y2="268.0" stroke="#994433" stroke-width="0.8"/>
+  <line x1="223.44037711417678" y1="281.42967844100195" x2="228.3920949983472" y2="286.3774547087395" stroke="#994433" stroke-width="0.8"/>
+  <line x1="210.01513020750394" y1="286.99999397570485" x2="210.02070449447908" y2="293.9999917562277" stroke="#994433" stroke-width="0.8"/>
+  <line x1="196.5810287484199" y1="281.4510672643202" x2="191.63719723467986" y2="286.40672362485924" stroke="#994433" stroke-width="0.8"/>
+  <line x1="191.00002409717675" y1="268.03026040541323" x2="184.00003297508397" y2="268.04140897582863" stroke="#994433" stroke-width="0.8"/>
+  <line x1="196.5382511153468" y1="254.59174444729894" x2="191.5786594210009" y2="249.6518608226196" stroke="#994433" stroke-width="0.8"/>
+  <line x1="209.95460941586666" y1="249.00005421863335" x2="209.9378865690807" y2="242.00007419391932" stroke="#994433" stroke-width="0.8"/>
+  <line x1="223.39753135116004" y1="254.52757803159787" x2="228.33346395421898" y2="249.56405414850235" stroke="#994433" stroke-width="0.8"/>
+  <text x="210" y="236" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#994433" font-weight="400">一日暴之</text>
+  <line x1="393" y1="303" x2="407" y2="317" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="393" y1="317" x2="407" y2="303" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="439" y1="303" x2="453" y2="317" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="439" y1="317" x2="453" y2="303" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="485" y1="303" x2="499" y2="317" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="485" y1="317" x2="499" y2="303" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="531" y1="303" x2="545" y2="317" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="531" y1="317" x2="545" y2="303" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="577" y1="303" x2="591" y2="317" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="577" y1="317" x2="591" y2="303" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="393" y1="349" x2="407" y2="363" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="393" y1="363" x2="407" y2="349" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="439" y1="349" x2="453" y2="363" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="439" y1="363" x2="453" y2="349" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="485" y1="349" x2="499" y2="363" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="485" y1="363" x2="499" y2="349" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="531" y1="349" x2="545" y2="363" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="531" y1="363" x2="545" y2="349" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="577" y1="349" x2="591" y2="363" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="577" y1="363" x2="591" y2="349" stroke="#BFB4A4" stroke-width="0.9"/>
+  <text x="492" y="290" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">十日寒之</text>
+  <line x1="300" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <text x="560" y="424" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">吾见亦罕矣</text>
+  <text x="540" y="200" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">虽有天下易生之物</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">吾如有萌焉何哉？</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图六十一 · 一日暴之 · ch150a</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">乃 若 其 情</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子上　第一百四十七章　MZ147</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="2" fill="#BFB4A4" font-weight="400">恻隐　羞恶　恭敬　是非</text>
+  <circle cx="380" cy="300" r="86" fill="none" stroke="#7C6D5C" stroke-width="1.4"/>
+  <line x1="380" y1="214" x2="380" y2="386" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="294" y1="300" x2="466" y2="300" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 330,262 C 360,286 400,286 430,262" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="246" text-anchor="middle" font-size="8.0" letter-spacing="0" fill="#25211D" font-weight="400">仁</text>
+  <text x="380" y="366" text-anchor="middle" font-size="8.0" letter-spacing="0" fill="#25211D" font-weight="400">智</text>
+  <text x="318" y="306" text-anchor="middle" font-size="8.0" letter-spacing="0" fill="#25211D" font-weight="400">义</text>
+  <text x="442" y="306" text-anchor="middle" font-size="8.0" letter-spacing="0" fill="#25211D" font-weight="400">礼</text>
+  <text x="380" y="300" text-anchor="middle" font-size="7.0" letter-spacing="3" fill="#994433" font-weight="400">心</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <text x="250" y="424" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">非由外铄我也</text>
+  <text x="520" y="424" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">我固有之也</text>
+  <text x="380" y="424" text-anchor="middle" font-size="5.8" letter-spacing="0" fill="#994433" font-weight="400">弗思耳矣</text>
+  <text x="380" y="150" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">求则得之，舍则失之</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">乃若其情，则可以为善矣，乃所谓善也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图五十八 · 乃若其情 · ch147a</text>
+</svg>
