@@ -1,6 +1,6 @@
 {
  "book": "润泽说 道可道之孟子",
- "version": "0.33.0",
+ "version": "0.34.0",
  "count": 260,
  "volumes": [
   {
@@ -2891,88 +2891,88 @@
    "卷": "十四",
    "篇": "尽心下",
    "章序": 31,
-   "章题": "",
+   "章题": "人皆有所不忍",
    "file": null,
-   "page": null,
+   "page": "ch/mz254.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ255",
    "卷": "十四",
    "篇": "尽心下",
    "章序": 32,
-   "章题": "",
+   "章题": "言近而指远",
    "file": null,
-   "page": null,
+   "page": "ch/mz255.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ256",
    "卷": "十四",
    "篇": "尽心下",
    "章序": 33,
-   "章题": "",
+   "章题": "尧舜性者也",
    "file": null,
-   "page": null,
+   "page": "ch/mz256.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ257",
    "卷": "十四",
    "篇": "尽心下",
    "章序": 34,
-   "章题": "",
+   "章题": "说大人则藐之",
    "file": null,
-   "page": null,
+   "page": "ch/mz257.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ258",
    "卷": "十四",
    "篇": "尽心下",
    "章序": 35,
-   "章题": "",
+   "章题": "养心莫善于寡欲",
    "file": null,
-   "page": null,
+   "page": "ch/mz258.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ259",
    "卷": "十四",
    "篇": "尽心下",
    "章序": 36,
-   "章题": "",
+   "章题": "曾皙嗜羊枣",
    "file": null,
-   "page": null,
+   "page": "ch/mz259.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ260",
    "卷": "十四",
    "篇": "尽心下",
    "章序": 37,
-   "章题": "",
+   "章题": "孔子在陈",
    "file": null,
-   "page": null,
+   "page": "ch/mz260.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ261",
    "卷": "十四",
    "篇": "尽心下",
    "章序": 38,
-   "章题": "",
+   "章题": "由尧舜至于汤",
    "file": null,
-   "page": null,
+   "page": "ch/mz261.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   }
  ]
 }
