@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">良 知 良 能</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第一百九十二章　MZ192</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">不学而能者，良能也；不虑而知者，良知也</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="400" y1="150" x2="400" y2="404" stroke="#DCD5C8" stroke-width="0.9"/>
+  <circle cx="196" cy="281.9" r="9.9" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="196" y1="291.8" x2="196" y2="372.32" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="196" y1="307.64" x2="174.88" y2="336.68" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="196" y1="307.64" x2="217.12" y2="336.68" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="196" y1="372.32" x2="184.12" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="196" y1="372.32" x2="207.88" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <circle cx="238" cy="346.6" r="4.6" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="238" y1="351.2" x2="238" y2="385.4" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="238" y1="385.4" x2="231" y2="404" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="238" y1="385.4" x2="245" y2="404" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="238" y1="355.2" x2="227" y2="376.1" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="238" y1="355.2" x2="249" y2="376.1" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="228" y1="330" x2="214" y2="352" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="220" y="424" text-anchor="middle" font-size="5.8" letter-spacing="1" fill="#994433" font-weight="400">爱 其 亲</text>
+  <circle cx="506" cy="342.6" r="4.6" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="506" y1="347.2" x2="506" y2="384.2" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="506" y1="384.2" x2="499" y2="404" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="506" y1="384.2" x2="513" y2="404" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="506" y1="351.2" x2="495" y2="374.3" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="506" y1="351.2" x2="517" y2="374.3" stroke="#7C6D5C" stroke-width="0.9"/>
+  <circle cx="580" cy="342.6" r="4.6" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="580" y1="347.2" x2="580" y2="384.2" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="580" y1="384.2" x2="573" y2="404" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="580" y1="384.2" x2="587" y2="404" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="580" y1="351.2" x2="569" y2="374.3" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="580" y1="351.2" x2="591" y2="374.3" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="517" y1="372" x2="540" y2="362" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="569" y1="372" x2="546" y2="362" stroke="#25211D" stroke-width="1.0"/>
+  <path d="M 540,358 q 3,-6 6,-2" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="543" y="424" text-anchor="middle" font-size="5.8" letter-spacing="1" fill="#994433" font-weight="400">敬 其 兄</text>
+  <text x="300" y="220" text-anchor="middle" font-size="6.4" letter-spacing="3" fill="#25211D" font-weight="400">孩 提 之 童</text>
+  <text x="300" y="244" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">无 不 知 爱 其 亲</text>
+  <text x="300" y="470" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#7C6D5C" font-weight="400">亲 亲，仁 也；敬 长，义 也。无 他，达 之 天 下 也。</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">无他，达之天下也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百〇三 · 良知良能 · ch192a</text>
+</svg>

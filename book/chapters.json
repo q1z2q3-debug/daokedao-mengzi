@@ -1,6 +1,6 @@
 {
  "book": "润泽说 道可道之孟子",
- "version": "0.26.0",
+ "version": "0.27.0",
  "count": 260,
  "volumes": [
   {
@@ -2165,110 +2165,110 @@
    "卷": "十三",
    "篇": "尽心上",
    "章序": 11,
-   "章题": "",
+   "章题": "韩魏之家",
    "file": null,
-   "page": null,
+   "page": "ch/mz188.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ189",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 12,
-   "章题": "",
+   "章题": "佚道使民",
    "file": null,
-   "page": null,
+   "page": "ch/mz189.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ190",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 13,
-   "章题": "",
+   "章题": "皞皞",
    "file": null,
-   "page": null,
+   "page": "ch/mz190.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ191",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 14,
-   "章题": "",
+   "章题": "仁声善教",
    "file": null,
-   "page": null,
+   "page": "ch/mz191.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ192",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 15,
-   "章题": "",
+   "章题": "良知良能",
    "file": null,
-   "page": null,
+   "page": "ch/mz192.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ193",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 16,
-   "章题": "",
+   "章题": "决江河",
    "file": null,
-   "page": null,
+   "page": "ch/mz193.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ194",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 17,
-   "章题": "",
+   "章题": "所不为",
    "file": null,
-   "page": null,
+   "page": "ch/mz194.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ195",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 18,
-   "章题": "",
+   "章题": "德慧术知",
    "file": null,
-   "page": null,
+   "page": "ch/mz195.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ196",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 19,
-   "章题": "",
+   "章题": "天民",
    "file": null,
-   "page": null,
+   "page": "ch/mz196.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ197",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 20,
-   "章题": "",
+   "章题": "三乐",
    "file": null,
-   "page": null,
+   "page": "ch/mz197.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ198",
