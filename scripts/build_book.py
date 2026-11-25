@@ -69,7 +69,7 @@ SHELL_OLD = """<!DOCTYPE html>
 <style>%std,th{padding:4px 16px 4px 0;}table{border-collapse:collapse;}th{font-weight:600;color:#7C6D5C}</style>
 </head>
 <body>
-<div class="bar"><div><a href="index.html">← 目录</a></div><div>润 泽 说 · 道 可 道 之 孟 子　卷首</div></div>
+<div class="bar"><div><a href="index.html">← 目录</a></div><div><span class="bname">润 泽 说 · 道 可 道 之 孟 子　</span>卷首</div></div>
 <div class="wrap">
 %s
 %s
@@ -111,7 +111,7 @@ INDEX = """<!DOCTYPE html>
 <style>%s</style>
 </head>
 <body>
-<div class="bar"><div></div><div>润 泽 说 · 道 可 道 之 孟 子</div></div>
+<div class="bar"><div></div><div><span class="bname">润 泽 说 · 道 可 道 之 孟 子</span></div></div>
 <div class="wrap">
 <h1 class="ch">润泽说 道可道之孟子</h1>
 <p>七篇十四卷，二百六十章。底本朱熹《孟子集注》。一章一页，每章十二节，另立「孟子三判」：此章驳谁、立什么、留给后人什么。</p>

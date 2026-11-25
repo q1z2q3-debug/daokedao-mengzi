@@ -24,7 +24,8 @@ a{color:#994433;text-decoration:none;border-bottom:1px solid rgba(153,68,51,.28)
 a:hover{border-bottom-color:#994433}
 .bar{background:#FCFAF6;border-bottom:1px solid #DCD5C8;padding:9px 16px;
   font-family:"Noto Sans SC","PingFang SC",sans-serif;font-size:12px;letter-spacing:.1em;
-  color:#7C6D5C;display:flex;justify-content:space-between;align-items:baseline;gap:12px}
+  color:#7C6D5C;display:flex;justify-content:space-between;align-items:baseline;
+  gap:12px;flex-wrap:wrap;row-gap:4px}
 .wrap{max-width:780px;margin:0 auto;padding:34px 22px 64px}
 h1.title{font-size:40px;line-height:1.4;margin:0 0 10px;font-weight:600;letter-spacing:.1em}
 h1.ch,h2.ch{font-size:30px;letter-spacing:.16em;margin:6px 0 6px;font-weight:600}
@@ -93,6 +94,8 @@ table.t th,table.t td{border-bottom:1px solid #E7E0D4;padding:9px 8px;text-align
   vertical-align:top;word-break:break-word}
 table.t th{color:#994433;font-weight:600;letter-spacing:.08em;background:#FCFAF6}
 @media (max-width:640px){
+  .bar{padding:8px 12px;font-size:10.5px;letter-spacing:.05em;gap:8px}
+  .bname{display:none}
   .wrap{padding:24px 16px 52px}
   h1.title{font-size:27px;letter-spacing:.05em}
   h1.ch,h2.ch{font-size:23px;letter-spacing:.08em}
@@ -158,12 +161,14 @@ figure.fig figcaption span{color:#9C8E7C;}
 table{border-collapse:collapse;margin:18px 0;font-size:14.5px;line-height:1.8;width:100%}
 table th,table td{padding:8px 16px 8px 0;text-align:left;vertical-align:top;border-bottom:1px solid #E7E0D4}
 table th{color:#994433;font-weight:600;letter-spacing:.06em}
-figure.fig{margin:26px 0 8px}
+figure.fig{margin:26px 0 8px;padding:0;overflow-x:auto;-webkit-overflow-scrolling:touch}
 figure.fig svg{width:100%;height:auto;display:block}
 figure.fig figcaption{font-size:12.5px;color:#7C6D5C;letter-spacing:.08em;margin-top:8px;text-align:center}
+figure.fig figcaption a{color:#994433;text-decoration:none;border-bottom:1px solid #DCD5C8}
+@media (max-width:640px){figure.fig figcaption{font-size:11.5px;padding:0 8px}}
 </style>
 </head><body>
-<div class="bar"><div><a href="../index.html">← 目录</a></div><div>润 泽 说 · 道 可 道 之 孟 子　MZ195</div></div>
+<div class="bar"><div><a href="../index.html">← 目录</a></div><div><span class="bname">润 泽 说 · 道 可 道 之 孟 子　</span>MZ195</div></div>
 <div class="wrap">
 <h1 id="第一百九十五章-德慧术知">第一百九十五章　德慧术知</h1>
 <h2 id="一-本章导读">一　本章导读</h2>
@@ -301,8 +306,8 @@ figure.fig figcaption{font-size:12.5px;color:#7C6D5C;letter-spacing:.08em;margin
 </tr>
 </tbody>
 </table>
-<p><strong>图位</strong>　图一百〇六｜一株带伤的树·一枝新出</p>
-<p><figure class="fig"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+<p><strong>图位</strong>　图一百九十五｜一株带伤的树·一枝新出</p>
+<figure class="fig"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
   <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
   <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
   <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
@@ -346,11 +351,11 @@ figure.fig figcaption{font-size:12.5px;color:#7C6D5C;letter-spacing:.08em;margin
   <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
   <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">其操心也危，其虑患也深，故达。</text>
   <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
-  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百〇六 · 德慧术知 · ch195a</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百九十五 · 德慧术知 · ch195a</text>
 </svg>
-<figcaption>图一百〇六｜德慧术知：画面左一株树，直干三枝，干中腰一道赭色横痕，痕上斜出一枝，枝端一点；注”疢疾
+<figcaption>图一百九十五｜德慧术知：画面左一株树，直干三枝，干中腰一道赭色横痕，痕上斜出一枝，枝端一点；注”疢疾
 · 灾患”；右两人并立，一高为”孤臣”，一矮为”孽子”，其上横线一道注”操心也危
-· 虑患也深”，下注”故达”</figcaption></figure></p>
+· 虑患也深”，下注”故达”　<a href="../assets/fig/ch195a-dehui-shuzhi.svg" target="_blank" rel="noopener">原图 ↗</a></figcaption></figure>
 <p>读图三处：</p>
 <ol type="1">
 <li><strong>痕在干上，不在枝上。</strong> 伤在根干。</li>
@@ -359,7 +364,7 @@ figure.fig figcaption{font-size:12.5px;color:#7C6D5C;letter-spacing:.08em;margin
 </ol>
 <p>图说一句：<strong>伤不是好事，可它长东西。</strong></p>
 
-<div class="foot"><div>润泽说 道可道之孟子　v0.34.0　（2026-11-26）</div><div><a href="../book.html">卷首</a><a href="../index.html">目录</a><a href="https://github.com/q1z2q3-debug/daokedao-mengzi">GitHub</a></div></div>
+<div class="foot"><div>润泽说 道可道之孟子　v0.35.0　（2026-11-26）</div><div><a href="../book.html">卷首</a><a href="../index.html">目录</a><a href="https://github.com/q1z2q3-debug/daokedao-mengzi">GitHub</a></div></div>
 </div>
 </body>
 </html>

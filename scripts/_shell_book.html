@@ -24,7 +24,8 @@ a{color:#994433;text-decoration:none;border-bottom:1px solid rgba(153,68,51,.28)
 a:hover{border-bottom-color:#994433}
 .bar{background:#FCFAF6;border-bottom:1px solid #DCD5C8;padding:9px 16px;
   font-family:"Noto Sans SC","PingFang SC",sans-serif;font-size:12px;letter-spacing:.1em;
-  color:#7C6D5C;display:flex;justify-content:space-between;align-items:baseline;gap:12px}
+  color:#7C6D5C;display:flex;justify-content:space-between;align-items:baseline;
+  gap:12px;flex-wrap:wrap;row-gap:4px}
 .wrap{max-width:780px;margin:0 auto;padding:34px 22px 64px}
 h1.title{font-size:40px;line-height:1.4;margin:0 0 10px;font-weight:600;letter-spacing:.1em}
 h1.ch,h2.ch{font-size:30px;letter-spacing:.16em;margin:6px 0 6px;font-weight:600}
@@ -93,6 +94,8 @@ table.t th,table.t td{border-bottom:1px solid #E7E0D4;padding:9px 8px;text-align
   vertical-align:top;word-break:break-word}
 table.t th{color:#994433;font-weight:600;letter-spacing:.08em;background:#FCFAF6}
 @media (max-width:640px){
+  .bar{padding:8px 12px;font-size:10.5px;letter-spacing:.05em;gap:8px}
+  .bname{display:none}
   .wrap{padding:24px 16px 52px}
   h1.title{font-size:27px;letter-spacing:.05em}
   h1.ch,h2.ch{font-size:23px;letter-spacing:.08em}

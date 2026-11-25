@@ -18,9 +18,11 @@ EXTRA = """
 table{border-collapse:collapse;margin:18px 0;font-size:14.5px;line-height:1.8;width:100%}
 table th,table td{padding:8px 16px 8px 0;text-align:left;vertical-align:top;border-bottom:1px solid #E7E0D4}
 table th{color:#994433;font-weight:600;letter-spacing:.06em}
-figure.fig{margin:26px 0 8px}
+figure.fig{margin:26px 0 8px;padding:0;overflow-x:auto;-webkit-overflow-scrolling:touch}
 figure.fig svg{width:100%;height:auto;display:block}
 figure.fig figcaption{font-size:12.5px;color:#7C6D5C;letter-spacing:.08em;margin-top:8px;text-align:center}
+figure.fig figcaption a{color:#994433;text-decoration:none;border-bottom:1px solid #DCD5C8}
+@media (max-width:640px){figure.fig figcaption{font-size:11.5px;padding:0 8px}}
 """
 
 
@@ -36,7 +38,9 @@ def fig_inline(key, caption):
     if not hits:
         return '<p class="todo">（缺图：%s）</p>' % key
     svg = open(hits[0], encoding="utf-8").read()
-    return '<figure class="fig">%s<figcaption>%s</figcaption></figure>' % (svg, caption)
+    name = os.path.basename(hits[0])
+    return ('<figure class="fig">%s<figcaption>%s　<a href="../assets/fig/%s" target="_blank" rel="noopener">原图 ↗</a></figcaption></figure>'
+            % (svg, caption, name))
 
 
 def main():
@@ -51,13 +55,15 @@ def main():
         title = os.path.basename(md)[:-3].split("-", 1)[1]
         raw = subprocess.run(["pandoc", "-f", "markdown", "-t", "html5", "--no-highlight", md],
                              capture_output=True, text=True, check=True).stdout
+        raw = re.sub(r"<p>\s*\{\{fig:([a-z0-9]+)\|([^}]+)\}\}\s*</p>",
+                     lambda m: fig_inline(m.group(1), m.group(2)), raw)
         raw = re.sub(r"\{\{fig:([a-z0-9]+)\|([^}]+)\}\}",
                      lambda m: fig_inline(m.group(1), m.group(2)), raw)
         raw = raw.replace("<h1>", '<h1 class="ch">', 1)
         page = "ch/%s.html" % ch["id"].lower()
         doc = (head().replace("__TITLE__", "润泽说 道可道之孟子 · %s %s" % (ch["id"], title))
                + '<body>\n<div class="bar"><div><a href="../index.html">← 目录</a></div>'
-                 '<div>润 泽 说 · 道 可 道 之 孟 子　%s</div></div>\n' % ch["id"]
+                 '<div><span class="bname">润 泽 说 · 道 可 道 之 孟 子　</span>%s</div></div>\n' % ch["id"]
                + '<div class="wrap">\n' + raw + '\n'
                + '<div class="foot"><div>润泽说 道可道之孟子　v%s　（%s）</div>'
                  '<div><a href="../book.html">卷首</a><a href="../index.html">目录</a>'
