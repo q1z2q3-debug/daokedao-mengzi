@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">饭 糗 茹 草</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百二十九章　MZ229</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.5" letter-spacing="1" fill="#BFB4A4" font-weight="400">舜之饭糗茹草也，若将终身焉；及其为天子也，被袗衣，鼓琴</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <text x="380" y="160" text-anchor="middle" font-size="6.2" letter-spacing="2" fill="#25211D" font-weight="400">随 遇 而 安，无 预 于 己</text>
+  <path d="M 380,182 L 380,404" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="4,4"/>
+  <circle cx="206" cy="294.85" r="8.85" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="206" y1="303.7" x2="206" y2="375.68" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="206" y1="317.86" x2="187.12" y2="343.82" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="206" y1="317.86" x2="224.88" y2="343.82" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="206" y1="375.68" x2="195.38" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="206" y1="375.68" x2="216.62" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <ellipse cx="262" cy="322" rx="24" ry="8" fill="#F0EBE2" stroke="#25211D" stroke-width="1.4"/>
+  <path d="M 238,322 C 238,334.0 248.8,338.8 262,338.8 C 275.2,338.8 286,334.0 286,322" fill="#F0EBE2" stroke="#25211D" stroke-width="1.4"/>
+  <path d="M 254.8,338.8 L 256.24,342.8 L 267.76,342.8 L 269.2,338.8" fill="none" stroke="#25211D" stroke-width="1.26"/>
+  <line x1="210" y1="330" x2="242" y2="324" stroke="#25211D" stroke-width="0.9"/>
+  <text x="212" y="424" text-anchor="middle" font-size="4.9" letter-spacing="1" fill="#BFB4A4" font-weight="400">饭 糗 茹 草</text>
+  <text x="206" y="254" text-anchor="middle" font-size="4.6" letter-spacing="1" fill="#7C6D5C" font-weight="400">若 将 终 身 焉</text>
+  <circle cx="560" cy="285.6" r="9.6" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="560" y1="295.2" x2="560" y2="308.0" stroke="#25211D" stroke-width="1.44"/>
+  <path d="M 553.6,308.0 L 534.4,325.92 L 529.28,404 L 590.72,404 L 585.6,325.92 L 566.4,308.0 Z" fill="#F0EBE2" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="544.64" y1="346.4" x2="560" y2="402" stroke="#25211D" stroke-width="0.84"/>
+  <line x1="575.36" y1="346.4" x2="560" y2="402" stroke="#25211D" stroke-width="0.84"/>
+  <circle cx="492" cy="346.6" r="4.6" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="492" y1="351.2" x2="492" y2="385.4" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="492" y1="385.4" x2="485" y2="404" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="492" y1="385.4" x2="499" y2="404" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="492" y1="355.2" x2="481" y2="376.1" stroke="#BFB4A4" stroke-width="0.81"/>
+  <line x1="492" y1="355.2" x2="503" y2="376.1" stroke="#BFB4A4" stroke-width="0.81"/>
+  <circle cx="628" cy="346.6" r="4.6" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="628" y1="351.2" x2="628" y2="385.4" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="628" y1="385.4" x2="621" y2="404" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="628" y1="385.4" x2="635" y2="404" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="628" y1="355.2" x2="617" y2="376.1" stroke="#BFB4A4" stroke-width="0.81"/>
+  <line x1="628" y1="355.2" x2="639" y2="376.1" stroke="#BFB4A4" stroke-width="0.81"/>
+  <text x="560" y="424" text-anchor="middle" font-size="4.9" letter-spacing="1" fill="#BFB4A4" font-weight="400">被 袗 衣，鼓 琴</text>
+  <text x="560" y="262" text-anchor="middle" font-size="4.6" letter-spacing="1" fill="#7C6D5C" font-weight="400">二 女 侍，若 固 有 之</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">圣人之心，不以贫贱而有慕于外，不以富贵而有动于中。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百四十 · 饭糗茹草 · ch229a</text>
+</svg>

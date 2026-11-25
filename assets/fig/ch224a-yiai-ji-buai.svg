@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">以 爱 及 不 爱</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百二十四章　MZ224</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.9" letter-spacing="1" fill="#BFB4A4" font-weight="400">不仁哉，梁惠王也！</text>
+  <text x="380" y="150" text-anchor="middle" font-size="6.0" letter-spacing="2" fill="#25211D" font-weight="400">仁者：以 所 爱，及 所 不 爱</text>
+  <text x="380" y="172" text-anchor="middle" font-size="6.0" letter-spacing="2" fill="#994433" font-weight="400">不仁者：以 所 不 爱，及 所 爱</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <path d="M 380,200 L 380,404" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="4,4"/>
+  <circle cx="216" cy="287.45" r="9.45" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="216" y1="296.9" x2="216" y2="373.76" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="216" y1="312.02" x2="195.84" y2="339.74" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="216" y1="312.02" x2="236.16" y2="339.74" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="216" y1="373.76" x2="204.66" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="216" y1="373.76" x2="227.34" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <circle cx="216" cy="330" r="4.2" fill="#7C6D5C" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="222" y1="326" x2="296" y2="268" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 294.8,271.2 L 296,268 L 292.6,268.4" fill="none" stroke="#7C6D5C" stroke-width="0.81"/>
+  <line x1="222" y1="330" x2="304" y2="322" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 301.3,324.0 L 304,322 L 300.9,320.5" fill="none" stroke="#7C6D5C" stroke-width="0.81"/>
+  <line x1="222" y1="334" x2="296" y2="382" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 292.6,381.9 L 296,382 L 294.5,378.9" fill="none" stroke="#7C6D5C" stroke-width="0.81"/>
+  <text x="216" y="424" text-anchor="middle" font-size="4.9" letter-spacing="1" fill="#7C6D5C" font-weight="400">以 所 爱 及 所 不 爱</text>
+  <line x1="470" y1="366" x2="610" y2="366" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="470" y1="378" x2="610" y2="378" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="470" y1="390" x2="610" y2="390" stroke="#8C7B69" stroke-width="1.1"/>
+  <text x="540" y="340" text-anchor="middle" font-size="5.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">土 地</text>
+  <line x1="612" y1="362" x2="660" y2="344" stroke="#994433" stroke-width="1.1"/>
+  <path d="M 657.5,347.1 L 660,344 L 656.1,343.3" fill="none" stroke="#994433" stroke-width="0.9900000000000001"/>
+  <circle cx="676" cy="354.6" r="4.6" fill="none" stroke="#994433" stroke-width="1.0"/>
+  <line x1="676" y1="359.2" x2="676" y2="387.8" stroke="#994433" stroke-width="1.0"/>
+  <line x1="676" y1="387.8" x2="669" y2="404" stroke="#994433" stroke-width="1.0"/>
+  <line x1="676" y1="387.8" x2="683" y2="404" stroke="#994433" stroke-width="1.0"/>
+  <line x1="676" y1="363.2" x2="665" y2="379.7" stroke="#994433" stroke-width="0.9"/>
+  <line x1="676" y1="363.2" x2="687" y2="379.7" stroke="#994433" stroke-width="0.9"/>
+  <text x="676" y="424" text-anchor="middle" font-size="4.9" letter-spacing="1" fill="#994433" font-weight="400">所 爱 子 弟</text>
+  <text x="470" y="424" text-anchor="middle" font-size="4.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">糜 烂 其 民</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">仁人之恩，自内及外；不仁之祸，由疏逮亲。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百三十五 · 以爱及不爱 · ch224a</text>
+</svg>

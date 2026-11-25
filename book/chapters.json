@@ -1,6 +1,6 @@
 {
  "book": "润泽说 道可道之孟子",
- "version": "0.30.0",
+ "version": "0.31.0",
  "count": 260,
  "volumes": [
   {
@@ -2561,110 +2561,110 @@
    "卷": "十四",
    "篇": "尽心下",
    "章序": 1,
-   "章题": "",
+   "章题": "以爱及不爱",
    "file": null,
-   "page": null,
+   "page": "ch/mz224.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ225",
    "卷": "十四",
    "篇": "尽心下",
    "章序": 2,
-   "章题": "",
+   "章题": "春秋无义战",
    "file": null,
-   "page": null,
+   "page": "ch/mz225.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ226",
    "卷": "十四",
    "篇": "尽心下",
    "章序": 3,
-   "章题": "",
+   "章题": "尽信书",
    "file": null,
-   "page": null,
+   "page": "ch/mz226.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ227",
    "卷": "十四",
    "篇": "尽心下",
    "章序": 4,
-   "章题": "",
+   "章题": "我善为战",
    "file": null,
-   "page": null,
+   "page": "ch/mz227.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ228",
    "卷": "十四",
    "篇": "尽心下",
    "章序": 5,
-   "章题": "",
+   "章题": "与人规矩",
    "file": null,
-   "page": null,
+   "page": "ch/mz228.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ229",
    "卷": "十四",
    "篇": "尽心下",
    "章序": 6,
-   "章题": "",
+   "章题": "饭糗茹草",
    "file": null,
-   "page": null,
+   "page": "ch/mz229.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ230",
    "卷": "十四",
    "篇": "尽心下",
    "章序": 7,
-   "章题": "",
+   "章题": "杀人之亲",
    "file": null,
-   "page": null,
+   "page": "ch/mz230.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ231",
    "卷": "十四",
    "篇": "尽心下",
    "章序": 8,
-   "章题": "",
+   "章题": "为关",
    "file": null,
-   "page": null,
+   "page": "ch/mz231.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ232",
    "卷": "十四",
    "篇": "尽心下",
    "章序": 9,
-   "章题": "",
+   "章题": "身不行道",
    "file": null,
-   "page": null,
+   "page": "ch/mz232.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ233",
    "卷": "十四",
    "篇": "尽心下",
    "章序": 10,
-   "章题": "",
+   "章题": "周于德",
    "file": null,
-   "page": null,
+   "page": "ch/mz233.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ234",

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">与 人 规 矩</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百二十八章　MZ228</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">梓匠轮舆能与人规矩，不能使人巧</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <circle cx="200" cy="293.0" r="9.0" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="200" y1="302.0" x2="200" y2="375.2" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="200" y1="316.4" x2="180.8" y2="340.4" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="200" y1="316.4" x2="260.0" y2="323.59999999999997" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="200" y1="375.2" x2="189.2" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="200" y1="375.2" x2="210.8" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="236" y1="300" x2="236" y2="332" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="236" y1="300" x2="276" y2="300" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="236" y1="300" x2="252.8" y2="317.6" stroke="#BFB4A4" stroke-width="0.6"/>
+  <text x="200" y="424" text-anchor="middle" font-size="4.9" letter-spacing="1" fill="#BFB4A4" font-weight="400">梓 匠 轮 舆</text>
+  <circle cx="440" cy="300.4" r="8.4" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="440" y1="308.8" x2="440" y2="377.12" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="440" y1="322.24" x2="422.08" y2="346.88" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="440" y1="322.24" x2="457.92" y2="346.88" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="440" y1="377.12" x2="429.92" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="440" y1="377.12" x2="450.08" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="420" y1="330" x2="420" y2="362" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="420" y1="330" x2="460" y2="330" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="420" y1="330" x2="436.8" y2="347.6" stroke="#BFB4A4" stroke-width="0.6"/>
+  <text x="440" y="424" text-anchor="middle" font-size="4.9" letter-spacing="1" fill="#BFB4A4" font-weight="400">受 规 矩 者</text>
+  <path d="M 282,316 L 412,336" fill="none" stroke="#DCD5C8" stroke-width="1.0" stroke-dasharray="5,3"/>
+  <text x="344" y="296" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#7C6D5C" font-weight="400">能 与 人 规 矩</text>
+  <text x="600" y="268" text-anchor="middle" font-size="10.0" letter-spacing="2" fill="#7C6D5C" font-weight="400">巧</text>
+  <path d="M 576,278 L 556,292" fill="none" stroke="#DCD5C8" stroke-width="1.0" stroke-dasharray="5,3"/>
+  <path d="M 536,304 L 514,330" fill="none" stroke="#DCD5C8" stroke-width="1.0" stroke-dasharray="5,3"/>
+  <text x="604" y="292" text-anchor="middle" font-size="4.6" letter-spacing="1" fill="#994433" font-weight="400">不 能 使 人 巧</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">规矩，法度可告者也；巧则在其人。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百三十九 · 与人规矩 · ch228a</text>
+</svg>

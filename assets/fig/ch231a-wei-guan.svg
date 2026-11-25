@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">为 关</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百三十一章　MZ231</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.9" letter-spacing="1" fill="#BFB4A4" font-weight="400">古之为关也，将以御暴；今之为关也，将以为暴</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="328.0" y1="404" x2="328.0" y2="308" stroke="#25211D" stroke-width="1.3"/>
+  <line x1="432.0" y1="404" x2="432.0" y2="308" stroke="#25211D" stroke-width="1.3"/>
+  <line x1="320.0" y1="308" x2="440.0" y2="308" stroke="#25211D" stroke-width="1.56"/>
+  <line x1="380" y1="404" x2="380" y2="314" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="328.0" y1="351.2" x2="432.0" y2="351.2" stroke="#BFB4A4" stroke-width="0.7"/>
+  <text x="380" y="424" text-anchor="middle" font-size="6.2" letter-spacing="1" fill="#7C6D5C" font-weight="400">关</text>
+  <text x="380" y="156" text-anchor="middle" font-size="6.2" letter-spacing="2" fill="#25211D" font-weight="400">同 一 关 也，古 今 两 心</text>
+  <path d="M 172,320 Q 206,306 240,320 L 240,354 Q 206,394 172,354 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M 206,318 L 206,384" fill="none" stroke="#BFB4A4" stroke-width="0.7"/>
+  <text x="206" y="424" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#7C6D5C" font-weight="400">御 暴</text>
+  <line x1="248" y1="350" x2="320" y2="350" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 316.6,352.1 L 320,350 L 316.6,347.9" fill="none" stroke="#7C6D5C" stroke-width="0.81"/>
+  <circle cx="500" cy="350" r="14" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <rect x="494.96" y="344.96" width="10.08" height="10.08" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <circle cx="536" cy="362" r="14" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <rect x="530.96" y="356.96" width="10.08" height="10.08" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <text x="518" y="424" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#994433" font-weight="400">为 暴</text>
+  <line x1="440" y1="350" x2="478" y2="350" stroke="#994433" stroke-width="0.9"/>
+  <path d="M 474.6,352.1 L 478,350 L 474.6,347.9" fill="none" stroke="#994433" stroke-width="0.81"/>
+  <text x="380" y="268" text-anchor="middle" font-size="5.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">关</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">古之为关也，将以御暴；今之为关也，将以为暴。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百四十二 · 为关 · ch231a</text>
+</svg>

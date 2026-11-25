@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">春 秋 无 义 战</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百二十五章　MZ225</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.7" letter-spacing="1" fill="#BFB4A4" font-weight="400">彼善于此，则有之矣；征者，上伐下也，敌国不相征也</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <rect x="300" y="168" width="160" height="26" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.0"/>
+  <line x1="318" y1="168" x2="318" y2="194" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="340" y1="168" x2="340" y2="194" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="362" y1="168" x2="362" y2="194" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="384" y1="168" x2="384" y2="194" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="303" y1="175" x2="457" y2="175" stroke="#7C6D5C" stroke-width="0.7"/>
+  <line x1="303" y1="187" x2="457" y2="187" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="380" y="160" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#7C6D5C" font-weight="400">《春 秋》</text>
+  <text x="380" y="226" text-anchor="middle" font-size="7.4" letter-spacing="2" fill="#994433" font-weight="400">无 义 战</text>
+  <circle cx="176" cy="343" r="5" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="176" y1="348" x2="176" y2="388.16" stroke="#25211D" stroke-width="1.125"/>
+  <line x1="176" y1="355.92" x2="165.44" y2="370.44" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="176" y1="355.92" x2="186.56" y2="370.44" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="176" y1="388.16" x2="170.06" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="176" y1="388.16" x2="181.94" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <circle cx="584" cy="343" r="5" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="584" y1="348" x2="584" y2="388.16" stroke="#25211D" stroke-width="1.125"/>
+  <line x1="584" y1="355.92" x2="573.44" y2="370.44" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="584" y1="355.92" x2="594.56" y2="370.44" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="584" y1="388.16" x2="578.06" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="584" y1="388.16" x2="589.94" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <circle cx="218" cy="343" r="5" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="218" y1="348" x2="218" y2="388.16" stroke="#25211D" stroke-width="1.125"/>
+  <line x1="218" y1="355.92" x2="207.44" y2="370.44" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="218" y1="355.92" x2="228.56" y2="370.44" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="218" y1="388.16" x2="212.06" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="218" y1="388.16" x2="223.94" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <circle cx="542" cy="343" r="5" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="542" y1="348" x2="542" y2="388.16" stroke="#25211D" stroke-width="1.125"/>
+  <line x1="542" y1="355.92" x2="531.44" y2="370.44" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="542" y1="355.92" x2="552.56" y2="370.44" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="542" y1="388.16" x2="536.06" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="542" y1="388.16" x2="547.94" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <circle cx="260" cy="343" r="5" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="260" y1="348" x2="260" y2="388.16" stroke="#25211D" stroke-width="1.125"/>
+  <line x1="260" y1="355.92" x2="249.44" y2="370.44" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="260" y1="355.92" x2="270.56" y2="370.44" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="260" y1="388.16" x2="254.06" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="260" y1="388.16" x2="265.94" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <circle cx="500" cy="343" r="5" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="500" y1="348" x2="500" y2="388.16" stroke="#25211D" stroke-width="1.125"/>
+  <line x1="500" y1="355.92" x2="489.44" y2="370.44" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="500" y1="355.92" x2="510.56" y2="370.44" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="500" y1="388.16" x2="494.06" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="500" y1="388.16" x2="505.94" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <text x="218" y="424" text-anchor="middle" font-size="6.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">彼</text>
+  <text x="542" y="424" text-anchor="middle" font-size="6.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">此</text>
+  <line x1="292" y1="356" x2="344" y2="356" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 340.6,358.1 L 344,356 L 340.6,353.9" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <line x1="468" y1="356" x2="416" y2="356" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 419.4,353.9 L 416,356 L 419.4,358.1" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <text x="380" y="372" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#BFB4A4" font-weight="400">相 征</text>
+  <text x="380" y="396" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#7C6D5C" font-weight="400">敌 国 不 相 征</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">《春秋》无义战。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百三十六 · 春秋无义战 · ch225a</text>
+</svg>
