@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">居 移 气</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第二百一十三章　MZ213</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.7" letter-spacing="1" fill="#BFB4A4" font-weight="400">孟子自范之齐，望见齐王之子，喟然叹曰：居移气，养移体</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <path d="M 142.0,404 L 142.0,330 L 206,296 L 270.0,330 L 270.0,404" fill="#F0EBE2" stroke="#25211D" stroke-width="1.3"/>
+  <rect x="190" y="348" width="32" height="56" fill="#FCFAF6" stroke="#25211D" stroke-width="1.1700000000000002"/>
+  <text x="206" y="428" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">王 子 宫 室</text>
+  <circle cx="380" cy="291.15" r="9.15" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="380" y1="300.3" x2="380" y2="312.5" stroke="#25211D" stroke-width="1.44"/>
+  <path d="M 373.9,312.5 L 355.6,329.58 L 350.72,404 L 409.28,404 L 404.4,329.58 L 386.1,312.5 Z" fill="#F0EBE2" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="365.36" y1="349.1" x2="380" y2="402" stroke="#25211D" stroke-width="0.84"/>
+  <line x1="394.64" y1="349.1" x2="380" y2="402" stroke="#25211D" stroke-width="0.84"/>
+  <text x="380" y="428" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#7C6D5C" font-weight="400">居 移 气</text>
+  <circle cx="556" cy="291.15" r="9.15" fill="none" stroke="#BFB4A4" stroke-width="1.0"/>
+  <line x1="556" y1="300.3" x2="556" y2="312.5" stroke="#BFB4A4" stroke-width="1.2"/>
+  <path d="M 549.9,312.5 L 531.6,329.58 L 526.72,404 L 585.28,404 L 580.4,329.58 L 562.1,312.5 Z" fill="None" stroke="#BFB4A4" stroke-width="1.0"/>
+  <line x1="541.36" y1="349.1" x2="556" y2="402" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="570.64" y1="349.1" x2="556" y2="402" stroke="#BFB4A4" stroke-width="0.7"/>
+  <text x="556" y="428" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">养 移 体</text>
+  <text x="380" y="196" text-anchor="middle" font-size="6.4" letter-spacing="2" fill="#25211D" font-weight="400">夫 非 尽 人 之 子 与</text>
+  <text x="380" y="246" text-anchor="middle" font-size="4.9" letter-spacing="1" fill="#BFB4A4" font-weight="400">同 为 人 子，气 体 不 同</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">居移气，养移体，大哉居乎！</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百二十四 · 居移气 · ch213a</text>
+</svg>

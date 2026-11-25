@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">恭 敬 在 币 先</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第二百一十四章　MZ214</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">食而弗爱，豕交之也；爱而不敬，兽畜之也</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <rect x="196" y="344" width="168" height="12" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.3"/>
+  <line x1="210" y1="356" x2="210" y2="406" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="350" y1="356" x2="350" y2="406" stroke="#8C7B69" stroke-width="1.1"/>
+  <rect x="238" y="308" width="84" height="32" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.1"/>
+  <ellipse cx="238" cy="324.0" rx="6" ry="16.0" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.8800000000000001"/>
+  <ellipse cx="322" cy="324.0" rx="6" ry="16.0" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.8800000000000001"/>
+  <line x1="263.2" y1="308" x2="263.2" y2="340" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="293.44" y1="308" x2="293.44" y2="340" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="280" y="428" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#7C6D5C" font-weight="400">币 之 未 将</text>
+  <circle cx="520" cy="294.85" r="8.85" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="520" y1="303.7" x2="520" y2="375.68" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="520" y1="317.86" x2="501.12" y2="343.82" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="520" y1="317.86" x2="538.88" y2="343.82" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="520" y1="375.68" x2="509.38" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="520" y1="375.68" x2="530.62" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <circle cx="520" cy="232" r="30" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <text x="520" y="237" text-anchor="middle" font-size="7.4" letter-spacing="0" fill="#7C6D5C" font-weight="400">敬</text>
+  <text x="380" y="180" text-anchor="middle" font-size="5.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">恭 敬 者，币 之 未 将 者 也</text>
+  <text x="520" y="196" text-anchor="middle" font-size="4.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">先 有 此 心</text>
+  <text x="180" y="246" text-anchor="middle" font-size="4.9" letter-spacing="1" fill="#BFB4A4" font-weight="400">食 而 弗 爱</text>
+  <text x="620" y="428" text-anchor="middle" font-size="4.9" letter-spacing="1" fill="#BFB4A4" font-weight="400">爱 而 不 敬</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">恭敬而无实，君子不可虚拘。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百二十五 · 恭敬在币先 · ch214a</text>
+</svg>

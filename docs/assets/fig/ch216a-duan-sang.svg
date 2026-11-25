@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">短 丧</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第二百一十六章　MZ216</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.9" letter-spacing="1" fill="#BFB4A4" font-weight="400">齐宣王欲短丧。曰：为期之丧，犹愈于已乎？</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <rect x="300" y="286" width="320" height="34" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.1"/>
+  <ellipse cx="300" cy="303.0" rx="6" ry="17.0" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.8800000000000001"/>
+  <ellipse cx="620" cy="303.0" rx="6" ry="17.0" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.8800000000000001"/>
+  <line x1="396.0" y1="286" x2="396.0" y2="320" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="511.20000000000005" y1="286" x2="511.20000000000005" y2="320" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="460" y="274" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#7C6D5C" font-weight="400">三 年 之 丧</text>
+  <rect x="300" y="336" width="148" height="34" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.1"/>
+  <ellipse cx="300" cy="353.0" rx="6" ry="17.0" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.8800000000000001"/>
+  <ellipse cx="448" cy="353.0" rx="6" ry="17.0" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.8800000000000001"/>
+  <line x1="344.4" y1="336" x2="344.4" y2="370" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="397.68" y1="336" x2="397.68" y2="370" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="374" y="326" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#994433" font-weight="400">期 年</text>
+  <path d="M 448,360 L 620,360" fill="none" stroke="#DCD5C8" stroke-width="0.9"/>
+  <path d="M 620,360 L 620,300" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="3,3"/>
+  <path d="M 620,300 L 620,270" fill="none" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="3,2"/>
+  <text x="576" y="380" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#994433" font-weight="400">所 短</text>
+  <circle cx="196" cy="304.1" r="8.1" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="196" y1="312.2" x2="196" y2="378.08" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="196" y1="325.15999999999997" x2="178.72" y2="348.91999999999996" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="196" y1="325.15999999999997" x2="213.28" y2="348.91999999999996" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="196" y1="378.08" x2="186.28" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="196" y1="378.08" x2="205.72" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <circle cx="216" cy="300.6" r="4.6" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="216" y1="305.2" x2="216" y2="326.8" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="216" y1="326.8" x2="209" y2="340" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="216" y1="326.8" x2="223" y2="340" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="216" y1="309.2" x2="205" y2="320.2" stroke="#BFB4A4" stroke-width="0.81"/>
+  <line x1="216" y1="309.2" x2="227" y2="320.2" stroke="#BFB4A4" stroke-width="0.81"/>
+  <path d="M 200,344 C 210,332 226,332 236,344" fill="none" stroke="#8C7B69" stroke-width="0.9"/>
+  <path d="M 196,340 q 14,-4 24,4" fill="none" stroke="#8C7B69" stroke-width="1.0"/>
+  <text x="208" y="424" text-anchor="middle" font-size="4.9" letter-spacing="1" fill="#7C6D5C" font-weight="400">子 生 三 年，免 于 父 母 之 怀</text>
+  <text x="470" y="200" text-anchor="middle" font-size="6.2" letter-spacing="2" fill="#25211D" font-weight="400">教 之 孝 弟 而 已 矣</text>
+  <text x="470" y="222" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#BFB4A4" font-weight="400">非 强 之，示 之 以 至 情</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">三年通丧，天经地义，不容私意有所短长。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百二十七 · 短丧 · ch216a</text>
+</svg>
