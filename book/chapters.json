@@ -1,6 +1,6 @@
 {
  "book": "润泽说 道可道之孟子",
- "version": "0.24.0",
+ "version": "0.25.0",
  "count": 260,
  "volumes": [
   {
@@ -1989,66 +1989,66 @@
    "卷": "十二",
    "篇": "告子下",
    "章序": 11,
-   "章题": "",
+   "章题": "以邻为壑",
    "file": null,
-   "page": null,
+   "page": "ch/mz172.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ173",
    "卷": "十二",
    "篇": "告子下",
    "章序": 12,
-   "章题": "",
+   "章题": "不亮无执",
    "file": null,
-   "page": null,
+   "page": "ch/mz173.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ174",
    "卷": "十二",
    "篇": "告子下",
    "章序": 13,
-   "章题": "",
+   "章题": "好善优于天下",
    "file": null,
-   "page": null,
+   "page": "ch/mz174.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ175",
    "卷": "十二",
    "篇": "告子下",
    "章序": 14,
-   "章题": "",
+   "章题": "所就三所去三",
    "file": null,
-   "page": null,
+   "page": "ch/mz175.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ176",
    "卷": "十二",
    "篇": "告子下",
    "章序": 15,
-   "章题": "",
+   "章题": "生于忧患",
    "file": null,
-   "page": null,
+   "page": "ch/mz176.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ177",
    "卷": "十二",
    "篇": "告子下",
    "章序": 16,
-   "章题": "",
+   "章题": "教亦多术",
    "file": null,
-   "page": null,
+   "page": "ch/mz177.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ178",

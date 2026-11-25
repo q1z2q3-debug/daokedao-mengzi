@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">以 邻 为 壑</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子下　第一百七十二章　MZ172</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">禹之治水，水之道也；今吾子以邻国为壑</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <circle cx="178" cy="300" r="44" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M 148,296 q 12,-7 24,0 q 12,7 24,0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 148,312 q 12,-7 24,0 q 12,7 24,0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="178" y="360" text-anchor="middle" font-size="6.4" letter-spacing="2" fill="#7C6D5C" font-weight="400">四 海</text>
+  <path d="M 222,300 q 34,-8 66,0 q 34,8 70,0 q 34,-8 68,0" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <path d="M 222,312 q 34,-8 66,0 q 34,8 70,0 q 34,-8 68,0" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <text x="330" y="288" text-anchor="middle" font-size="5.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">顺 水 之 性</text>
+  <path d="M 436,404 L 456,300 L 480,300 L 500,404 Z" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.2"/>
+  <text x="468" y="424" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#7C6D5C" font-weight="400">堤</text>
+  <circle cx="372" cy="317.05" r="7.05" fill="none" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="372" y1="324.1" x2="372" y2="381.44" stroke="#25211D" stroke-width="1.25"/>
+  <line x1="372" y1="335.38" x2="356.96" y2="356.06" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="372" y1="335.38" x2="387.04" y2="356.06" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="372" y1="381.44" x2="363.54" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="372" y1="381.44" x2="380.46" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <text x="372" y="424" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">白 圭</text>
+  <line x1="390" y1="320" x2="452" y2="302" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 480,300 q 44,26 62,64 q 8,16 10,26" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="548" y1="394" x2="606" y2="396" stroke="#994433" stroke-width="1.1"/>
+  <path d="M 601.6,398.4 L 606,396 L 601.8,393.3" fill="none" stroke="#994433" stroke-width="0.9900000000000001"/>
+  <rect x="612" y="356" width="78" height="48" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.2"/>
+  <rect x="616" y="346" width="12" height="12" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.0"/>
+  <rect x="642" y="346" width="12" height="12" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.0"/>
+  <rect x="668" y="346" width="12" height="12" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.0"/>
+  <line x1="651" y1="404" x2="651" y2="372" stroke="#8C7B69" stroke-width="0.9"/>
+  <text x="651" y="424" text-anchor="middle" font-size="5.6" letter-spacing="2" fill="#7C6D5C" font-weight="400">邻 国</text>
+  <text x="520" y="338" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#994433" font-weight="400">洚 水</text>
+  <text x="380" y="224" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">禹以四海为壑　今吾子以邻国为壑</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">水逆行谓之洚水；洚水者，洪水也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图八十三 · 以邻为壑 · ch172a</text>
+</svg>
