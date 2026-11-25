@@ -27,7 +27,7 @@ figure.fig figcaption{font-size:12.5px;color:#7C6D5C;letter-spacing:.08em;margin
 def head():
     shell = open(os.path.join(ROOT, "scripts/_shell_book.html"), encoding="utf-8").read()
     h = shell[:shell.index("</head>") + 7]
-    h = h.replace("<title>润泽说 道可道之孟子 · 卷首</title>", "<title>__TITLE__</title>")
+    h = re.sub(r"<title>.*?</title>", "<title>__TITLE__</title>", h, count=1, flags=re.S)
     return h.replace("</style>", EXTRA + "</style>")
 
 
