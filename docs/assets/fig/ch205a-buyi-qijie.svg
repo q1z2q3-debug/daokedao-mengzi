@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">不 易 其 介</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第二百〇五章　MZ205</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">柳下惠不以三公易其介</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <rect x="128" y="316" width="132" height="10" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.3"/>
+  <line x1="142" y1="326" x2="142" y2="378" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="246" y1="326" x2="246" y2="378" stroke="#8C7B69" stroke-width="1.1"/>
+  <rect x="161.0" y="282" width="66" height="15" fill="#F0EBE2" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="161.0" y1="285" x2="227.0" y2="285" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="176.84" y1="297" x2="176.84" y2="308" stroke="#25211D" stroke-width="0.96"/>
+  <circle cx="176.84" cy="311" r="1.9" fill="none" stroke="#25211D" stroke-width="0.72"/>
+  <line x1="194.0" y1="297" x2="194.0" y2="308" stroke="#25211D" stroke-width="0.96"/>
+  <circle cx="194.0" cy="311" r="1.9" fill="none" stroke="#25211D" stroke-width="0.72"/>
+  <line x1="211.16" y1="297" x2="211.16" y2="308" stroke="#25211D" stroke-width="0.96"/>
+  <circle cx="211.16" cy="311" r="1.9" fill="none" stroke="#25211D" stroke-width="0.72"/>
+  <text x="194" y="348" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">三 公 之 冕</text>
+  <line x1="246" y1="306" x2="392" y2="306" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 388.6,308.1 L 392,306 L 388.6,303.9" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <text x="320" y="294" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#994433" font-weight="400">易 之</text>
+  <text x="320" y="330" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#7C6D5C" font-weight="400">不 受</text>
+  <circle cx="420" cy="293.0" r="9.0" fill="none" stroke="#25211D" stroke-width="1.3"/>
+  <line x1="420" y1="302.0" x2="420" y2="375.2" stroke="#25211D" stroke-width="1.625"/>
+  <line x1="420" y1="316.4" x2="400.8" y2="342.79999999999995" stroke="#25211D" stroke-width="1.3"/>
+  <line x1="420" y1="316.4" x2="439.2" y2="342.79999999999995" stroke="#25211D" stroke-width="1.3"/>
+  <line x1="420" y1="375.2" x2="409.2" y2="404" stroke="#25211D" stroke-width="1.3"/>
+  <line x1="420" y1="375.2" x2="430.8" y2="404" stroke="#25211D" stroke-width="1.3"/>
+  <text x="420" y="250" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">介</text>
+  <line x1="372" y1="418" x2="386" y2="418" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="398" y1="418" x2="412" y2="418" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="424" y1="418" x2="438" y2="418" stroke="#BFB4A4" stroke-width="0.9"/>
+  <text x="405" y="434" text-anchor="middle" font-size="5.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">三 黜</text>
+  <text x="596" y="424" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#7C6D5C" font-weight="400">和 而 不 流</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">柳下惠不以三公易其介。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百一十六 · 不易其介 · ch205a</text>
+</svg>

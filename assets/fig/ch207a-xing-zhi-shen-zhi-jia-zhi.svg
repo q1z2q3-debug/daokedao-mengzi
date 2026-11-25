@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">性 之 · 身 之 · 假 之</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第二百〇七章　MZ207</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">尧舜，性之也；汤武，身之也；五霸，假之也</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="300" y1="160" x2="300" y2="404" stroke="#DCD5C8" stroke-width="0.8"/>
+  <line x1="470" y1="160" x2="470" y2="404" stroke="#DCD5C8" stroke-width="0.8"/>
+  <circle cx="206" cy="304.1" r="8.1" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="206" y1="312.2" x2="206" y2="378.08" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="206" y1="325.15999999999997" x2="188.72" y2="348.91999999999996" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="206" y1="325.15999999999997" x2="223.28" y2="348.91999999999996" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="206" y1="378.08" x2="196.28" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="206" y1="378.08" x2="215.72" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <text x="206" y="424" text-anchor="middle" font-size="5.8" letter-spacing="2" fill="#7C6D5C" font-weight="400">性 之</text>
+  <text x="206" y="268" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#BFB4A4" font-weight="400">无 所 假</text>
+  <circle cx="384" cy="307.8" r="7.8" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="384" y1="315.6" x2="384" y2="379.04" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="384" y1="328.08000000000004" x2="367.36" y2="350.96000000000004" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="384" y1="328.08000000000004" x2="400.64" y2="350.96000000000004" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="384" y1="379.04" x2="374.64" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="384" y1="379.04" x2="393.36" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="414" y1="400" x2="414" y2="306" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M 415.9,309.1 L 414,306 L 412.1,309.1" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="430" y="352" text-anchor="middle" font-size="5.0" letter-spacing="1" fill="#7C6D5C" font-weight="400">履 之</text>
+  <text x="384" y="424" text-anchor="middle" font-size="5.8" letter-spacing="2" fill="#7C6D5C" font-weight="400">身 之</text>
+  <circle cx="566" cy="305.95" r="7.949999999999999" fill="none" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="566" y1="313.9" x2="566" y2="378.56" stroke="#25211D" stroke-width="1.25"/>
+  <line x1="566" y1="326.62" x2="549.04" y2="349.94" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="566" y1="326.62" x2="582.96" y2="349.94" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="566" y1="378.56" x2="556.46" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="566" y1="378.56" x2="575.54" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <rect x="543.0" y="284" width="46" height="15" fill="#F0EBE2" stroke="#BFB4A4" stroke-width="1.0"/>
+  <line x1="543.0" y1="287" x2="589.0" y2="287" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="554.04" y1="299" x2="554.04" y2="310" stroke="#BFB4A4" stroke-width="0.8"/>
+  <circle cx="554.04" cy="313" r="1.9" fill="none" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="566.0" y1="299" x2="566.0" y2="310" stroke="#BFB4A4" stroke-width="0.8"/>
+  <circle cx="566.0" cy="313" r="1.9" fill="none" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="577.9599999999999" y1="299" x2="577.9599999999999" y2="310" stroke="#BFB4A4" stroke-width="0.8"/>
+  <circle cx="577.9599999999999" cy="313" r="1.9" fill="none" stroke="#BFB4A4" stroke-width="0.6"/>
+  <text x="566" y="424" text-anchor="middle" font-size="5.8" letter-spacing="2" fill="#BFB4A4" font-weight="400">假 之</text>
+  <text x="630" y="300" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#BFB4A4" font-weight="400">借 来 之 冕</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">久假而不归，恶知其非有也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百一十八 · 性之身之假之 · ch207a</text>
+</svg>

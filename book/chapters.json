@@ -1,6 +1,6 @@
 {
  "book": "润泽说 道可道之孟子",
- "version": "0.27.0",
+ "version": "0.28.0",
  "count": 260,
  "volumes": [
   {
@@ -2275,110 +2275,110 @@
    "卷": "十三",
    "篇": "尽心上",
    "章序": 21,
-   "章题": "",
+   "章题": "所性",
    "file": null,
-   "page": null,
+   "page": "ch/mz198.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ199",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 22,
-   "章题": "",
+   "章题": "善养老",
    "file": null,
-   "page": null,
+   "page": "ch/mz199.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ200",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 23,
-   "章题": "",
+   "章题": "菽粟如水火",
    "file": null,
-   "page": null,
+   "page": "ch/mz200.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ201",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 24,
-   "章题": "",
+   "章题": "登东山",
    "file": null,
-   "page": null,
+   "page": "ch/mz201.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ202",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 25,
-   "章题": "",
+   "章题": "舜跖之分",
    "file": null,
-   "page": null,
+   "page": "ch/mz202.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ203",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 26,
-   "章题": "",
+   "章题": "执中无权",
    "file": null,
-   "page": null,
+   "page": "ch/mz203.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ204",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 27,
-   "章题": "",
+   "章题": "饥渴之害",
    "file": null,
-   "page": null,
+   "page": "ch/mz204.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ205",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 28,
-   "章题": "",
+   "章题": "不易其介",
    "file": null,
-   "page": null,
+   "page": "ch/mz205.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ206",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 29,
-   "章题": "",
+   "章题": "掘井及泉",
    "file": null,
-   "page": null,
+   "page": "ch/mz206.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ207",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 30,
-   "章题": "",
+   "章题": "性之身之假之",
    "file": null,
-   "page": null,
+   "page": "ch/mz207.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ208",

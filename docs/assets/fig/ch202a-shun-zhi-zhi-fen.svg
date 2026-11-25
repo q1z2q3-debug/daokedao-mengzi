@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">舜 跖 之 分</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第二百〇二章　MZ202</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.8" letter-spacing="1" fill="#BFB4A4" font-weight="400">鸡鸣而起，孳孳为善者，舜之徒也；孳孳为利者，跖之徒也</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <ellipse cx="188" cy="370.52" rx="22.68" ry="16.2" fill="#F0EBE2" stroke="#25211D" stroke-width="1.0"/>
+  <circle cx="210.68" cy="354.32" r="7.290000000000001" fill="none" stroke="#25211D" stroke-width="1.0"/>
+  <path d="M 207.44,346.76 q 3,-5 7,-2" fill="none" stroke="#994433" stroke-width="1.0"/>
+  <line x1="216.08" y1="356.47999999999996" x2="222.56" y2="359.71999999999997" stroke="#25211D" stroke-width="0.7"/>
+  <path d="M 166.4,366.2 q -14,-10 -16,-18" fill="none" stroke="#25211D" stroke-width="0.8"/>
+  <path d="M 166.4,370.52 q -16,-4 -20,-10" fill="none" stroke="#25211D" stroke-width="0.8"/>
+  <line x1="184.76" y1="384.56" x2="184.76" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="194.48" y1="384.56" x2="194.48" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <text x="188" y="424" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#7C6D5C" font-weight="400">鸡 鸣 而 起</text>
+  <line x1="380" y1="262" x2="380" y2="404" stroke="#DCD5C8" stroke-width="0.9"/>
+  <circle cx="296" cy="315.2" r="7.199999999999999" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="296" y1="322.4" x2="296" y2="380.96" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="296" y1="333.91999999999996" x2="280.64" y2="355.03999999999996" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="296" y1="333.91999999999996" x2="311.36" y2="355.03999999999996" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="296" y1="380.96" x2="287.36" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="296" y1="380.96" x2="304.64" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <text x="296" y="424" text-anchor="middle" font-size="7.0" letter-spacing="2" fill="#7C6D5C" font-weight="400">善</text>
+  <circle cx="466" cy="315.2" r="7.199999999999999" fill="none" stroke="#BFB4A4" stroke-width="1.0"/>
+  <line x1="466" y1="322.4" x2="466" y2="380.96" stroke="#BFB4A4" stroke-width="1.25"/>
+  <line x1="466" y1="333.91999999999996" x2="450.64" y2="355.03999999999996" stroke="#BFB4A4" stroke-width="1.0"/>
+  <line x1="466" y1="333.91999999999996" x2="481.36" y2="355.03999999999996" stroke="#BFB4A4" stroke-width="1.0"/>
+  <line x1="466" y1="380.96" x2="457.36" y2="404" stroke="#BFB4A4" stroke-width="1.0"/>
+  <line x1="466" y1="380.96" x2="474.64" y2="404" stroke="#BFB4A4" stroke-width="1.0"/>
+  <text x="466" y="424" text-anchor="middle" font-size="7.0" letter-spacing="2" fill="#BFB4A4" font-weight="400">利</text>
+  <text x="296" y="274" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#7C6D5C" font-weight="400">舜 之 徒</text>
+  <text x="466" y="274" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">跖 之 徒</text>
+  <text x="380" y="214" text-anchor="middle" font-size="6.8" letter-spacing="3" fill="#25211D" font-weight="400">利 与 善 之 间</text>
+  <text x="380" y="236" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#BFB4A4" font-weight="400">所 争 毫 末</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">欲知舜与跖之分，无他，利与善之间也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百一十三 · 舜跖之分 · ch202a</text>
+</svg>

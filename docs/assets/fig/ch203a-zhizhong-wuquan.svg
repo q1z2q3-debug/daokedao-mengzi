@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">执 中 无 权</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第二百〇三章　MZ203</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.9" letter-spacing="1" fill="#BFB4A4" font-weight="400">杨子取为我，墨子兼爱，子莫执中；执中无权，犹执一也</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="206" y1="252" x2="554" y2="252" stroke="#8C7B69" stroke-width="1.3"/>
+  <path d="M 367.0,278 L 380.0,254 L 393.0,278 Z" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.1700000000000002"/>
+  <line x1="380" y1="252" x2="380" y2="292" stroke="#8C7B69" stroke-width="0.9"/>
+  <circle cx="380" cy="306" r="15" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.2"/>
+  <text x="380" y="394" text-anchor="middle" font-size="5.8" letter-spacing="1" fill="#7C6D5C" font-weight="400">执 中</text>
+  <text x="380" y="338" text-anchor="middle" font-size="5.2" letter-spacing="0" fill="#BFB4A4" font-weight="400">权</text>
+  <text x="424" y="340" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#994433" font-weight="400">锤 不 动</text>
+  <circle cx="200" cy="326.3" r="6.3" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="200" y1="332.6" x2="200" y2="383.84" stroke="#25211D" stroke-width="1.125"/>
+  <line x1="200" y1="342.68" x2="186.56" y2="361.16" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="200" y1="342.68" x2="213.44" y2="361.16" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="200" y1="383.84" x2="192.44" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="200" y1="383.84" x2="207.56" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <text x="200" y="424" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">为 我</text>
+  <circle cx="566" cy="326.3" r="6.3" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="566" y1="332.6" x2="566" y2="383.84" stroke="#25211D" stroke-width="1.125"/>
+  <line x1="566" y1="342.68" x2="552.56" y2="359.48" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="566" y1="342.68" x2="608.0" y2="347.72" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="566" y1="383.84" x2="558.44" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="566" y1="383.84" x2="573.56" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <text x="566" y="424" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">兼 爱</text>
+  <text x="200" y="224" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#BFB4A4" font-weight="400">拔 一 毛 而 不 为</text>
+  <text x="566" y="224" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#BFB4A4" font-weight="400">摩 顶 放 踵</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">所恶执一者，为其贼道也，举一而废百也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百一十四 · 执中无权 · ch203a</text>
+</svg>

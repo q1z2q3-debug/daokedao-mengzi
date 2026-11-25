@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">饥 渴 之 害</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第二百〇四章　MZ204</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.9" letter-spacing="1" fill="#BFB4A4" font-weight="400">饥者甘食，渴者甘饮，是未得饮食之正也，饥渴害之也</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <circle cx="252" cy="304.1" r="8.1" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="252" y1="312.2" x2="252" y2="378.08" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="252" y1="325.15999999999997" x2="234.72" y2="348.91999999999996" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="252" y1="325.15999999999997" x2="269.28" y2="348.91999999999996" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="252" y1="378.08" x2="242.28" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="252" y1="378.08" x2="261.72" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <ellipse cx="318" cy="384" rx="24" ry="9" fill="#F0EBE2" stroke="#25211D" stroke-width="1.4"/>
+  <path d="M 294,384 C 294,397.5 304.8,402.9 318,402.9 C 331.2,402.9 342,397.5 342,384" fill="#F0EBE2" stroke="#25211D" stroke-width="1.4"/>
+  <path d="M 310.8,402.9 L 312.24,407.4 L 323.76,407.4 L 325.2,402.9" fill="none" stroke="#25211D" stroke-width="1.26"/>
+  <text x="286" y="428" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#7C6D5C" font-weight="400">饥 者 甘 食</text>
+  <ellipse cx="490" cy="352" rx="34" ry="10" fill="#F0EBE2" stroke="#25211D" stroke-width="1.4"/>
+  <path d="M 456,352 C 456,367.0 471.3,373.0 490,373.0 C 508.7,373.0 524,367.0 524,352" fill="#F0EBE2" stroke="#25211D" stroke-width="1.4"/>
+  <path d="M 479.8,373.0 L 481.84,378.0 L 498.16,378.0 L 500.2,373.0" fill="none" stroke="#25211D" stroke-width="1.26"/>
+  <text x="490" y="428" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#7C6D5C" font-weight="400">渴 者 甘 饮</text>
+  <line x1="360" y1="300" x2="448" y2="300" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="4,3"/>
+  <text x="404" y="288" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#BFB4A4" font-weight="400">正 味</text>
+  <circle cx="618" cy="326" r="22" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="618" y="331" text-anchor="middle" font-size="6.2" letter-spacing="0" fill="#25211D" font-weight="400">心</text>
+  <text x="618" y="288" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#994433" font-weight="400">贫 贱 害 之</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">人能无以饥渴之害为心害，则不及人不为忧矣。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百一十五 · 饥渴之害 · ch204a</text>
+</svg>

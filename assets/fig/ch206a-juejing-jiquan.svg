@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">掘 井 及 泉</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第二百〇六章　MZ206</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">有为者辟若掘井，掘井九轫而不及泉，犹为弃井也</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="198" y1="296" x2="292" y2="296" stroke="#7C6D5C" stroke-width="1.8"/>
+  <line x1="204" y1="303" x2="286" y2="303" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="214" y1="303" x2="216" y2="404" stroke="#8C7B69" stroke-width="1.0"/>
+  <line x1="276" y1="303" x2="274" y2="404" stroke="#8C7B69" stroke-width="1.0"/>
+  <line x1="202" y1="322" x2="210" y2="328" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="280" y1="328" x2="288" y2="322" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="202" y1="348" x2="210" y2="354" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="280" y1="354" x2="288" y2="348" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="202" y1="374" x2="210" y2="380" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="280" y1="380" x2="288" y2="374" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="218" y1="399" x2="272" y2="399" stroke="#BFB4A4" stroke-width="0.9"/>
+  <text x="245.0" y="422" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#994433" font-weight="400">无 泉</text>
+  <text x="245" y="428" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#994433" font-weight="400">九 轫 而 不 及 泉</text>
+  <text x="245" y="276" text-anchor="middle" font-size="6.2" letter-spacing="2" fill="#994433" font-weight="400">弃 井</text>
+  <line x1="440" y1="296" x2="534" y2="296" stroke="#7C6D5C" stroke-width="1.8"/>
+  <line x1="446" y1="303" x2="528" y2="303" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="456" y1="303" x2="458" y2="404" stroke="#8C7B69" stroke-width="1.0"/>
+  <line x1="518" y1="303" x2="516" y2="404" stroke="#8C7B69" stroke-width="1.0"/>
+  <line x1="444" y1="322" x2="452" y2="328" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="522" y1="328" x2="530" y2="322" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="444" y1="348" x2="452" y2="354" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="522" y1="354" x2="530" y2="348" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="444" y1="374" x2="452" y2="380" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="522" y1="380" x2="530" y2="374" stroke="#BFB4A4" stroke-width="0.7"/>
+  <path d="M 458,388 q 15.5,-8 31.0,0 q 15.5,8 31.0,0" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M 458,397 q 15.5,-6 31.0,0 q 15.5,6 31.0,0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="487.0" y="422" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#7C6D5C" font-weight="400">泉</text>
+  <text x="487" y="428" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#7C6D5C" font-weight="400">及 泉</text>
+  <line x1="380" y1="240" x2="380" y2="400" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="380" y="228" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">同 深 而 异 果</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">掘井九轫而不及泉，犹为弃井也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百一十七 · 掘井及泉 · ch206a</text>
+</svg>
