@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">杯 水 车 薪</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子上　第一百五十九章　MZ159</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="2" fill="#BFB4A4" font-weight="400">仁之胜不仁也，犹水胜火</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <path d="M 157.0,368 L 164.36,404 L 195.64,404 L 203.0,368 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.1"/>
+  <ellipse cx="180" cy="368" rx="23.0" ry="6" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.1"/>
+  <text x="180" y="336" text-anchor="middle" font-size="5.8" letter-spacing="1" fill="#7C6D5C" font-weight="400">一 杯 水</text>
+  <ellipse cx="470" cy="384" rx="20" ry="20" fill="none" stroke="#8C7B69" stroke-width="1.2"/>
+  <ellipse cx="470" cy="384" rx="6" ry="6" fill="none" stroke="#8C7B69" stroke-width="0.9"/>
+  <ellipse cx="610" cy="384" rx="20" ry="20" fill="none" stroke="#8C7B69" stroke-width="1.2"/>
+  <ellipse cx="610" cy="384" rx="6" ry="6" fill="none" stroke="#8C7B69" stroke-width="0.9"/>
+  <rect x="420" y="356" width="250" height="14" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="420" y1="370" x2="420" y2="384" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="670" y1="370" x2="670" y2="384" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="420" y1="360" x2="372" y2="366" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="420" y1="368" x2="374" y2="374" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M 545,356 q -42.0,-42.0 -16.8,-75.60000000000001 q 16.8,42.0 25.2,16.8 q 25.2,-33.6 8.4,-63.0 q 33.6,42.0 25.2,84.0 q -33.6,13.44 -42.0,0 Z" fill="none" stroke="#994433" stroke-width="1.0"/>
+  <text x="600" y="324" text-anchor="middle" font-size="5.8" letter-spacing="1" fill="#994433" font-weight="400">一 车 薪 之 火</text>
+  <path d="M 214,346 q 40,-30 90,10" fill="none" stroke="#994433" stroke-width="1.0"/>
+  <text x="300" y="320" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#994433" font-weight="400">不 熄</text>
+  <text x="380" y="210" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">犹以一杯水救一车薪之火也</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">此又与于不仁之甚者也，亦终必亡而已矣。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图七十 · 杯水车薪 · ch159a</text>
+</svg>

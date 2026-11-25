@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">先 立 乎 大</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子上　第一百五十六章　MZ156</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">钧是人也，或为大人，或为小人，何也？</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <circle cx="240" cy="294.85" r="8.85" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="240" y1="303.7" x2="240" y2="375.68" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="240" y1="317.86" x2="221.12" y2="343.82" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="240" y1="317.86" x2="258.88" y2="343.82" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="240" y1="375.68" x2="229.38" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="240" y1="375.68" x2="250.62" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <circle cx="240" cy="326" r="14" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <text x="292" y="326" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#994433" font-weight="400">大 体</text>
+  <text x="240" y="424" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#7C6D5C" font-weight="400">从其大体</text>
+  <line x1="430" y1="210" x2="430" y2="404" stroke="#DCD5C8" stroke-width="0.8"/>
+  <circle cx="530" cy="294.85" r="8.85" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="530" y1="303.7" x2="530" y2="375.68" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="530" y1="317.86" x2="511.12" y2="343.82" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="530" y1="317.86" x2="548.88" y2="343.82" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="530" y1="375.68" x2="519.38" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="530" y1="375.68" x2="540.62" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <circle cx="530" cy="352" r="4.4" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <circle cx="546" cy="352" r="4.4" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <ellipse cx="518" cy="358" rx="6" ry="3.4" fill="none" stroke="#BFB4A4" stroke-width="0.8"/>
+  <ellipse cx="558" cy="358" rx="6" ry="3.4" fill="none" stroke="#BFB4A4" stroke-width="0.8"/>
+  <text x="586" y="344" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">小 体</text>
+  <text x="530" y="424" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#7C6D5C" font-weight="400">从其小体</text>
+  <text x="240" y="214" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#994433" font-weight="400">心之官则思</text>
+  <text x="530" y="214" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">耳目之官不思</text>
+  <text x="380" y="268" text-anchor="middle" font-size="6.4" letter-spacing="3" fill="#25211D" font-weight="400">钧 是 人 也</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">先立乎其大者，则其小者不能夺也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图六十七 · 先立乎大 · ch156a</text>
+</svg>

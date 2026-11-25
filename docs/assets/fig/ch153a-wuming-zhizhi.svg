@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">无 名 之 指</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子上　第一百五十三章　MZ153</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">指不若人，则知恶之；心不若人，则不知恶</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <rect x="200" y="302" width="26" height="102" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="213" y1="302" x2="213" y2="288" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 200,302 q 13,-14 26,0" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <rect x="226" y="276" width="52" height="26" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M 278,276 q 14,13 0,26" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <ellipse cx="286" cy="289" rx="5" ry="7" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="190" y1="360" x2="196" y2="358" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="250" y="348" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#994433" font-weight="400">屈 而 不 信</text>
+  <text x="228" y="424" text-anchor="middle" font-size="5.8" letter-spacing="1" fill="#7C6D5C" font-weight="400">无名之指</text>
+  <path d="M 300,322 L 540,296" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="4,4"/>
+  <rect x="548" y="276" width="96" height="56" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="576" y1="276" x2="576" y2="332" stroke="#8C7B69" stroke-width="0.9"/>
+  <line x1="616" y1="276" x2="616" y2="332" stroke="#8C7B69" stroke-width="0.9"/>
+  <line x1="548" y1="276" x2="644" y2="276" stroke="#8C7B69" stroke-width="1.4"/>
+  <text x="596" y="268" text-anchor="middle" font-size="5.8" letter-spacing="2" fill="#7C6D5C" font-weight="400">秦 楚</text>
+  <text x="420" y="306" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">不远千里</text>
+  <circle cx="560" cy="200" r="24" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <circle cx="560" cy="200" r="18" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="560" y="205" text-anchor="middle" font-size="12" letter-spacing="2" fill="#25211D" font-weight="400">心</text>
+  <text x="560" y="240" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">则不知恶</text>
+  <text x="380" y="172" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#994433" font-weight="400">指不若人，则知恶之</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">心不若人，则不知恶，此之谓不知类也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图六十四 · 无名之指 · ch153a</text>
+</svg>
