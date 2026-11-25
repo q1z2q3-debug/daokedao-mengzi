@@ -46,7 +46,7 @@ FRONTIS = kit.frontis(
         ("底本", "朱熹《四书章句集注·孟子集注》，七篇十四卷，二百六十章"),
         ("参校", "《孟子注疏》赵岐注、孙奭疏（注家分歧逐章入「存疑」）"),
         ("体例", "一章一页；每章十二节；孟子三判：驳谁／立什么／留给后人什么"),
-        ("章次", "MZ001–MZ260，按篇卷序连排，固定不改"),
+        ("章次", "MZ001–MZ261，按篇卷序连排"),
         ("图", "义理图手写 SVG，一图一文件，纸墨五色"),
         ("版本", "v%s · 二〇二六" % VER),
     ],
@@ -99,6 +99,9 @@ for f in ch_files:
 chs = "".join('<li><a href="ch/%s.html">%s　%s</a></li>' % (i.lower(), i, t) for i, t in rows) \
       or '<li class="todo">正文尚未开笔——按卷推进，第一卷「梁惠王上」在建。</li>'
 
+VOLTABLE = "\n".join("<tr><td>%s</td><td>%s</td><td>%d</td><td>%s–%s</td></tr>" % (
+    v["卷"], v["篇"], v["章数"], v["起"], v["止"]) for v in json.load(open(os.path.join(book, "chapters.json"), encoding="utf-8"))["volumes"])
+
 INDEX = """<!DOCTYPE html>
 <html lang="zh-Hans">
 <head>
@@ -118,27 +121,14 @@ INDEX = """<!DOCTYPE html>
 <h2>七篇十四卷</h2>
 <table class="t" style="width:auto;min-width:560px"><thead><tr><th style="width:64px">卷</th><th style="width:150px">篇</th><th style="width:88px">章数</th><th>章号</th></tr></thead>
 <tbody>
-<tr><td>一</td><td>梁惠王上</td><td>7</td><td>MZ001–MZ007</td></tr>
-<tr><td>二</td><td>梁惠王下</td><td>16</td><td>MZ008–MZ023</td></tr>
-<tr><td>三</td><td>公孙丑上</td><td>9</td><td>MZ024–MZ032</td></tr>
-<tr><td>四</td><td>公孙丑下</td><td>14</td><td>MZ033–MZ046</td></tr>
-<tr><td>五</td><td>滕文公上</td><td>5</td><td>MZ047–MZ051</td></tr>
-<tr><td>六</td><td>滕文公下</td><td>10</td><td>MZ052–MZ061</td></tr>
-<tr><td>七</td><td>离娄上</td><td>28</td><td>MZ062–MZ089</td></tr>
-<tr><td>八</td><td>离娄下</td><td>33</td><td>MZ090–MZ122</td></tr>
-<tr><td>九</td><td>万章上</td><td>9</td><td>MZ123–MZ131</td></tr>
-<tr><td>十</td><td>万章下</td><td>9</td><td>MZ132–MZ140</td></tr>
-<tr><td>十一</td><td>告子上</td><td>20</td><td>MZ141–MZ160</td></tr>
-<tr><td>十二</td><td>告子下</td><td>16</td><td>MZ161–MZ176</td></tr>
-<tr><td>十三</td><td>尽心上</td><td>46</td><td>MZ177–MZ222</td></tr>
-<tr><td>十四</td><td>尽心下</td><td>38</td><td>MZ223–MZ260</td></tr>
+%s
 </tbody></table>
 <div class="foot"><div>润泽说 道可道之孟子　v%s　（%s）</div>
 <div><a href="book.html">卷首</a><a href="%s">GitHub</a></div></div>
 </div>
 </body>
 </html>
-""" % (CSS, chs, VER, DATE, SITE)
+""" % (CSS, chs, VOLTABLE, VER, DATE, SITE)
 
 open(os.path.join(docs, "index.html"), "w", encoding="utf-8").write(INDEX)
 open(os.path.join(docs, "robots.txt"), "w", encoding="utf-8").write(

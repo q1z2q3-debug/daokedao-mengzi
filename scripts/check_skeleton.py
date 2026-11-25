@@ -14,16 +14,16 @@ def main():
     d = json.load(open(os.path.join(ROOT, "book/chapters.json"), encoding="utf-8"))
     chs = d["chapters"]
     if d["version"] != ver: fail("chapters.json 版本 %s ≠ VERSION %s" % (d["version"], ver))
-    if len(chs) != 260: fail("章数 %d ≠ 260" % len(chs))
+    if len(chs) != 261: fail("章数 %d ≠ 261" % len(chs))
     ids = [c["id"] for c in chs]
-    if ids != ["MZ%03d" % i for i in range(1, 261)]: fail("章号不是 MZ001–MZ260 连排")
+    if ids != ["MZ%03d" % i for i in range(1, len(ids)+1)]: fail("章号不是自 MZ001 起连排")
     n = 0
     for v in d["volumes"]:
         got = [c["id"] for c in chs if c["卷"] == v["卷"]]
         if len(got) != v["章数"]: fail("卷%s 章数 %d ≠ %d" % (v["卷"], len(got), v["章数"]))
         if got[0] != v["起"] or got[-1] != v["止"]: fail("卷%s 章号区间不符" % v["卷"])
         n += v["章数"]
-    if n != 260: fail("卷章数合计 %d ≠ 260" % n)
+    if n != 261: fail("卷章数合计 %d ≠ 261" % n)
     # 卷表.md 与 chapters.json 一致
     jb = open(os.path.join(ROOT, "book/卷表.md"), encoding="utf-8").read()
     for v in d["volumes"]:

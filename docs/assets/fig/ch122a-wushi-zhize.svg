@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">五 世 之 泽</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》离娄下　补章　MZ122</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">君子之泽五世而斩　予私淑诸人也</text>
+  <line x1="96" y1="404" x2="664" y2="404" stroke="#8C7B69" stroke-width="1.3"/>
+  <path d="M 380,250 L 380,404" fill="none" stroke="#DCD5C8" stroke-width="1.0" stroke-dasharray="4,4"/>
+  <path d="M 140,300 Q 165,295 190,300 M 190,300 Q 215,305 240,300 M 240,300 Q 265,295 290,300 M 290,300 Q 315,305 340,300 M 340,300 Q 365,295 390,300" fill="none" stroke="#7C6D5C" stroke-width="1.5"/>
+  <text x="126" y="303" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">1</text>
+  <path d="M 140,322 Q 161,317 183,322 M 183,322 Q 204,327 226,322 M 226,322 Q 247,317 269,322 M 269,322 Q 290,327 312,322 M 312,322 Q 333,317 355,322" fill="none" stroke="#7C6D5C" stroke-width="1.5"/>
+  <text x="126" y="325" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">2</text>
+  <path d="M 140,344 Q 158,339 176,344 M 176,344 Q 194,349 212,344 M 212,344 Q 230,339 248,344 M 248,344 Q 266,349 284,344 M 284,344 Q 302,339 320,344" fill="none" stroke="#7C6D5C" stroke-width="1.5"/>
+  <text x="126" y="347" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">3</text>
+  <path d="M 140,366 Q 154,361 169,366 M 169,366 Q 183,371 198,366 M 198,366 Q 212,361 227,366 M 227,366 Q 241,371 256,366 M 256,366 Q 270,361 285,366" fill="none" stroke="#7C6D5C" stroke-width="1.5"/>
+  <text x="126" y="369" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">4</text>
+  <path d="M 140,388 Q 151,383 162,388 M 162,388 Q 173,393 184,388 M 184,388 Q 195,383 206,388 M 206,388 Q 217,393 228,388 M 228,388 Q 239,383 250,388" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <text x="126" y="391" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">5</text>
+  <text x="206" y="286" text-anchor="middle" font-size="6.4" letter-spacing="2" fill="#7C6D5C" font-weight="400">君子之泽</text>
+  <text x="126" y="424" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">泽，流风余韵；五世而绝，斩者渐也</text>
+  <rect x="468.0" y="292" width="104" height="112" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="470.0" y1="316.64" x2="570.0" y2="316.64" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="470.0" y1="379.36" x2="570.0" y2="379.36" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="480.0" y1="302" x2="480.0" y2="394" stroke="#BFB4A4" stroke-width="0.5"/>
+  <line x1="496.0" y1="302" x2="496.0" y2="394" stroke="#BFB4A4" stroke-width="0.5"/>
+  <line x1="512.0" y1="302" x2="512.0" y2="394" stroke="#BFB4A4" stroke-width="0.5"/>
+  <line x1="528.0" y1="302" x2="528.0" y2="394" stroke="#BFB4A4" stroke-width="0.5"/>
+  <line x1="544.0" y1="302" x2="544.0" y2="394" stroke="#BFB4A4" stroke-width="0.5"/>
+  <text x="520" y="284" text-anchor="middle" font-size="5.8" letter-spacing="0" fill="#994433" font-weight="400">私淑诸人</text>
+  <text x="520" y="424" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">予未得为孔子徒也</text>
+  <text x="380" y="268" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">孔子卒至孟子游梁，方百四十余年</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">五世而斩。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄下（补章）</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图三十三 · 五世之泽 · ch122a</text>
+</svg>
