@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">不 理 于 口</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百四十二章　MZ242</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.0" letter-spacing="1.6" fill="#7C6D5C" font-weight="400">无伤也。士憎兹多口</text>
+  <circle cx="380" cy="294.85" r="8.85" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="380" y1="303.7" x2="380" y2="375.68" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="380" y1="317.86" x2="361.12" y2="343.82" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="380" y1="317.86" x2="398.88" y2="343.82" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="380" y1="375.68" x2="369.38" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="380" y1="375.68" x2="390.62" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <rect x="237.0" y="217.0" width="26" height="18" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="250" y="229.0" text-anchor="middle" font-size="7.4" letter-spacing="1" fill="#7C6D5C" font-weight="400">口</text>
+  <line x1="250" y1="240" x2="320" y2="292" stroke="#994433" stroke-width="0.9"/>
+  <path d="M 316.0,291.6 L 320,292 L 318.5,288.3" fill="none" stroke="#994433" stroke-width="0.81"/>
+  <rect x="497.0" y="217.0" width="26" height="18" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="510" y="229.0" text-anchor="middle" font-size="7.4" letter-spacing="1" fill="#7C6D5C" font-weight="400">口</text>
+  <line x1="510" y1="240" x2="440" y2="292" stroke="#994433" stroke-width="0.9"/>
+  <path d="M 441.5,288.3 L 440,292 L 444.0,291.6" fill="none" stroke="#994433" stroke-width="0.81"/>
+  <rect x="193.0" y="321.0" width="26" height="18" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="206" y="333.0" text-anchor="middle" font-size="7.4" letter-spacing="1" fill="#7C6D5C" font-weight="400">口</text>
+  <line x1="222" y1="330" x2="318" y2="340" stroke="#994433" stroke-width="0.9"/>
+  <path d="M 314.4,341.7 L 318,340 L 314.8,337.6" fill="none" stroke="#994433" stroke-width="0.81"/>
+  <rect x="541.0" y="321.0" width="26" height="18" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="554" y="333.0" text-anchor="middle" font-size="7.4" letter-spacing="1" fill="#7C6D5C" font-weight="400">口</text>
+  <line x1="538" y1="330" x2="442" y2="340" stroke="#994433" stroke-width="0.9"/>
+  <path d="M 445.2,337.6 L 442,340 L 445.6,341.7" fill="none" stroke="#994433" stroke-width="0.81"/>
+  <rect x="367.0" y="181.0" width="26" height="18" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="380" y="193.0" text-anchor="middle" font-size="7.4" letter-spacing="1" fill="#7C6D5C" font-weight="400">口</text>
+  <line x1="380" y1="204" x2="380" y2="268" stroke="#994433" stroke-width="0.9"/>
+  <path d="M 377.9,264.6 L 380,268 L 382.1,264.6" fill="none" stroke="#994433" stroke-width="0.81"/>
+  <text x="250" y="384" text-anchor="middle" font-size="4.8" letter-spacing="0.5" fill="#8C7B69" font-weight="400">忧心悄悄，愠于群小——孔子也</text>
+  <text x="380" y="424" text-anchor="middle" font-size="5.0" letter-spacing="0.8" fill="#25211D" font-weight="400">肆不殄厥愠，亦不陨厥问——文王也</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">多口是士之常；被恼而不失声问。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百五十三 · 不理于口 · ch242a</text>
+</svg>

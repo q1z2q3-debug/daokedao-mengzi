@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">厄 于 陈 蔡</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百四十一章　MZ241</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.0" letter-spacing="1.4" fill="#7C6D5C" font-weight="400">君子之戹于陈蔡之闲，无上下之交也</text>
+  <text x="380" y="178" text-anchor="middle" font-size="6.4" letter-spacing="2" fill="#8C7B69" font-weight="400">君</text>
+  <rect x="180" y="190" width="400" height="14" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <circle cx="380" cy="282.7" r="8.7" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="380" y1="291.4" x2="380" y2="362.16" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="380" y1="305.32" x2="361.44" y2="330.84" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="380" y1="305.32" x2="398.56" y2="330.84" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="380" y1="362.16" x2="369.56" y2="390" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="380" y1="362.16" x2="390.44" y2="390" stroke="#25211D" stroke-width="1.2"/>
+  <rect x="180" y="390" width="400" height="14" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="380" y="422" text-anchor="middle" font-size="6.4" letter-spacing="2" fill="#8C7B69" font-weight="400">臣</text>
+  <path d="M 140,300 L 214,300" fill="none" stroke="#DCD5C8" stroke-width="1.0" stroke-dasharray="5,4"/>
+  <path d="M 246,300 L 330,300" fill="none" stroke="#DCD5C8" stroke-width="1.0" stroke-dasharray="5,4"/>
+  <path d="M 430,300 L 514,300" fill="none" stroke="#DCD5C8" stroke-width="1.0" stroke-dasharray="5,4"/>
+  <path d="M 546,300 L 620,300" fill="none" stroke="#DCD5C8" stroke-width="1.0" stroke-dasharray="5,4"/>
+  <text x="380" y="224" text-anchor="middle" font-size="5.8" letter-spacing="2" fill="#994433" font-weight="400">无 上 下 之 交</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">圣人之困，不在无道，在无交。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百五十二 · 厄于陈蔡 · ch241a</text>
+</svg>

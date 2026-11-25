@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">百 世 之 师</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百三十八章　MZ238</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.0" letter-spacing="1.4" fill="#7C6D5C" font-weight="400">圣人，百世之师也，伯夷、柳下惠是也</text>
+  <circle cx="230" cy="121.55" r="5.55" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="230" y1="127.1" x2="230" y2="172.24" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="230" y1="135.98" x2="218.16" y2="152.26" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="230" y1="135.98" x2="241.84" y2="152.26" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="230" y1="172.24" x2="223.34" y2="190" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="230" y1="172.24" x2="236.66" y2="190" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="216" y1="112" x2="244" y2="112" stroke="#7C6D5C" stroke-width="1.2"/>
+  <circle cx="530" cy="121.55" r="5.55" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="530" y1="127.1" x2="530" y2="172.24" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="530" y1="135.98" x2="518.16" y2="152.26" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="530" y1="135.98" x2="541.84" y2="152.26" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="530" y1="172.24" x2="523.34" y2="190" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="530" y1="172.24" x2="536.66" y2="190" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="514" y1="160" x2="500" y2="268" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="546" y1="160" x2="560" y2="268" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="230" y="208" text-anchor="middle" font-size="5.6" letter-spacing="2" fill="#7C6D5C" font-weight="400">伯夷</text>
+  <text x="530" y="208" text-anchor="middle" font-size="5.6" letter-spacing="2" fill="#7C6D5C" font-weight="400">柳下惠</text>
+  <path d="M 221,222 C 214,249.3 226,272.7 221,300" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 230,222 C 223,249.3 235,272.7 230,300" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 239,222 C 232,249.3 244,272.7 239,300" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 521,222 C 514,249.3 526,272.7 521,300" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 530,222 C 523,249.3 535,272.7 530,300" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 539,222 C 532,249.3 544,272.7 539,300" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="230" y="322" text-anchor="middle" font-size="4.6" letter-spacing="0.5" fill="#8C7B69" font-weight="400">闻伯夷之风者</text>
+  <text x="530" y="322" text-anchor="middle" font-size="4.6" letter-spacing="0.5" fill="#8C7B69" font-weight="400">闻柳下惠之风者</text>
+  <circle cx="196" cy="325.88" r="5.880000000000001" fill="none" stroke="#DCD5C8" stroke-width="0.9"/>
+  <path d="M 196,331.76 L 196,385.52" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="3,3,0.1"/>
+  <path d="M 196,331.76 L 206.08,348.56" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="3,3,0.1"/>
+  <path d="M 196,350.24 L 187.6,363.68" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="3,3,0.1"/>
+  <path d="M 196,363.68 L 190.12,404" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="3,3,0.1"/>
+  <line x1="226" y1="350" x2="254" y2="350" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 250.6,352.1 L 254,350 L 250.6,347.9" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <circle cx="282" cy="318.9" r="6.8999999999999995" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="282" y1="325.8" x2="282" y2="381.92" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="282" y1="336.84000000000003" x2="267.28" y2="357.08000000000004" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="282" y1="336.84000000000003" x2="296.72" y2="357.08000000000004" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="282" y1="381.92" x2="273.72" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="282" y1="381.92" x2="290.28" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <text x="196" y="424" text-anchor="middle" font-size="4.6" letter-spacing="0" fill="#8C7B69" font-weight="400">顽夫·懦夫</text>
+  <text x="282" y="424" text-anchor="middle" font-size="4.8" letter-spacing="0" fill="#994433" font-weight="400">廉·有立志</text>
+  <circle cx="448" cy="325.88" r="5.880000000000001" fill="none" stroke="#DCD5C8" stroke-width="0.9"/>
+  <path d="M 448,331.76 L 448,385.52" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="3,3,0.1"/>
+  <path d="M 448,331.76 L 440.44,348.56" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="3,3,0.1"/>
+  <path d="M 448,331.76 L 451.36,350.24" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="3,3,0.1"/>
+  <path d="M 448,365.36 L 442.96,404" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="3,3,0.1"/>
+  <path d="M 448,365.36 L 453.04,404" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="3,3,0.1"/>
+  <line x1="478" y1="350" x2="506" y2="350" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 502.6,352.1 L 506,350 L 502.6,347.9" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <circle cx="534" cy="318.9" r="6.8999999999999995" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="534" y1="325.8" x2="534" y2="381.92" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="534" y1="336.84000000000003" x2="519.28" y2="355.24" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="534" y1="336.84000000000003" x2="580.0" y2="342.36" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="534" y1="381.92" x2="525.72" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="534" y1="381.92" x2="542.28" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <text x="448" y="424" text-anchor="middle" font-size="4.6" letter-spacing="0" fill="#8C7B69" font-weight="400">薄夫·鄙夫</text>
+  <text x="534" y="424" text-anchor="middle" font-size="4.8" letter-spacing="0" fill="#994433" font-weight="400">敦·宽</text>
+  <text x="380" y="424" text-anchor="middle" font-size="6.2" letter-spacing="2" fill="#25211D" font-weight="400">百世之下，闻者莫不兴起</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">君靠位，师靠风；风隔百世还吹。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百四十九 · 百世之师 · ch238a</text>
+</svg>
