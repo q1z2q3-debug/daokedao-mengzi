@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">冯 妇 搏 虎</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百四十六章　MZ246</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.0" letter-spacing="1.2" fill="#7C6D5C" font-weight="400">虎负嵎，莫之敢撄。望见冯妇，趋而迎之</text>
+  <path d="M 118,362 L 156,262 L 196,300 L 240,230 L 278,362" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.4"/>
+  <path d="M 358,362 L 396,262 L 436,300 L 480,230 L 518,362" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.4"/>
+  <line x1="118" y1="362" x2="278" y2="362" stroke="#7C6D5C" stroke-width="1.6"/>
+  <line x1="358" y1="362" x2="518" y2="362" stroke="#7C6D5C" stroke-width="1.6"/>
+  <line x1="118" y1="404" x2="522" y2="404" stroke="#7C6D5C" stroke-width="1.6"/>
+  <ellipse cx="318" cy="347.15" rx="27" ry="12.959999999999999" fill="#F0EBE2" stroke="#25211D" stroke-width="1.2"/>
+  <circle cx="344.46" cy="339.32" r="8.91" fill="#F0EBE2" stroke="#25211D" stroke-width="1.2"/>
+  <path d="M 347.7,333.92 L 349.32,327.98 L 343.92,331.22" fill="none" stroke="#25211D" stroke-width="0.96"/>
+  <path d="M 340.68,333.38 L 341.22,327.44 L 336.9,331.22" fill="none" stroke="#25211D" stroke-width="0.96"/>
+  <line x1="298.02" y1="356.6" x2="298.02" y2="362" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="310.98" y1="356.6" x2="310.98" y2="362" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="323.94" y1="356.6" x2="323.94" y2="362" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="336.9" y1="356.6" x2="336.9" y2="362" stroke="#25211D" stroke-width="1.2"/>
+  <path d="M 292.62,345.26 C 279.66,333.38 284.52,320.96 274.26,323.66" fill="none" stroke="#25211D" stroke-width="1.32"/>
+  <text x="318" y="330" text-anchor="middle" font-size="4.8" letter-spacing="0.5" fill="#8C7B69" font-weight="400">虎负嵎</text>
+  <text x="318" y="388" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#7C6D5C" font-weight="400">嵎</text>
+  <circle cx="222" cy="293.0" r="9.0" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="222" y1="302.0" x2="222" y2="375.2" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="222" y1="316.4" x2="202.8" y2="342.79999999999995" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="222" y1="316.4" x2="241.2" y2="342.79999999999995" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="222" y1="375.2" x2="211.2" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="222" y1="375.2" x2="232.8" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="222" y1="316" x2="198" y2="274" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="222" y1="316" x2="246" y2="274" stroke="#25211D" stroke-width="1.1"/>
+  <text x="222" y="258" text-anchor="middle" font-size="4.8" letter-spacing="0.5" fill="#994433" font-weight="400">攘臂下车</text>
+  <circle cx="572" cy="350" r="5.2" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="572" y1="355" x2="572" y2="396" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="572" y1="396" x2="567" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="572" y1="396" x2="577" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="572" y1="362" x2="559" y2="350" stroke="#25211D" stroke-width="0.85"/>
+  <line x1="572" y1="362" x2="581" y2="352" stroke="#25211D" stroke-width="0.8"/>
+  <circle cx="598" cy="350" r="5.2" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="598" y1="355" x2="598" y2="396" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="598" y1="396" x2="593" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="598" y1="396" x2="603" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="598" y1="362" x2="585" y2="350" stroke="#25211D" stroke-width="0.85"/>
+  <line x1="598" y1="362" x2="607" y2="352" stroke="#25211D" stroke-width="0.8"/>
+  <circle cx="624" cy="350" r="5.2" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="624" y1="355" x2="624" y2="396" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="624" y1="396" x2="619" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="624" y1="396" x2="629" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="624" y1="362" x2="611" y2="350" stroke="#25211D" stroke-width="0.85"/>
+  <line x1="624" y1="362" x2="633" y2="352" stroke="#25211D" stroke-width="0.8"/>
+  <text x="598" y="338" text-anchor="middle" font-size="4.6" letter-spacing="1" fill="#8C7B69" font-weight="400">众皆悦之</text>
+  <text x="380" y="424" text-anchor="middle" font-size="6.2" letter-spacing="1.8" fill="#25211D" font-weight="400">众望其能，士笑其不知止</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">能为是把事做成，知止是把事放下。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百五十七 · 冯妇搏虎 · ch246a</text>
+</svg>

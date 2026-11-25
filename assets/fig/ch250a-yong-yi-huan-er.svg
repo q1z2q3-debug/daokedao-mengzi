@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">用 其 一 缓 其 二</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百五十章　MZ250</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.6" letter-spacing="0.8" fill="#7C6D5C" font-weight="400">有布缕之征，粟米之征，力役之征。君子用其一，缓其二</text>
+  <ellipse cx="240" cy="304" rx="32" ry="9" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.1"/>
+  <path d="M 208,304 L 208,384" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <path d="M 272,304 L 272,384" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <ellipse cx="240" cy="384" rx="32" ry="9" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="206" y1="320" x2="274" y2="320" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="206" y1="348" x2="274" y2="348" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M 272,352 C 292,360 286,376 300,382 L 300,392 L 268,392 L 268,372" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="240" y="370" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#7C6D5C" font-weight="400">布</text>
+  <path d="M 342,296 L 378,296 L 400,384 L 320,384 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="338" y1="296" x2="382" y2="296" stroke="#7C6D5C" stroke-width="1.8"/>
+  <line x1="341" y1="306" x2="379" y2="306" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M 334,310 L 348,300" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M 386,310 L 372,300" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M 330,332 C 342,340 378,340 390,332" fill="none" stroke="#BFB4A4" stroke-width="0.6"/>
+  <path d="M 326,356 C 340,364 380,364 394,356" fill="none" stroke="#BFB4A4" stroke-width="0.6"/>
+  <text x="360" y="338" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#7C6D5C" font-weight="400">粟</text>
+  <circle cx="530" cy="296" r="8.2" fill="none" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="530" y1="304" x2="530" y2="350" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="530" y1="350" x2="520" y2="386" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="530" y1="350" x2="540" y2="386" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="474" y1="312" x2="586" y2="312" stroke="#7C6D5C" stroke-width="1.8"/>
+  <line x1="530" y1="304" x2="530" y2="312" stroke="#25211D" stroke-width="0.8"/>
+  <line x1="530" y1="312" x2="516" y2="330" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="530" y1="312" x2="544" y2="330" stroke="#25211D" stroke-width="0.9"/>
+  <path d="M 480,320 L 476,352" fill="none" stroke="#BFB4A4" stroke-width="0.7"/>
+  <path d="M 578,320 L 582,352" fill="none" stroke="#BFB4A4" stroke-width="0.7"/>
+  <path d="M 462,352 L 490,352 L 486,386 L 466,386 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.1"/>
+  <path d="M 570,352 L 598,352 L 594,386 L 574,386 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="462" y1="368" x2="490" y2="368" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="570" y1="368" x2="598" y2="368" stroke="#BFB4A4" stroke-width="0.7"/>
+  <text x="530" y="400" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#7C6D5C" font-weight="400">役</text>
+  <line x1="240" y1="272" x2="240" y2="296" stroke="#994433" stroke-width="1.68"/>
+  <path d="M 228,296 L 248,296 L 248,305 L 228,305 Z" fill="#F0EBE2" stroke="#994433" stroke-width="1.2"/>
+  <line x1="233" y1="305" x2="234" y2="316" stroke="#994433" stroke-width="1.32"/>
+  <line x1="240" y1="305" x2="241" y2="316" stroke="#994433" stroke-width="1.32"/>
+  <line x1="247" y1="305" x2="248" y2="316" stroke="#994433" stroke-width="1.32"/>
+  <line x1="228" y1="300" x2="220" y2="308" stroke="#994433" stroke-width="1.32"/>
+  <text x="292" y="288" text-anchor="middle" font-size="4.8" letter-spacing="0.5" fill="#994433" font-weight="400">取其一</text>
+  <line x1="316" y1="288" x2="412" y2="288" stroke="#7C6D5C" stroke-width="2.0"/>
+  <line x1="452" y1="288" x2="616" y2="288" stroke="#7C6D5C" stroke-width="2.0"/>
+  <text x="360" y="278" text-anchor="middle" font-size="5.4" letter-spacing="2" fill="#8C7B69" font-weight="400">缓</text>
+  <text x="536" y="278" text-anchor="middle" font-size="5.4" letter-spacing="2" fill="#8C7B69" font-weight="400">缓</text>
+  <text x="240" y="416" text-anchor="middle" font-size="5.8" letter-spacing="1" fill="#25211D" font-weight="400">一 · 活</text>
+  <text x="360" y="416" text-anchor="middle" font-size="5.8" letter-spacing="1" fill="#25211D" font-weight="400">二 · 殍</text>
+  <text x="530" y="416" text-anchor="middle" font-size="5.8" letter-spacing="1" fill="#25211D" font-weight="400">三 · 离</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">一活，二饿，三散；取到无度，国就危。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百六十一 · 用其一缓其二 · ch250a</text>
+</svg>
