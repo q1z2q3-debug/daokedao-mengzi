@@ -1,6 +1,6 @@
 {
  "book": "润泽说 道可道之孟子",
- "version": "0.25.0",
+ "version": "0.26.0",
  "count": 260,
  "volumes": [
   {
@@ -2055,110 +2055,110 @@
    "卷": "十三",
    "篇": "尽心上",
    "章序": 1,
-   "章题": "",
+   "章题": "尽心知性",
    "file": null,
-   "page": null,
+   "page": "ch/mz178.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ179",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 2,
-   "章题": "",
+   "章题": "正命",
    "file": null,
-   "page": null,
+   "page": "ch/mz179.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ180",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 3,
-   "章题": "",
+   "章题": "求在我",
    "file": null,
-   "page": null,
+   "page": "ch/mz180.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ181",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 4,
-   "章题": "",
+   "章题": "万物皆备",
    "file": null,
-   "page": null,
+   "page": "ch/mz181.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ182",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 5,
-   "章题": "",
+   "章题": "习而不察",
    "file": null,
-   "page": null,
+   "page": "ch/mz182.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ183",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 6,
-   "章题": "",
+   "章题": "无耻之耻",
    "file": null,
-   "page": null,
+   "page": "ch/mz183.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ184",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 7,
-   "章题": "",
+   "章题": "耻之大",
    "file": null,
-   "page": null,
+   "page": "ch/mz184.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ185",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 8,
-   "章题": "",
+   "章题": "好善忘势",
    "file": null,
-   "page": null,
+   "page": "ch/mz185.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ186",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 9,
-   "章题": "",
+   "章题": "嚣嚣",
    "file": null,
-   "page": null,
+   "page": "ch/mz186.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ187",
    "卷": "十三",
    "篇": "尽心上",
    "章序": 10,
-   "章题": "",
+   "章题": "豪杰",
    "file": null,
-   "page": null,
+   "page": "ch/mz187.html",
    "fig": null,
-   "state": "待落笔"
+   "state": "已成"
   },
   {
    "id": "MZ188",

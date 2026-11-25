@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">耻 之 大</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第一百八十四章　MZ184</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">为机变之巧者，无所用耻焉；不耻不若人，何若人有</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <circle cx="230" cy="300" r="40" fill="none" stroke="#8C7B69" stroke-width="1.1"/>
+  <circle cx="230" cy="300" r="12.8" fill="none" stroke="#8C7B69" stroke-width="0.9900000000000001"/>
+  <line x1="270.0" y1="300.0" x2="279.0" y2="300.0" stroke="#8C7B69" stroke-width="1.54"/>
+  <line x1="258.2842712474619" y1="328.2842712474619" x2="264.6482322781408" y2="334.6482322781408" stroke="#8C7B69" stroke-width="1.54"/>
+  <line x1="230.0" y1="340.0" x2="230.0" y2="349.0" stroke="#8C7B69" stroke-width="1.54"/>
+  <line x1="201.7157287525381" y1="328.2842712474619" x2="195.35176772185918" y2="334.6482322781408" stroke="#8C7B69" stroke-width="1.54"/>
+  <line x1="190.0" y1="300.0" x2="181.0" y2="300.0" stroke="#8C7B69" stroke-width="1.54"/>
+  <line x1="201.7157287525381" y1="271.7157287525381" x2="195.35176772185918" y2="265.3517677218592" stroke="#8C7B69" stroke-width="1.54"/>
+  <line x1="230.0" y1="260.0" x2="230.0" y2="251.0" stroke="#8C7B69" stroke-width="1.54"/>
+  <line x1="258.2842712474619" y1="271.7157287525381" x2="264.6482322781408" y2="265.3517677218592" stroke="#8C7B69" stroke-width="1.54"/>
+  <rect x="150" y="352" width="96" height="12" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.0"/>
+  <rect x="154" y="340" width="7" height="12" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.9"/>
+  <rect x="167" y="340" width="7" height="12" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.9"/>
+  <rect x="180" y="340" width="7" height="12" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.9"/>
+  <rect x="193" y="340" width="7" height="12" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.9"/>
+  <rect x="206" y="340" width="7" height="12" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.9"/>
+  <rect x="219" y="340" width="7" height="12" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.9"/>
+  <rect x="232" y="340" width="7" height="12" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.9"/>
+  <circle cx="300" cy="236" r="26" fill="none" stroke="#8C7B69" stroke-width="1.0"/>
+  <circle cx="300" cy="236" r="8.32" fill="none" stroke="#8C7B69" stroke-width="0.9"/>
+  <line x1="326.0" y1="236.0" x2="335.0" y2="236.0" stroke="#8C7B69" stroke-width="1.4"/>
+  <line x1="318.3847763108502" y1="254.38477631085024" x2="324.74873734152914" y2="260.74873734152914" stroke="#8C7B69" stroke-width="1.4"/>
+  <line x1="300.0" y1="262.0" x2="300.0" y2="271.0" stroke="#8C7B69" stroke-width="1.4"/>
+  <line x1="281.6152236891498" y1="254.38477631085024" x2="275.25126265847086" y2="260.74873734152914" stroke="#8C7B69" stroke-width="1.4"/>
+  <line x1="274.0" y1="236.0" x2="265.0" y2="236.0" stroke="#8C7B69" stroke-width="1.4"/>
+  <line x1="281.6152236891498" y1="217.61522368914976" x2="275.2512626584708" y2="211.25126265847084" stroke="#8C7B69" stroke-width="1.4"/>
+  <line x1="300.0" y1="210.0" x2="300.0" y2="201.0" stroke="#8C7B69" stroke-width="1.4"/>
+  <line x1="318.3847763108502" y1="217.61522368914976" x2="324.74873734152914" y2="211.25126265847084" stroke="#8C7B69" stroke-width="1.4"/>
+  <circle cx="300" cy="315.2" r="7.199999999999999" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="300" y1="322.4" x2="300" y2="380.96" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="300" y1="333.91999999999996" x2="284.64" y2="355.03999999999996" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="300" y1="333.91999999999996" x2="315.36" y2="355.03999999999996" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="300" y1="380.96" x2="291.36" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="300" y1="380.96" x2="308.64" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <text x="300" y="424" text-anchor="middle" font-size="5.0" letter-spacing="0" fill="#BFB4A4" font-weight="400">自以为得计</text>
+  <path d="M 352,300 L 372,296" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="3,3"/>
+  <text x="368" y="282" text-anchor="middle" font-size="5.0" letter-spacing="0" fill="#994433" font-weight="400">无所用耻</text>
+  <line x1="470" y1="404" x2="470" y2="300" stroke="#25211D" stroke-width="1.0"/>
+  <circle cx="470" cy="292" r="7" fill="none" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="470" y1="320" x2="454" y2="356" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="470" y1="320" x2="486" y2="356" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="560" y1="404" x2="560" y2="344" stroke="#BFB4A4" stroke-width="0.9"/>
+  <circle cx="560" cy="336" r="6" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="560" y1="356" x2="548" y2="386" stroke="#BFB4A4" stroke-width="0.8"/>
+  <line x1="560" y1="356" x2="572" y2="386" stroke="#BFB4A4" stroke-width="0.8"/>
+  <path d="M 492,300 L 542,300" fill="none" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="516" y="292" text-anchor="middle" font-size="4.8" letter-spacing="0" fill="#BFB4A4" font-weight="400">不 如</text>
+  <text x="520" y="424" text-anchor="middle" font-size="5.0" letter-spacing="0" fill="#7C6D5C" font-weight="400">不耻不若人</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">耻之于人大矣：存之则进于圣贤，失之则入于禽兽。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图九十五 · 耻之大 · ch184a</text>
+</svg>
