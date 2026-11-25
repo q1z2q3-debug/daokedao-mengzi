@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">封 之 有 庳</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》万章上　第一百二十六章　MZ126</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">四罪而天下咸服　象至不仁，封之有庳</text>
+  <line x1="96" y1="404" x2="664" y2="404" stroke="#8C7B69" stroke-width="1.3"/>
+  <rect x="104" y="352" width="40" height="40" fill="#FCFAF6" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="110" y1="358" x2="138" y2="384" stroke="#994433" stroke-width="1.0"/>
+  <line x1="138" y1="358" x2="110" y2="384" stroke="#994433" stroke-width="1.0"/>
+  <text x="124" y="342" text-anchor="middle" font-size="5.0" letter-spacing="0" fill="#BFB4A4" font-weight="400">共工</text>
+  <rect x="160" y="352" width="40" height="40" fill="#FCFAF6" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="166" y1="358" x2="194" y2="384" stroke="#994433" stroke-width="1.0"/>
+  <line x1="194" y1="358" x2="166" y2="384" stroke="#994433" stroke-width="1.0"/>
+  <text x="180" y="342" text-anchor="middle" font-size="5.0" letter-spacing="0" fill="#BFB4A4" font-weight="400">驩兜</text>
+  <rect x="216" y="352" width="40" height="40" fill="#FCFAF6" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="222" y1="358" x2="250" y2="384" stroke="#994433" stroke-width="1.0"/>
+  <line x1="250" y1="358" x2="222" y2="384" stroke="#994433" stroke-width="1.0"/>
+  <text x="236" y="342" text-anchor="middle" font-size="5.0" letter-spacing="0" fill="#BFB4A4" font-weight="400">三苗</text>
+  <rect x="272" y="352" width="40" height="40" fill="#FCFAF6" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="278" y1="358" x2="306" y2="384" stroke="#994433" stroke-width="1.0"/>
+  <line x1="306" y1="358" x2="278" y2="384" stroke="#994433" stroke-width="1.0"/>
+  <text x="292" y="342" text-anchor="middle" font-size="5.0" letter-spacing="0" fill="#BFB4A4" font-weight="400">鲧</text>
+  <text x="190" y="288" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#7C6D5C" font-weight="400">四罪：在他人则诛</text>
+  <rect x="408" y="306" width="150" height="96" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.2"/>
+  <rect x="414" y="297" width="14" height="10" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.08"/>
+  <rect x="444" y="297" width="14" height="10" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.08"/>
+  <rect x="474" y="297" width="14" height="10" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.08"/>
+  <rect x="504" y="297" width="14" height="10" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.08"/>
+  <rect x="469.0" y="368" width="28" height="34" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.08"/>
+  <circle cx="455" cy="349.0" r="5.0" fill="none" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="455" y1="354.0" x2="455" y2="383.6" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="455" y1="383.6" x2="441" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="455" y1="383.6" x2="469" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="455" y1="360.0" x2="443" y2="374.0" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="455" y1="360.0" x2="467" y2="374.0" stroke="#25211D" stroke-width="0.9"/>
+  <text x="455" y="298" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#994433" font-weight="400">象</text>
+  <circle cx="560" cy="341.1" r="5.1" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="560" y1="346.2" x2="560" y2="387.68" stroke="#7C6D5C" stroke-width="1.25"/>
+  <line x1="560" y1="354.36" x2="549.12" y2="369.32" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="560" y1="354.36" x2="570.88" y2="369.32" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="560" y1="387.68" x2="553.88" y2="404" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="560" y1="387.68" x2="566.12" y2="404" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="586" y="320" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#7C6D5C" font-weight="400">使吏治其国</text>
+  <text x="380" y="424" text-anchor="middle" font-size="5.8" letter-spacing="0" fill="#BFB4A4" font-weight="400">不藏怒，不宿怨，亲爱之而已矣</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">封之有庳，富贵之也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 万章上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图三十七 · 封之有庳 · ch126a</text>
+</svg>
