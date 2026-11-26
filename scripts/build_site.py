@@ -22,7 +22,8 @@ figure.fig{margin:26px 0 8px;padding:0;overflow-x:auto;-webkit-overflow-scrollin
 figure.fig svg{width:100%;height:auto;display:block}
 figure.fig figcaption{font-size:12.5px;color:#7C6D5C;letter-spacing:.08em;margin-top:8px;text-align:center}
 figure.fig figcaption a{color:#994433;text-decoration:none;border-bottom:1px solid #DCD5C8}
-@media (max-width:640px){figure.fig figcaption{font-size:11.5px;padding:0 8px}}
+@media (max-width:640px){figure.fig figcaption{font-size:11.5px;padding:0 8px}
+figure.fig svg{width:620px;max-width:none;margin:0 4px}}
 """
 
 

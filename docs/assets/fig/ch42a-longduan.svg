@@ -1,9 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
-  <rect x="0" y="0" width="760" height="560" fill="#F7F4EE"/>
-  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1"/>
-  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
-  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">龙 断</text>
-  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C">《孟子》公孙丑下　第四十二章　MZ042</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="492" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <g transform="translate(0,0.769) scale(1,0.961538)">
+  <text x="380" y="48" text-anchor="middle" font-size="21.84" letter-spacing="5" fill="#25211D" font-weight="700">龙 断</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.92" letter-spacing="2" fill="#7C6D5C">《孟子》公孙丑下　第四十二章　MZ042</text>
   <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
   <path d="M 124,400 L 136,368 L 204,368 L 216,400 Z" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.1"/>
   <rect x="126" y="400" width="88" height="16" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.9"/>
@@ -18,7 +19,7 @@
   <circle cx="436" cy="390" r="5" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
   <circle cx="458" cy="388" r="4" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
   <path d="M 560,430 L 600,344 L 660,344 L 700,430 Z" fill="#F0EBE2" stroke="#25211D" stroke-width="1.3"/>
-  <text x="630" y="446" text-anchor="middle" font-size="6.4" fill="#7C6D5C">龙断·高岗</text>
+  <text x="630" y="446" text-anchor="middle" font-size="6.66" fill="#7C6D5C">龙断·高岗</text>
 
   <circle cx="630" cy="300" r="9" fill="none" stroke="#994433" stroke-width="1.2"/>
   <line x1="630" y1="309" x2="630" y2="338" stroke="#994433" stroke-width="1.2"/>
@@ -37,10 +38,12 @@
   <line x1="682" y1="376" x2="708" y2="396" stroke="#994433" stroke-width="0.5" opacity="0.65"/>
   <line x1="692" y1="396" x2="712" y2="416" stroke="#994433" stroke-width="0.5" opacity="0.65"/>
   <line x1="702" y1="416" x2="716" y2="436" stroke="#994433" stroke-width="0.5" opacity="0.65"/>
-  <text x="560" y="292" text-anchor="middle" font-size="6.6" fill="#994433">左右望，罔市利</text>
-  <text x="300" y="452" text-anchor="middle" font-size="6.4" fill="#8C7B69">市：以有易无，各在其位</text>
+  <text x="560" y="292" text-anchor="middle" font-size="6.86" fill="#994433">左右望，罔市利</text>
+  <text x="300" y="452" text-anchor="middle" font-size="6.66" fill="#8C7B69">市：以有易无，各在其位</text>
   <line x1="120" y1="456" x2="640" y2="456" stroke="#DCD5C8" stroke-width="1"/>
-  <text x="380" y="480" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D">不下场却要收全利，古人叫这个“贱”。</text>
-  <text x="120" y="514" font-size="5.6" fill="#7C6D5C">孟子 · 公孙丑下</text>
-  <text x="640" y="514" text-anchor="end" font-size="5.6" fill="#7C6D5C">图四十二 · 龙断 · ch42a</text>
+  <text x="380" y="480" text-anchor="middle" font-size="8.94" letter-spacing="2" fill="#25211D">不下场却要收全利，古人叫这个“贱”。</text>
+  <text x="120" y="514" font-size="5.82" fill="#7C6D5C">孟子 · 公孙丑下</text>
+  <text x="640" y="514" text-anchor="end" font-size="5.82" fill="#7C6D5C">图四十二 · 龙断 · ch42a</text>
+
+  </g>
 </svg>

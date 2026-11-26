@@ -1,35 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" width="760" height="480" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
-  <rect x="0" y="0" width="760" height="480" fill="#F7F4EE"/>
-  <rect x="10" y="10" width="740" height="460" fill="none" stroke="#DCD5C8" stroke-width="1"/>
-  <rect x="16" y="16" width="728" height="448" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="492" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <g transform="translate(0,-2.727) scale(1,1.136364)">
 
-  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="6" fill="#25211D" font-weight="700">灵 台 与 桀 台</text>
-  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C">《孟子》梁惠王上　第二章　MZ002</text>
+  <text x="380" y="48" text-anchor="middle" font-size="18.48" letter-spacing="6" fill="#25211D" font-weight="700">灵 台 与 桀 台</text>
+  <text x="380" y="68" text-anchor="middle" font-size="9.24" letter-spacing="2" fill="#7C6D5C">《孟子》梁惠王上　第二章　MZ002</text>
   <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
   <line x1="380" y1="96" x2="380" y2="374" stroke="#DCD5C8" stroke-width="1"/>
 
-  <text x="180" y="128" text-anchor="middle" font-size="10.5" letter-spacing="3" fill="#994433">灵　台</text>
-  <text x="580" y="128" text-anchor="middle" font-size="10.5" letter-spacing="3" fill="#7C6D5C">台　池</text>
+  <text x="180" y="128" text-anchor="middle" font-size="9.24" letter-spacing="3" fill="#994433">灵　台</text>
+  <text x="580" y="128" text-anchor="middle" font-size="9.24" letter-spacing="3" fill="#7C6D5C">台　池</text>
 
-  <text x="180" y="178" text-anchor="middle" font-size="8.5" letter-spacing="2" fill="#25211D">文 王</text>
+  <text x="180" y="178" text-anchor="middle" font-size="7.48" letter-spacing="2" fill="#25211D">文 王</text>
   <polygon points="104,186 256,186 288,238 72,238" fill="#FCFAF6" stroke="#994433" stroke-width="1.3"/>
   <line x1="104" y1="186" x2="256" y2="186" stroke="#994433" stroke-width="1.8"/>
   <line x1="88" y1="212" x2="272" y2="212" stroke="#994433" stroke-width="1"/>
   <line x1="72" y1="238" x2="288" y2="238" stroke="#994433" stroke-width="2.6"/>
 
-  <text x="101" y="252" text-anchor="middle" font-size="13" fill="#994433">↑</text>
-  <text x="161" y="252" text-anchor="middle" font-size="13" fill="#994433">↑</text>
-  <text x="221" y="252" text-anchor="middle" font-size="13" fill="#994433">↑</text>
-  <text x="265" y="252" text-anchor="middle" font-size="13" fill="#994433">↑</text>
+  <text x="101" y="252" text-anchor="middle" font-size="11.44" fill="#994433">↑</text>
+  <text x="161" y="252" text-anchor="middle" font-size="11.44" fill="#994433">↑</text>
+  <text x="221" y="252" text-anchor="middle" font-size="11.44" fill="#994433">↑</text>
+  <text x="265" y="252" text-anchor="middle" font-size="11.44" fill="#994433">↑</text>
   <rect x="86" y="256" width="30" height="13" rx="2" fill="#FCFAF6" stroke="#994433" stroke-width="1"/>
   <rect x="146" y="256" width="30" height="13" rx="2" fill="#FCFAF6" stroke="#994433" stroke-width="1"/>
   <rect x="206" y="256" width="30" height="13" rx="2" fill="#FCFAF6" stroke="#994433" stroke-width="1"/>
   <rect x="252" y="256" width="26" height="13" rx="2" fill="#FCFAF6" stroke="#994433" stroke-width="1"/>
 
-  <text x="180" y="302" text-anchor="middle" font-size="7.4" fill="#994433">民乐其乐　庶民子来</text>
-  <text x="180" y="320" text-anchor="middle" font-size="7" fill="#7C6D5C">谓其台曰灵台　勿亟不催</text>
+  <text x="180" y="302" text-anchor="middle" font-size="6.51" fill="#994433">民乐其乐　庶民子来</text>
+  <text x="180" y="320" text-anchor="middle" font-size="6.16" fill="#7C6D5C">谓其台曰灵台　勿亟不催</text>
 
-  <text x="580" y="178" text-anchor="middle" font-size="8.5" letter-spacing="2" fill="#25211D">桀</text>
+  <text x="580" y="178" text-anchor="middle" font-size="7.48" letter-spacing="2" fill="#25211D">桀</text>
   <g transform="rotate(-4 580 238)">
     <polygon points="504,186 656,186 688,238 472,238" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.3"/>
     <line x1="504" y1="186" x2="656" y2="186" stroke="#8C7B69" stroke-width="1.6"/>
@@ -37,23 +38,25 @@
     <line x1="472" y1="238" x2="688" y2="238" stroke="#8C7B69" stroke-width="2.4"/>
   </g>
 
-  <text x="511" y="284" text-anchor="middle" font-size="13" fill="#7C6D5C">↓</text>
-  <text x="567" y="284" text-anchor="middle" font-size="13" fill="#7C6D5C">↓</text>
-  <text x="623" y="284" text-anchor="middle" font-size="13" fill="#7C6D5C">↓</text>
-  <text x="679" y="284" text-anchor="middle" font-size="13" fill="#7C6D5C">↓</text>
+  <text x="511" y="284" text-anchor="middle" font-size="11.44" fill="#7C6D5C">↓</text>
+  <text x="567" y="284" text-anchor="middle" font-size="11.44" fill="#7C6D5C">↓</text>
+  <text x="623" y="284" text-anchor="middle" font-size="11.44" fill="#7C6D5C">↓</text>
+  <text x="679" y="284" text-anchor="middle" font-size="11.44" fill="#7C6D5C">↓</text>
   <rect x="496" y="254" width="30" height="13" rx="2" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
   <rect x="552" y="254" width="30" height="13" rx="2" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
   <rect x="608" y="254" width="30" height="13" rx="2" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
   <rect x="664" y="254" width="30" height="13" rx="2" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
 
-  <text x="580" y="302" text-anchor="middle" font-size="7.4" fill="#7C6D5C">民欲与之偕亡　时日害丧</text>
-  <text x="580" y="320" text-anchor="middle" font-size="7" fill="#7C6D5C">虽有台池鸟兽　岂能独乐</text>
+  <text x="580" y="302" text-anchor="middle" font-size="6.51" fill="#7C6D5C">民欲与之偕亡　时日害丧</text>
+  <text x="580" y="320" text-anchor="middle" font-size="6.16" fill="#7C6D5C">虽有台池鸟兽　岂能独乐</text>
 
-  <text x="180" y="368" text-anchor="middle" font-size="11.5" letter-spacing="4" fill="#994433">托　起</text>
-  <text x="580" y="368" text-anchor="middle" font-size="11.5" letter-spacing="4" fill="#7C6D5C">拽　下</text>
+  <text x="180" y="368" text-anchor="middle" font-size="10.12" letter-spacing="4" fill="#994433">托　起</text>
+  <text x="580" y="368" text-anchor="middle" font-size="10.12" letter-spacing="4" fill="#7C6D5C">拽　下</text>
 
   <line x1="120" y1="396" x2="640" y2="396" stroke="#DCD5C8" stroke-width="1"/>
-  <text x="380" y="420" text-anchor="middle" font-size="8.4" letter-spacing="2" fill="#25211D">同一座台：托起来是灵台，拽下去是桀台。</text>
-  <text x="120" y="454" font-size="5.6" fill="#7C6D5C">孟子 · 梁惠王上</text>
-  <text x="640" y="454" text-anchor="end" font-size="5.6" fill="#7C6D5C">图二 · 灵台与桀台 · ch02a</text>
+  <text x="380" y="420" text-anchor="middle" font-size="7.39" letter-spacing="2" fill="#25211D">同一座台：托起来是灵台，拽下去是桀台。</text>
+  <text x="120" y="454" font-size="4.93" fill="#7C6D5C">孟子 · 梁惠王上</text>
+  <text x="640" y="454" text-anchor="end" font-size="4.93" fill="#7C6D5C">图二 · 灵台与桀台 · ch02a</text>
+
+  </g>
 </svg>

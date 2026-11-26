@@ -16,7 +16,8 @@ for f in sorted(glob.glob('assets/fig/*.svg')):
     nt = len([t for t in texts if t.strip()])
     tiny = len([x for x in sizes if x < 5.5])
     over = 0
-    for m in re.finditer(r'<text\s+x="(-?[\d.]+)"\s+y="([\d.]+)"[^>]*font-size="([\d.]+)"[^>]*>([^<]*)</text>', s):
+    top = re.sub(r'<g\b[^>]*>.*?</g>', '', s, flags=re.S)
+    for m in re.finditer(r'<text\s+x="(-?[\d.]+)"\s+y="([\d.]+)"[^>]*font-size="([\d.]+)"[^>]*>([^<]*)</text>', top):
         x, y, fs, txt = float(m.group(1)), float(m.group(2)), float(m.group(3)), m.group(4)
         if not txt.strip():
             continue

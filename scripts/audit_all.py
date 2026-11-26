@@ -33,7 +33,7 @@ for f in books:
         if not glob.glob(f'assets/fig/{glob.escape(k)}-*.svg'):
             issues['图位'].append(f'{name} 图位键 {k} 无对应 SVG')
         num = int(name[2:5])
-        want = 'ch%da' % num
+        want = 'ch%02da' % num
         if k != want:
             issues['图位'].append(f'{name} 图位键 {k}，按章号应为 {want}')
     # 长段/异常
@@ -89,8 +89,9 @@ for f in figs:
         issues['SVG尺寸'].append(f'{name} viewBox={vb.group(1) if vb else "无"}')
     if s.count('<path') > 400:
         issues['SVG体量'].append(f'{name} path {s.count("<path")}')
-    # 越界文字/坐标粗查：x 或 cx 超过 640
-    for m in re.finditer(r'\b(cx|cy)="(-?[\d.]+)"', s):
+    # 越界粗查：只在无变换的顶层坐标系上判（<g transform> 内是局部坐标，不适用）
+    top = re.sub(r'<g\b[^>]*>.*?</g>', '', s, flags=re.S)
+    for m in re.finditer(r'\b(cx|cy)="(-?[\d.]+)"', top):
         v = float(m.group(2))
         if (m.group(1) == 'cx' and (v > 760 or v < 0)) or (m.group(1) == 'cy' and (v > 540 or v < 0)):
             issues['SVG越界'].append(f'{name} {m.group(1)}={v}')
