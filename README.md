@@ -32,7 +32,11 @@ python3 scripts/check_skeleton.py # 骨架自检（卷表／章表／文档一�
 - **正文已成：二百六十一页 / 二百六十一（261 / 261）**，七篇十四卷终，v0.34.0 收笔，v0.36.0 补齐前四篇体例，v0.37.0 统一画幅与字号。
 - 章页与图：261 页、261 图（`viewBox` 一律 `0 0 760 540`）、261 页章页、元数据 261 条，一一对应无缺。
 - 体检：`AUDIT-v0.35.0.md` 所列 P1／P2／P3 已于 v0.35.0–v0.37.0 逐条处置；四审计脚本复跑 FAIL 0。
-- 交付：离线单文件 HTML、Android APK、总站入册（随 v0.37.x 发布）。
+- 交付（已上线）：
+  - 安卓离线包：<https://q1z2q3-debug.github.io/daokedao-mengzi/dl/mengzi-v0.37.0.apk>（3.06 MB，SHA256 `a2bbaade…`）
+  - 全本单文件：<https://q1z2q3-debug.github.io/daokedao-mengzi/dl/mengzi-v0.37.0-全本离线.html>（4.1 MB，零外链）
+  - 总站入册：<https://q1z2q3-debug.github.io/runze-daokedao/books/mengzi.html>（第 08 部，经典八部）
+  - 校验：`docs/dl/SHA256SUMS.txt`
 - 下一步：无正文欠账；后续只做校勘与读者反馈修订。
 
 ## 引用

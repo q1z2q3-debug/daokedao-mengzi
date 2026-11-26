@@ -18,6 +18,8 @@
 
 **复核口径**　分寸五条、存疑五条、五问，全 261 章复算：分寸 258 章五条、3 章六条；存疑 258 章五条、3 章六条；无缺口。v0.35.0 报告所记「四十六章分寸不足」「十八章存疑仅三条」为当时实况，已于 v0.36.0 补齐，本版复算确认。
 
+**交付件**　①全本离线单文件 `dist/道可道之孟子-v0.37.0-全本离线.html`（4.1 MB，261 页正文与 261 图全内联，零外链，`scripts/build_single.py` 生成）；②安卓离线包 `dist/道可道之孟子-v0.37.0.apk`（3.06 MB，`.github/workflows/apk.yml` 在 GitHub Actions 构建，assets 含 261 章页与 261 图，包名 `com.runze.daokedaomengzi`，`versionCode 37`）；③两件均挂 `docs/dl/` 并附 `SHA256SUMS.txt`；④总站 `runze-daokedao` 由「经典七部」扩为「经典八部」，孟子入册第 08 部（字学、蒙学编号顺延 09–11，合计字数 214 万→271 万，APK_BOOKS、llms、ALL-BOOKS、README、CHANGELOG 同步）。另修正站点模板串库：`_shell_book.html` 之「《中庸》」「zhongyong」域名、「中」字图标、底本行，并令章页 canonical／og:url／description 按章生成。
+
 ---
 
 ## v0.36.0 · 2026-11-26
