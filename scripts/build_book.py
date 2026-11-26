@@ -15,7 +15,7 @@ import daokedao_book as kit  # noqa: E402
 SITE = "https://q1z2q3-debug.github.io/daokedao-mengzi"
 REPO = "https://github.com/q1z2q3-debug/daokedao-mengzi"
 VER = open(os.path.join(ROOT, "VERSION"), encoding="utf-8").read().strip()
-DATE = "2026-11-23"
+DATE = "2026-11-26"
 CSS = open(os.path.join(ROOT, "scripts/_style.css"), encoding="utf-8").read()
 book = os.path.join(ROOT, "book")
 docs = os.path.join(ROOT, "docs")
@@ -114,9 +114,15 @@ INDEX = """<!DOCTYPE html>
 <div class="bar"><div></div><div><span class="bname">润 泽 说 · 道 可 道 之 孟 子</span></div></div>
 <div class="wrap">
 <h1 class="ch">润泽说 道可道之孟子</h1>
-<p>七篇十四卷，二百六十章。底本朱熹《孟子集注》。一章一页，每章十二节，另立「孟子三判」：此章驳谁、立什么、留给后人什么。</p>
+<p>七篇十四卷，二百六十章、二百六十一页。底本朱熹《孟子集注》，参校赵岐注、孙奭疏。一章一页，每章十二节，一章一图，另立「孟子三判」：此章驳谁、立什么、留给后人什么。</p>
 <p><a href="book.html">▸ 进入卷首（封面 · 扉页 · 前言 · 序 · 体例 · 卷表）</a></p>
-<h2>已成之章</h2>
+<h2>离线与下载</h2>
+<ul class="list">
+<li><a href="dl/mengzi-v%s.apk">▸ 安卓离线包 · 道可道之孟子 v%s（APK，全书 261 页，断网可读）</a></li>
+<li><a href="dl/mengzi-v%s-全本离线.html">▸ 全本单文件（HTML，零外链，双击即读）</a></li>
+<li><a href="%s">▸ 体检报告 v0.37.0（十项问题逐条对账）</a></li>
+</ul>
+<h2>全书二百六十一页</h2> 
 <ul class="list">%s</ul>
 <h2>七篇十四卷</h2>
 <table class="t" style="width:auto;min-width:560px"><thead><tr><th style="width:64px">卷</th><th style="width:150px">篇</th><th style="width:88px">章数</th><th>章号</th></tr></thead>
@@ -128,7 +134,7 @@ INDEX = """<!DOCTYPE html>
 </div>
 </body>
 </html>
-""" % (CSS, chs, VOLTABLE, VER, DATE, SITE)
+""" % (CSS, VER, VER, VER, "https://github.com/q1z2q3-debug/daokedao-mengzi/blob/main/AUDIT-v0.37.0.md", chs, VOLTABLE, VER, DATE, SITE)
 
 open(os.path.join(docs, "index.html"), "w", encoding="utf-8").write(INDEX)
 open(os.path.join(docs, "robots.txt"), "w", encoding="utf-8").write(
