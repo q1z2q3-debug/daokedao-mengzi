@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">在 迩 与 求 远</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》离娄上　第七十二章　MZ072</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <line x1="380" y1="100" x2="380" y2="424" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="200" y="122" text-anchor="middle" font-size="10" letter-spacing="4" fill="#7C6D5C" font-weight="400">在 迩</text>
+  <text x="566" y="122" text-anchor="middle" font-size="10" letter-spacing="3" fill="#7C6D5C" font-weight="400">求 诸 远</text>
+  <line x1="110" y1="404" x2="320" y2="404" stroke="#8C7B69" stroke-width="1.4"/>
+  <circle cx="180" cy="292" r="10" fill="none" stroke="#25211D" stroke-width="1.3"/>
+  <line x1="180" y1="302" x2="180" y2="374" stroke="#25211D" stroke-width="1.4"/>
+  <line x1="180" y1="374" x2="166" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="180" y1="374" x2="196" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="180" y1="318" x2="214" y2="332" stroke="#25211D" stroke-width="1.2"/>
+  <circle cx="218" cy="333" r="4.2" fill="#F0EBE2" stroke="#25211D" stroke-width="1.0"/>
+  <circle cx="266" cy="326" r="7" fill="none" stroke="#994433" stroke-width="1.2"/>
+  <line x1="266" y1="333" x2="266" y2="384" stroke="#994433" stroke-width="1.2"/>
+  <line x1="266" y1="384" x2="256" y2="404" stroke="#994433" stroke-width="1.0"/>
+  <line x1="266" y1="384" x2="276" y2="404" stroke="#994433" stroke-width="1.0"/>
+  <line x1="266" y1="346" x2="240" y2="334" stroke="#994433" stroke-width="1.0"/>
+  <circle cx="236" cy="333" r="3.6" fill="#F0EBE2" stroke="#994433" stroke-width="0.9"/>
+  <line x1="222" y1="333" x2="234" y2="333" stroke="#25211D" stroke-width="0.9"/>
+  <text x="196" y="272" text-anchor="middle" font-size="6.4" letter-spacing="0" fill="#7C6D5C" font-weight="400">亲其亲</text>
+  <line x1="214" y1="276" x2="226" y2="326" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="150" y="424" text-anchor="start" font-size="5.8" letter-spacing="0" fill="#BFB4A4" font-weight="400">三步之内</text>
+  <line x1="136" y1="404" x2="136" y2="396" stroke="#BFB4A4" stroke-width="0.8"/>
+  <line x1="166" y1="404" x2="166" y2="396" stroke="#BFB4A4" stroke-width="0.8"/>
+  <line x1="196" y1="404" x2="196" y2="396" stroke="#BFB4A4" stroke-width="0.8"/>
+  <path d="M 420,404 L 462,366 L 500,384 L 540,340 L 584,358 L 626,316 L 650,352" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M 654,404 L 706,404 L 682,318 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="420" y1="404" x2="700" y2="404" stroke="#8C7B69" stroke-width="1.3"/>
+  <circle cx="470" cy="292" r="9.4" fill="none" stroke="#25211D" stroke-width="1.3"/>
+  <line x1="470" y1="301" x2="470" y2="372" stroke="#25211D" stroke-width="1.4"/>
+  <line x1="470" y1="372" x2="456" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="470" y1="372" x2="484" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="470" y1="316" x2="452" y2="330" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="470" y1="316" x2="488" y2="332" stroke="#25211D" stroke-width="1.2"/>
+  <circle cx="444" cy="352" r="10" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="470" y1="318" x2="450" y2="344" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="432" y="366" text-anchor="end" font-size="6.0" letter-spacing="0" fill="#7C6D5C" font-weight="400">行囊</text>
+  <text x="560" y="424" text-anchor="middle" font-size="5.8" letter-spacing="0" fill="#BFB4A4" font-weight="400">路画得越长，越像在做事</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">道在尔而求诸远，事在易而求之难。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图七十二 · 在迩与求远 · ch72a</text>
+</svg>

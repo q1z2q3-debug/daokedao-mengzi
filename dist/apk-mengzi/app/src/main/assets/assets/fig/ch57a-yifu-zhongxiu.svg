@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">一 傅 众 咻</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》滕文公下　第五十七章　MZ057</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#DCD5C8" stroke-width="1"/>
+  <circle cx="212" cy="302.1" r="8.1" fill="none" stroke="#994433" stroke-width="1.5"/>
+  <line x1="212" y1="310.2" x2="212" y2="376.08" stroke="#994433" stroke-width="1.875"/>
+  <line x1="212" y1="323.15999999999997" x2="194.72" y2="344.76" stroke="#994433" stroke-width="1.5"/>
+  <line x1="212" y1="323.15999999999997" x2="266.0" y2="329.64" stroke="#994433" stroke-width="1.5"/>
+  <line x1="212" y1="376.08" x2="202.28" y2="402" stroke="#994433" stroke-width="1.5"/>
+  <line x1="212" y1="376.08" x2="221.72" y2="402" stroke="#994433" stroke-width="1.5"/>
+  <path d="M 262,330 C 296,318 328,318 344,326" fill="none" stroke="#BFB4A4" stroke-width="1.1" stroke-dasharray="6,4"/>
+  <text x="212" y="430" text-anchor="middle" font-size="6.6" letter-spacing="0" fill="#994433" font-weight="400">一齐人</text>
+  <text x="304" y="308" text-anchor="middle" font-size="6" letter-spacing="0" fill="#BFB4A4" font-weight="400">傅之</text>
+  <circle cx="382" cy="331.7" r="5.7" fill="none" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="382" y1="337.4" x2="382" y2="383.76" stroke="#25211D" stroke-width="1.875"/>
+  <line x1="382" y1="346.52" x2="369.84" y2="363.24" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="382" y1="346.52" x2="394.16" y2="363.24" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="382" y1="383.76" x2="375.16" y2="402" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="382" y1="383.76" x2="388.84" y2="402" stroke="#25211D" stroke-width="1.5"/>
+  <circle cx="385" cy="344" r="2.4" fill="#FCFAF6" stroke="#25211D" stroke-width="1"/>
+  <text x="382" y="430" text-anchor="middle" font-size="6.4" letter-spacing="0" fill="#25211D" font-weight="400">学语的孩子</text>
+  <circle cx="476" cy="311.35" r="7.35" fill="none" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="476" y1="318.7" x2="476" y2="378.48" stroke="#7C6D5C" stroke-width="1.625"/>
+  <line x1="476" y1="330.46" x2="452.48" y2="344.18" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="476" y1="330.46" x2="499.52" y2="342.21999999999997" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="476" y1="378.48" x2="467.18" y2="402" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="476" y1="378.48" x2="484.82" y2="402" stroke="#7C6D5C" stroke-width="1.3"/>
+  <circle cx="479" cy="320" r="3.2" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
+  <circle cx="530" cy="311.35" r="7.35" fill="none" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="530" y1="318.7" x2="530" y2="378.48" stroke="#7C6D5C" stroke-width="1.625"/>
+  <line x1="530" y1="330.46" x2="514.32" y2="352.02" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="530" y1="330.46" x2="545.68" y2="352.02" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="530" y1="378.48" x2="521.18" y2="402" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="530" y1="378.48" x2="538.82" y2="402" stroke="#7C6D5C" stroke-width="1.3"/>
+  <circle cx="533" cy="320" r="3.2" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
+  <circle cx="584" cy="311.35" r="7.35" fill="none" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="584" y1="318.7" x2="584" y2="378.48" stroke="#7C6D5C" stroke-width="1.625"/>
+  <line x1="584" y1="330.46" x2="560.48" y2="344.18" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="584" y1="330.46" x2="607.52" y2="342.21999999999997" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="584" y1="378.48" x2="575.18" y2="402" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="584" y1="378.48" x2="592.82" y2="402" stroke="#7C6D5C" stroke-width="1.3"/>
+  <circle cx="587" cy="320" r="3.2" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
+  <circle cx="638" cy="311.35" r="7.35" fill="none" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="638" y1="318.7" x2="638" y2="378.48" stroke="#7C6D5C" stroke-width="1.625"/>
+  <line x1="638" y1="330.46" x2="622.32" y2="352.02" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="638" y1="330.46" x2="653.68" y2="352.02" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="638" y1="378.48" x2="629.18" y2="402" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="638" y1="378.48" x2="646.82" y2="402" stroke="#7C6D5C" stroke-width="1.3"/>
+  <circle cx="641" cy="320" r="3.2" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
+  <path d="M 452,318 C 434,306 422,308 412,312" fill="none" stroke="#994433" stroke-width="1.3"/>
+  <path d="M 458,342 C 438,332 424,332 412,338" fill="none" stroke="#994433" stroke-width="1.3"/>
+  <path d="M 454,366 C 436,360 424,360 412,364" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <text x="556" y="430" text-anchor="middle" font-size="6.6" letter-spacing="0" fill="#7C6D5C" font-weight="400">众楚人</text>
+  <text x="400" y="384" text-anchor="middle" font-size="8" letter-spacing="0" fill="#994433" font-weight="400">咻</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">一齐人傅之，众楚人咻之。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 滕文公下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图五十七 · 一傅众咻 · ch57a</text>
+</svg>

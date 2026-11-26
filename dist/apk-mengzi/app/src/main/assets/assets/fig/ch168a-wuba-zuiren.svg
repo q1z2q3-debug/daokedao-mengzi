@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">五 霸 罪 人</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子下　第一百六十八章　MZ168</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">五霸者，三王之罪人也；今之诸侯，五霸之罪人也</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <path d="M 190,404 L 250,404 L 250,340 L 330,340 L 330,286 L 410,286 L 410,232 L 490,232 L 490,182 L 560,182" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <rect x="190" y="374" width="60" height="30" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.9"/>
+  <rect x="250" y="310" width="80" height="30" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.9"/>
+  <rect x="330" y="256" width="80" height="30" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.9"/>
+  <rect x="410" y="202" width="80" height="30" fill="#F0EBE2" stroke="#8C7B69" stroke-width="0.9"/>
+  <text x="220" y="424" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">今之大夫</text>
+  <text x="290" y="328" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">今之诸侯</text>
+  <text x="370" y="274" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#7C6D5C" font-weight="400">五 霸</text>
+  <text x="450" y="220" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#994433" font-weight="400">三 王</text>
+  <text x="560" y="176" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#25211D" font-weight="400">天 子</text>
+  <line x1="600" y1="220" x2="600" y2="380" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 597.9,376.6 L 600,380 L 602.1,376.6" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <text x="614" y="300" text-anchor="middle" font-size="6.4" letter-spacing="2" fill="#994433" font-weight="400">罪</text>
+  <text x="200" y="230" text-anchor="middle" font-size="5.2" letter-spacing="0" fill="#BFB4A4" font-weight="400">长君之恶其罪小，逢君之恶其罪大</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">今之大夫，今之诸侯之罪人也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百六十八 · 五霸罪人 · ch168a</text>
+</svg>

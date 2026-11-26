@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">一 张 几</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C">《孟子》公孙丑下　第四十三章　MZ043</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="240" y="302" width="250" height="12" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.3"/>
+  <line x1="256" y1="314" x2="256" y2="344" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="474" y1="314" x2="474" y2="344" stroke="#8C7B69" stroke-width="1.1"/>
+  <text x="365" y="366" text-anchor="middle" font-size="6.6" fill="#7C6D5C">几</text>
+
+  <circle cx="272" cy="266" r="9" fill="none" stroke="#994433" stroke-width="1.2"/>
+  <path d="M 281,268 C 310,272 350,276 392,278" fill="none" stroke="#994433" stroke-width="1.6"/>
+  <path d="M 392,278 C 418,282 432,292 442,302" fill="none" stroke="#994433" stroke-width="1.3"/>
+  <path d="M 392,278 C 410,296 414,306 408,314" fill="none" stroke="#994433" stroke-width="1.3"/>
+  <path d="M 320,274 C 330,288 344,296 358,300" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <text x="300" y="242" text-anchor="middle" font-size="6.6" fill="#994433">隐几而卧</text>
+
+  <circle cx="614" cy="244" r="9" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="614" y1="253" x2="614" y2="290" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="596" y1="290" x2="632" y2="290" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="600" y1="290" x2="600" y2="312" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="628" y1="290" x2="628" y2="312" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="596" y1="312" x2="606" y2="312" stroke="#25211D" stroke-width="1"/>
+  <line x1="624" y1="312" x2="634" y2="312" stroke="#25211D" stroke-width="1"/>
+  <line x1="614" y1="262" x2="594" y2="274" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="614" y1="262" x2="634" y2="274" stroke="#25211D" stroke-width="1.1"/>
+  <text x="614" y="336" text-anchor="middle" font-size="6.6" fill="#25211D">客　齐宿而后言</text>
+
+  <path d="M 566,306 C 540,310 518,312 502,310" fill="none" stroke="#BFB4A4" stroke-width="0.9" stroke-dasharray="5 4"/>
+  <text x="524" y="330" text-anchor="middle" font-size="6" fill="#BFB4A4">话递到这里，就断了</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D">没有人在跑，诚意就到不了。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 公孙丑下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图四十三 · 一张几 · ch43a</text>
+</svg>

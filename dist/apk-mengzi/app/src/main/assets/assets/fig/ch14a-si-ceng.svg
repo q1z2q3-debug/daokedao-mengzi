@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="492" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <g transform="translate(0,-0.833) scale(1,1.041667)">
+  <text x="380" y="48" text-anchor="middle" font-size="20.16" letter-spacing="6" fill="#25211D" font-weight="700">四 层 一 看</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.08" letter-spacing="2" fill="#7C6D5C">《孟子》梁惠王下　第十四章　MZ014</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <circle cx="392" cy="242" r="120" fill="#FCFAF6" stroke="#BFB4A4" stroke-width="1"/>
+  <circle cx="392" cy="242" r="84" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1"/>
+  <circle cx="392" cy="242" r="50" fill="#F7F4EE" stroke="#994433" stroke-width="1"/>
+  <circle cx="392" cy="242" r="7" fill="#25211D"/>
+
+  <text x="392" y="144" text-anchor="middle" font-size="7.10" letter-spacing="2" fill="#BFB4A4">国人</text>
+  <text x="392" y="180" text-anchor="middle" font-size="7.10" letter-spacing="2" fill="#8C7B69">左右</text>
+  <text x="392" y="216" text-anchor="middle" font-size="7.10" letter-spacing="2" fill="#994433">诸大夫</text>
+  <text x="392" y="278" text-anchor="middle" font-size="7.10" letter-spacing="2" fill="#994433">察</text>
+
+  <text x="392" y="400" text-anchor="middle" font-size="6.72" fill="#7C6D5C">三层往外听，一层往里看</text>
+  <text x="392" y="418" text-anchor="middle" font-size="6.72" fill="#7C6D5C">众论是证据，自察是判决</text>
+  <line x1="120" y1="416" x2="640" y2="416" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="440" text-anchor="middle" font-size="8.26" letter-spacing="2" fill="#25211D">听三遍，看一遍；看的那一遍，不能代替。</text>
+  <text x="120" y="474" font-size="5.38" fill="#7C6D5C">孟子 · 梁惠王下</text>
+  <text x="640" y="474" text-anchor="end" font-size="5.38" fill="#7C6D5C">图十四 · 四层一看 · ch14a</text>
+
+  </g>
+</svg>

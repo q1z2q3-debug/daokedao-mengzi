@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">茅 塞 子 心</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百四十四章　MZ244</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.0" letter-spacing="1.2" fill="#7C6D5C" font-weight="400">山径之蹊间，介然用之而成路；为间不用，则茅塞之矣</text>
+  <rect x="140" y="306" width="480" height="60" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.4"/>
+  <line x1="140" y1="306" x2="620" y2="306" stroke="#7C6D5C" stroke-width="1.8"/>
+  <line x1="140" y1="366" x2="620" y2="366" stroke="#7C6D5C" stroke-width="1.8"/>
+  <path d="M 140,336 L 620,336" fill="none" stroke="#8C7B69" stroke-width="0.7" stroke-dasharray="8,5"/>
+  <rect x="540" y="300" width="34" height="72" fill="#F7F4EE" stroke="#F7F4EE" stroke-width="0"/>
+  <line x1="140" y1="306" x2="540" y2="306" stroke="#7C6D5C" stroke-width="1.8"/>
+  <line x1="574" y1="306" x2="620" y2="306" stroke="#7C6D5C" stroke-width="1.8"/>
+  <line x1="140" y1="366" x2="540" y2="366" stroke="#7C6D5C" stroke-width="1.8"/>
+  <line x1="574" y1="366" x2="620" y2="366" stroke="#7C6D5C" stroke-width="1.8"/>
+  <line x1="540" y1="306" x2="540" y2="366" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="574" y1="306" x2="574" y2="366" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M 540,336 L 530,336" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+  <path d="M 574,336 L 584,336" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+  <ellipse cx="206" cy="344" rx="4.6" ry="2.53" fill="#8C7B69" stroke="#8C7B69" stroke-width="0.7"/>
+  <ellipse cx="232" cy="350" rx="4.6" ry="2.53" fill="#8C7B69" stroke="#8C7B69" stroke-width="0.7"/>
+  <ellipse cx="258" cy="344" rx="4.6" ry="2.53" fill="#8C7B69" stroke="#8C7B69" stroke-width="0.7"/>
+  <ellipse cx="284" cy="350" rx="4.6" ry="2.53" fill="#8C7B69" stroke="#8C7B69" stroke-width="0.7"/>
+  <path d="M 474,306 C 472.2,317.0208 468.6,325.9424 468.0,332.24" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 474,306 C 474.9,319.44 476.25,330.32 477.0,338.0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 474,306 C 477.59999999999997,318.6336 483.9,328.8608 486.0,336.08" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 474,366 C 470.40000000000003,354.9792 464.1,346.0576 462.0,339.76" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 474,366 C 473.1,352.56 471.75,341.68 471.0,334.0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 474,366 C 475.8,353.3664 479.4,343.1392 480.0,335.92" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 508,306 C 506.2,317.0208 502.6,325.9424 502.0,332.24" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 508,306 C 508.9,319.44 510.25,330.32 511.0,338.0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 508,306 C 511.59999999999997,318.6336 517.9,328.8608 520.0,336.08" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 508,366 C 504.40000000000003,354.9792 498.1,346.0576 496.0,339.76" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 508,366 C 507.1,352.56 505.75,341.68 505.0,334.0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 508,366 C 509.8,353.3664 513.4,343.1392 514.0,335.92" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 600,306 C 598.1999999999999,317.0208 594.6,325.9424 594.0,332.24" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 600,306 C 600.9,319.44 602.25,330.32 603.0,338.0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 600,306 C 603.6,318.6336 609.9,328.8608 612.0,336.08" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 600,366 C 596.4,354.9792 590.1,346.0576 588.0,339.76" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 600,366 C 599.1,352.56 597.75,341.68 597.0,334.0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 600,366 C 601.8000000000001,353.3664 605.4,343.1392 606.0,335.92" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 440,306 C 438.2,314.2656 434.9,320.9568 434.0,325.68" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 440,306 C 441.8,316.08 445.1,324.24 446.0,330.0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 440,366 C 438.2,357.7344 434.9,351.0432 434.0,346.32" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 440,366 C 441.8,355.92 445.1,347.76 446.0,342.0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 578,306 C 576.2,314.2656 572.9,320.9568 572.0,325.68" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 578,306 C 579.8,316.08 583.1,324.24 584.0,330.0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 578,366 C 576.2,357.7344 572.9,351.0432 572.0,346.32" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 578,366 C 579.8,355.92 583.1,347.76 584.0,342.0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 616,306 C 614.2,314.2656 610.9,320.9568 610.0,325.68" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 616,306 C 617.8,316.08 621.1,324.24 622.0,330.0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 616,366 C 614.2,357.7344 610.9,351.0432 610.0,346.32" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 616,366 C 617.8,355.92 621.1,347.76 622.0,342.0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="260" y="296" text-anchor="middle" font-size="4.8" letter-spacing="0.5" fill="#8C7B69" font-weight="400">介然用之而成路</text>
+  <text x="614" y="296" text-anchor="middle" font-size="4.8" letter-spacing="0.5" fill="#8C7B69" font-weight="400">为间不用</text>
+  <text x="557" y="400" text-anchor="middle" font-size="5.6" letter-spacing="2" fill="#994433" font-weight="400">茅 塞</text>
+  <text x="180" y="394" text-anchor="middle" font-size="4.6" letter-spacing="0" fill="#8C7B69" font-weight="400">蹊（痕）</text>
+  <text x="380" y="424" text-anchor="middle" font-size="6.2" letter-spacing="2" fill="#25211D" font-weight="400">一刻走成，一刻不走即塞</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">路是每天走出来的，也是隔几天就荒的。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图二百四十四 · 茅塞子心 · ch244a</text>
+</svg>

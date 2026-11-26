@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">追 蠡</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百四十五章　MZ245</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.0" letter-spacing="1.4" fill="#7C6D5C" font-weight="400">禹之声，尚文王之声——以追蠡</text>
+  <line x1="270" y1="136" x2="390" y2="136" stroke="#7C6D5C" stroke-width="1.6"/>
+  <line x1="330" y1="136" x2="330" y2="178" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M 324,140 L 330,132 L 336,140" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <rect x="316" y="178" width="28" height="26" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="298" y1="184" x2="362" y2="184" stroke="#7C6D5C" stroke-width="2.0"/>
+  <line x1="298" y1="196" x2="362" y2="196" stroke="#7C6D5C" stroke-width="1.6"/>
+  <path d="M 306,184 L 310,192 L 314,184" fill="none" stroke="#994433" stroke-width="1.6"/>
+  <path d="M 324,184 L 328,192 L 332,184" fill="none" stroke="#994433" stroke-width="1.6"/>
+  <path d="M 342,184 L 346,192 L 350,184" fill="none" stroke="#994433" stroke-width="1.6"/>
+  <path d="M 290,204 L 370,204 L 410,336 L 250,336 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.4"/>
+  <line x1="250" y1="336" x2="410" y2="336" stroke="#7C6D5C" stroke-width="2.4"/>
+  <line x1="244" y1="344" x2="416" y2="344" stroke="#7C6D5C" stroke-width="1.6"/>
+  <line x1="266" y1="288" x2="394" y2="288" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="274" y1="262" x2="386" y2="262" stroke="#BFB4A4" stroke-width="0.7"/>
+  <text x="250" y="174" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#7C6D5C" font-weight="400">纽</text>
+  <text x="380" y="180" text-anchor="middle" font-size="4.6" letter-spacing="0" fill="#994433" font-weight="400">三道啮痕</text>
+  <text x="330" y="380" text-anchor="middle" font-size="5.4" letter-spacing="1.4" fill="#7C6D5C" font-weight="400">追蠡：钟纽之啮</text>
+  <rect x="430" y="300" width="200" height="104" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="430" y1="300" x2="430" y2="404" stroke="#7C6D5C" stroke-width="1.4"/>
+  <line x1="630" y1="300" x2="630" y2="404" stroke="#7C6D5C" stroke-width="1.4"/>
+  <line x1="430" y1="300" x2="630" y2="300" stroke="#7C6D5C" stroke-width="1.8"/>
+  <path d="M 434,322 L 466,322" fill="none" stroke="#BFB4A4" stroke-width="0.6"/>
+  <path d="M 554,322 L 626,322" fill="none" stroke="#BFB4A4" stroke-width="0.6"/>
+  <path d="M 434,352 L 466,352" fill="none" stroke="#BFB4A4" stroke-width="0.6"/>
+  <path d="M 554,352 L 626,352" fill="none" stroke="#BFB4A4" stroke-width="0.6"/>
+  <path d="M 434,380 L 466,380" fill="none" stroke="#BFB4A4" stroke-width="0.6"/>
+  <path d="M 554,380 L 626,380" fill="none" stroke="#BFB4A4" stroke-width="0.6"/>
+  <path d="M 470,404 L 470,336 C 470,318 550,318 550,336 L 550,404" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.6"/>
+  <path d="M 470,336 C 470,318 550,318 550,336" fill="none" stroke="#7C6D5C" stroke-width="1.6"/>
+  <line x1="466" y1="404" x2="554" y2="404" stroke="#7C6D5C" stroke-width="2.0"/>
+  <path d="M 484,396 L 540,396" fill="none" stroke="#8C7B69" stroke-width="1.6"/>
+  <path d="M 484,404 L 540,404" fill="none" stroke="#8C7B69" stroke-width="1.6"/>
+  <text x="556" y="292" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#7C6D5C" font-weight="400">城门之轨</text>
+  <text x="470" y="210" text-anchor="middle" font-size="4.6" letter-spacing="1" fill="#8C7B69" font-weight="400">两马之力与？</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">痕迹是事实，归因是推断。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图二百四十五 · 追蠡 · ch245a</text>
+</svg>

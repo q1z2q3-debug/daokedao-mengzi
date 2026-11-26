@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">正 印 与 反 印</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》离娄下　第九十六章　MZ096</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">非礼之礼，非义之义，大人弗为</text>
+  <line x1="96" y1="404" x2="664" y2="404" stroke="#8C7B69" stroke-width="1.3"/>
+  <rect x="226" y="280" width="52" height="26" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.3"/>
+  <path d="M 236,280 C 236,262 268,262 268,280" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <rect x="486" y="280" width="52" height="26" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.3"/>
+  <path d="M 496,280 C 496,262 528,262 528,280" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="252" y1="306" x2="252" y2="330" stroke="#BFB4A4" stroke-width="0.7" stroke-dasharray="3,3"/>
+  <line x1="512" y1="306" x2="512" y2="330" stroke="#BFB4A4" stroke-width="0.7" stroke-dasharray="3,3"/>
+  <rect x="196" y="336" width="150" height="60" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="0.9"/>
+  <rect x="214" y="346" width="114" height="40" fill="#F0EBE2" stroke="#994433" stroke-width="1.0"/>
+  <text x="271" y="376" text-anchor="middle" font-size="17" letter-spacing="2" fill="#994433" font-weight="400">礼</text>
+  <rect x="414" y="336" width="150" height="60" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="0.9"/>
+  <rect x="432" y="346" width="114" height="40" fill="#F0EBE2" stroke="#994433" stroke-width="1.0"/>
+  <g transform="translate(489,376) scale(-1,1)"><text x="0" y="0" text-anchor="middle" font-size="17" letter-spacing="2" fill="#994433">礼</text></g>
+  <text x="271" y="414" text-anchor="middle" font-size="5.8" letter-spacing="1" fill="#7C6D5C" font-weight="400">正 印：合礼</text>
+  <text x="489" y="414" text-anchor="middle" font-size="5.8" letter-spacing="1" fill="#994433" font-weight="400">反 印：非礼之礼</text>
+  <text x="380" y="424" text-anchor="middle" font-size="6.0" letter-spacing="0" fill="#BFB4A4" font-weight="400">形似而实非：章句合，理不合</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">非礼之礼，非义之义，大人弗为。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图九十六 · 正印与反印 · ch96a</text>
+</svg>

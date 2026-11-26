@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="6" fill="#25211D" font-weight="700">反 手</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C">《孟子》公孙丑上　第二十四章　MZ024</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <polygon points="252,300 268,238 292,214 316,206 340,212 358,226 372,250 378,286 372,320 340,338 292,334 264,322" fill="#FCFAF6" stroke="#25211D" stroke-width="1.3"/>
+  <polygon points="268,238 262,186 276,182 288,232" fill="#FCFAF6" stroke="#25211D" stroke-width="1.1"/>
+  <polygon points="292,214 296,164 312,162 312,216" fill="#FCFAF6" stroke="#25211D" stroke-width="1.1"/>
+  <polygon points="316,206 332,162 348,166 336,212" fill="#FCFAF6" stroke="#25211D" stroke-width="1.1"/>
+  <polygon points="340,212 364,178 378,186 356,222" fill="#FCFAF6" stroke="#25211D" stroke-width="1.1"/>
+  <polygon points="358,226 388,208 396,220 370,244" fill="#FCFAF6" stroke="#25211D" stroke-width="1.1"/>
+
+  <rect x="292" y="262" width="46" height="46" fill="#F0EBE2" stroke="#994433" stroke-width="1.2"/>
+  <text x="315" y="292" text-anchor="middle" font-size="11" letter-spacing="2" fill="#994433">齐</text>
+
+  <rect x="436" y="150" width="270" height="200" fill="none" stroke="#BFB4A4" stroke-width="1.1" stroke-dasharray="8 5"/>
+  <text x="572" y="234" text-anchor="middle" font-size="14" letter-spacing="6" fill="#8C7B69">天下</text>
+  <text x="572" y="256" text-anchor="middle" font-size="6.6" fill="#7C6D5C">就在掌边</text>
+
+  <path d="M 404,196 C 430,182 456,186 470,204" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <polygon points="478,214 462,206 474,200" fill="#BFB4A4"/>
+  <path d="M 372,342 C 336,382 274,362 258,268" fill="none" stroke="#BFB4A4" stroke-width="1.1"/>
+  <polygon points="256,250 250,268 266,266" fill="#BFB4A4"/>
+  <text x="286" y="378" font-size="7" fill="#8C7B69">反手</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D">不是手劲大，是势在手上。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 公孙丑上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图二十四 · 反手 · ch24a</text>
+</svg>

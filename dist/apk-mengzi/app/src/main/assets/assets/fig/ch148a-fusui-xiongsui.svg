@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">富 岁 凶 岁</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子上　第一百四十八章　MZ148</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">非天之降才尔殊也，其所以陷溺其心者然也</text>
+  <rect x="140" y="340" width="220" height="64" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.1"/>
+  <path d="M 144,354 q 18,-5 36,0 q 18,5 36,0 q 18,-5 36,0" fill="none" stroke="#8C7B69" stroke-width="0.77"/>
+  <path d="M 144,368 q 18,-5 36,0 q 18,5 36,0 q 18,-5 36,0" fill="none" stroke="#8C7B69" stroke-width="0.77"/>
+  <path d="M 144,382 q 18,-5 36,0 q 18,5 36,0 q 18,-5 36,0" fill="none" stroke="#8C7B69" stroke-width="0.77"/>
+  <path d="M 144,396 q 18,-5 36,0 q 18,5 36,0 q 18,-5 36,0" fill="none" stroke="#8C7B69" stroke-width="0.77"/>
+  <rect x="400" y="340" width="220" height="64" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.1"/>
+  <path d="M 404,354 q 18,-5 36,0 q 18,5 36,0 q 18,-5 36,0" fill="none" stroke="#8C7B69" stroke-width="0.77"/>
+  <path d="M 404,368 q 18,-5 36,0 q 18,5 36,0 q 18,-5 36,0" fill="none" stroke="#8C7B69" stroke-width="0.77"/>
+  <path d="M 404,382 q 18,-5 36,0 q 18,5 36,0 q 18,-5 36,0" fill="none" stroke="#8C7B69" stroke-width="0.77"/>
+  <path d="M 404,396 q 18,-5 36,0 q 18,5 36,0 q 18,-5 36,0" fill="none" stroke="#8C7B69" stroke-width="0.77"/>
+  <line x1="180" y1="340" x2="180" y2="290" stroke="#7C6D5C" stroke-width="1.0"/>
+  <ellipse cx="180" cy="284" rx="5.2" ry="11" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="176" y1="276" x2="170" y2="272" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="176" y1="281" x2="170" y2="277" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="176" y1="286" x2="170" y2="282" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="176" y1="291" x2="170" y2="287" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="222" y1="340" x2="222" y2="290" stroke="#7C6D5C" stroke-width="1.0"/>
+  <ellipse cx="222" cy="284" rx="5.2" ry="11" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="218" y1="276" x2="212" y2="272" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="218" y1="281" x2="212" y2="277" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="218" y1="286" x2="212" y2="282" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="218" y1="291" x2="212" y2="287" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="264" y1="340" x2="264" y2="290" stroke="#7C6D5C" stroke-width="1.0"/>
+  <ellipse cx="264" cy="284" rx="5.2" ry="11" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="260" y1="276" x2="254" y2="272" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="260" y1="281" x2="254" y2="277" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="260" y1="286" x2="254" y2="282" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="260" y1="291" x2="254" y2="287" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="306" y1="340" x2="306" y2="290" stroke="#7C6D5C" stroke-width="1.0"/>
+  <ellipse cx="306" cy="284" rx="5.2" ry="11" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="302" y1="276" x2="296" y2="272" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="302" y1="281" x2="296" y2="277" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="302" y1="286" x2="296" y2="282" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="302" y1="291" x2="296" y2="287" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="440" y1="340" x2="440" y2="294" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="440" y1="294" x2="433" y2="285" stroke="#BFB4A4" stroke-width="0.7200000000000001"/>
+  <line x1="440" y1="294" x2="446" y2="286" stroke="#BFB4A4" stroke-width="0.7200000000000001"/>
+  <line x1="482" y1="340" x2="482" y2="294" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="482" y1="294" x2="475" y2="285" stroke="#BFB4A4" stroke-width="0.7200000000000001"/>
+  <line x1="482" y1="294" x2="488" y2="286" stroke="#BFB4A4" stroke-width="0.7200000000000001"/>
+  <line x1="524" y1="340" x2="524" y2="294" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="524" y1="294" x2="517" y2="285" stroke="#BFB4A4" stroke-width="0.7200000000000001"/>
+  <line x1="524" y1="294" x2="530" y2="286" stroke="#BFB4A4" stroke-width="0.7200000000000001"/>
+  <line x1="566" y1="340" x2="566" y2="294" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="566" y1="294" x2="559" y2="285" stroke="#BFB4A4" stroke-width="0.7200000000000001"/>
+  <line x1="566" y1="294" x2="572" y2="286" stroke="#BFB4A4" stroke-width="0.7200000000000001"/>
+  <text x="250" y="324" text-anchor="middle" font-size="7.0" letter-spacing="3" fill="#7C6D5C" font-weight="400">富 岁</text>
+  <text x="510" y="324" text-anchor="middle" font-size="7.0" letter-spacing="3" fill="#BFB4A4" font-weight="400">凶 岁</text>
+  <text x="250" y="424" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#7C6D5C" font-weight="400">子弟多赖</text>
+  <text x="510" y="424" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">子弟多暴</text>
+  <text x="380" y="300" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#994433" font-weight="400">麰麦同地同时</text>
+  <path d="M 372,308 L 372,332" fill="none" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="3,3"/>
+  <path d="M 388,308 L 388,332" fill="none" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="3,3"/>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <text x="380" y="206" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">地有肥硗，雨露有养，人事不齐</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">圣人与我同类者。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百四十八 · 富岁凶岁 · ch148a</text>
+</svg>

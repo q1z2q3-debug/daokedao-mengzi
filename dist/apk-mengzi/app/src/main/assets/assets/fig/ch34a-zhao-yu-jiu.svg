@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="492" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <g transform="translate(0,0.769) scale(1,0.961538)">
+  <text x="380" y="48" text-anchor="middle" font-size="21.84" letter-spacing="6" fill="#25211D" font-weight="700">召 与 就</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.92" letter-spacing="2" fill="#7C6D5C">《孟子》公孙丑下　第三十四章　MZ034</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="196" y="112" text-anchor="middle" font-size="8.32" letter-spacing="3" fill="#8C7B69">召</text>
+  <text x="560" y="112" text-anchor="middle" font-size="8.32" letter-spacing="3" fill="#994433">就</text>
+  <line x1="360" y1="130" x2="360" y2="410" stroke="#DCD5C8" stroke-width="0.8"/>
+
+  <rect x="120" y="150" width="150" height="12" fill="#F0EBE2" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="138" y1="162" x2="138" y2="186" stroke="#25211D" stroke-width="1"/>
+  <line x1="252" y1="162" x2="252" y2="186" stroke="#25211D" stroke-width="1"/>
+  <circle cx="152" cy="182" r="8" fill="none" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="152" y1="190" x2="152" y2="206" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="152" y1="206" x2="146" y2="216" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="152" y1="206" x2="158" y2="216" stroke="#8C7B69" stroke-width="1.1"/>
+  <text x="196" y="180" text-anchor="middle" font-size="6.66" fill="#8C7B69">君在堂</text>
+
+  <line x1="196" y1="226" x2="196" y2="300" stroke="#BFB4A4" stroke-width="0.9" stroke-dasharray="5 5"/>
+  <polygon points="196,312 189,296 203,296" fill="#8C7B69"/>
+  <rect x="184" y="246" width="24" height="32" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="190" y1="256" x2="202" y2="256" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="190" y1="264" x2="202" y2="264" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="228" y="268" font-size="6.24" fill="#8C7B69">简</text>
+
+  <circle cx="196" cy="332" r="9" fill="none" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="196" y1="341" x2="196" y2="362" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="196" y1="362" x2="188" y2="380" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="196" y1="362" x2="204" y2="380" stroke="#8C7B69" stroke-width="1.2"/>
+  <text x="196" y="402" text-anchor="middle" font-size="6.86" fill="#7C6D5C">臣在堂下</text>
+
+  <rect x="484" y="150" width="150" height="12" fill="#F0EBE2" stroke="#994433" stroke-width="1.1"/>
+  <line x1="502" y1="162" x2="502" y2="186" stroke="#994433" stroke-width="1"/>
+  <line x1="616" y1="162" x2="616" y2="186" stroke="#994433" stroke-width="1"/>
+  <path d="M 470,190 L 500,190 L 500,206 L 470,206" fill="#F0EBE2" stroke="#DCD5C8" stroke-width="1"/>
+  <path d="M 500,190 L 530,190 L 530,232 L 500,232" fill="#F0EBE2" stroke="#DCD5C8" stroke-width="1"/>
+  <path d="M 530,190 L 560,190 L 560,258 L 530,258" fill="#F0EBE2" stroke="#DCD5C8" stroke-width="1"/>
+  <path d="M 560,190 L 590,190 L 590,284 L 560,284" fill="#F0EBE2" stroke="#DCD5C8" stroke-width="1"/>
+  <circle cx="556" cy="186" r="8" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <line x1="556" y1="194" x2="556" y2="212" stroke="#994433" stroke-width="1.1"/>
+  <circle cx="532" cy="214" r="3" fill="#994433"/>
+  <circle cx="556" cy="238" r="3" fill="#994433"/>
+  <circle cx="580" cy="262" r="3" fill="#994433"/>
+  <circle cx="604" cy="286" r="3" fill="#994433"/>
+  <circle cx="628" cy="300" r="9" fill="none" stroke="#994433" stroke-width="1.2"/>
+  <line x1="628" y1="309" x2="628" y2="330" stroke="#994433" stroke-width="1.2"/>
+  <line x1="628" y1="330" x2="620" y2="348" stroke="#994433" stroke-width="1.2"/>
+  <line x1="628" y1="330" x2="636" y2="348" stroke="#994433" stroke-width="1.2"/>
+  <path d="M 610,306 C 618,298 638,298 646,306" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <text x="560" y="344" text-anchor="middle" font-size="6.86" fill="#994433">一串脚印下了阶</text>
+  <text x="628" y="372" text-anchor="middle" font-size="6.86" fill="#7C6D5C">臣</text>
+  <line x1="120" y1="456" x2="640" y2="456" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="480" text-anchor="middle" font-size="8.94" letter-spacing="2" fill="#25211D">叫人来的，是命令；自己去的，才是尊。</text>
+  <text x="120" y="514" font-size="5.82" fill="#7C6D5C">孟子 · 公孙丑下</text>
+  <text x="640" y="514" text-anchor="end" font-size="5.82" fill="#7C6D5C">图三十四 · 召与就 · ch34a</text>
+
+  </g>
+</svg>

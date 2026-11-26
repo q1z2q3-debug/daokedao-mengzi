@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">寸 木 岑 楼</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子下　第一百六十二章　MZ162</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">不揣其本而齐其末，方寸之木可使高于岑楼</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <path d="M 459.0,404.0 L 467.0,357.3333333333333 L 573.0,357.3333333333333 L 581.0,404.0 Z" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.2"/>
+  <rect x="506" y="367.3333333333333" width="9" height="14" fill="#FCFAF6" stroke="#8C7B69" stroke-width="0.72"/>
+  <rect x="518" y="367.3333333333333" width="9" height="14" fill="#FCFAF6" stroke="#8C7B69" stroke-width="0.72"/>
+  <path d="M 470.0,357.3333333333333 L 478.0,310.66666666666663 L 562.0,310.66666666666663 L 570.0,357.3333333333333 Z" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.2"/>
+  <rect x="506" y="320.66666666666663" width="9" height="14" fill="#FCFAF6" stroke="#8C7B69" stroke-width="0.72"/>
+  <rect x="518" y="320.66666666666663" width="9" height="14" fill="#FCFAF6" stroke="#8C7B69" stroke-width="0.72"/>
+  <path d="M 481.0,310.6666666666667 L 489.0,264.0 L 551.0,264.0 L 559.0,310.6666666666667 Z" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.2"/>
+  <rect x="506" y="274.0" width="9" height="14" fill="#FCFAF6" stroke="#8C7B69" stroke-width="0.72"/>
+  <rect x="518" y="274.0" width="9" height="14" fill="#FCFAF6" stroke="#8C7B69" stroke-width="0.72"/>
+  <line x1="461.0" y1="404" x2="461.0" y2="398" stroke="#8C7B69" stroke-width="0.96"/>
+  <line x1="579.0" y1="404" x2="579.0" y2="398" stroke="#8C7B69" stroke-width="0.96"/>
+  <text x="520" y="424" text-anchor="middle" font-size="5.8" letter-spacing="2" fill="#7C6D5C" font-weight="400">岑 楼</text>
+  <rect x="510.0" y="248.0" width="20" height="20" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.1"/>
+  <text x="560" y="240" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#994433" font-weight="400">方寸之木</text>
+  <line x1="160" y1="262" x2="660" y2="262" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="196" y="254" text-anchor="middle" font-size="5.2" letter-spacing="0" fill="#BFB4A4" font-weight="400">齐 其 末</text>
+  <line x1="160" y1="404" x2="160" y2="262" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="150" y="340" text-anchor="middle" font-size="6.0" letter-spacing="0" fill="#BFB4A4" font-weight="400">本</text>
+  <path d="M 250,300 L 250,404" fill="none" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="3,3"/>
+  <rect x="243.0" y="383.0" width="14" height="14" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.1"/>
+  <text x="250" y="424" text-anchor="middle" font-size="5.2" letter-spacing="0" fill="#BFB4A4" font-weight="400">寸木在其本</text>
+  <text x="300" y="200" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">金重于羽，岂谓一钩金与一舆羽</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">取食之重者，与礼之轻者而比之，奚翅食重？</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百六十二 · 寸木岑楼 · ch162a</text>
+</svg>

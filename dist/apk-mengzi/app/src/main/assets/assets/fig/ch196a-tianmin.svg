@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">天 民</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第一百九十六章　MZ196</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">事君人者 · 安社稷臣者 · 天民 · 大人</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="140" y1="404" x2="140" y2="378" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="140" y1="378" x2="258" y2="378" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="258" y1="378" x2="258" y2="352" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="258" y1="352" x2="376" y2="352" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="376" y1="352" x2="376" y2="326" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="376" y1="326" x2="494" y2="326" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="494" y1="326" x2="494" y2="300" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="494" y1="300" x2="612" y2="300" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="612" y1="300" x2="612" y2="326" stroke="#8C7B69" stroke-width="1.1"/>
+  <circle cx="196" cy="353" r="5" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="196" y1="358" x2="196" y2="390.56" stroke="#BFB4A4" stroke-width="1.125"/>
+  <line x1="196" y1="364.72" x2="187.04" y2="377.04" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="196" y1="364.72" x2="204.96" y2="377.04" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="196" y1="390.56" x2="190.96" y2="404" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="196" y1="390.56" x2="201.04" y2="404" stroke="#BFB4A4" stroke-width="0.9"/>
+  <text x="196" y="424" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">容 悦</text>
+  <circle cx="318" cy="317" r="5" fill="none" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="318" y1="322" x2="318" y2="362.16" stroke="#25211D" stroke-width="1.25"/>
+  <line x1="318" y1="329.92" x2="307.44" y2="344.44" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="318" y1="329.92" x2="328.56" y2="344.44" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="318" y1="362.16" x2="312.06" y2="378" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="318" y1="362.16" x2="323.94" y2="378" stroke="#25211D" stroke-width="1.0"/>
+  <text x="318" y="398" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#7C6D5C" font-weight="400">社 稷</text>
+  <circle cx="436" cy="276.15" r="6.1499999999999995" fill="none" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="436" y1="282.3" x2="436" y2="332.32" stroke="#25211D" stroke-width="1.25"/>
+  <line x1="436" y1="292.14" x2="422.88" y2="310.18" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="436" y1="292.14" x2="449.12" y2="310.18" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="436" y1="332.32" x2="428.62" y2="352" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="436" y1="332.32" x2="443.38" y2="352" stroke="#25211D" stroke-width="1.0"/>
+  <text x="436" y="372" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#7C6D5C" font-weight="400">天 民</text>
+  <circle cx="556" cy="240.9" r="6.8999999999999995" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="556" y1="247.8" x2="556" y2="303.92" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="556" y1="258.84000000000003" x2="541.28" y2="279.08000000000004" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="556" y1="258.84000000000003" x2="570.72" y2="279.08000000000004" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="556" y1="303.92" x2="547.72" y2="326" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="556" y1="303.92" x2="564.28" y2="326" stroke="#25211D" stroke-width="1.2"/>
+  <text x="556" y="346" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#25211D" font-weight="400">大 人</text>
+  <text x="500" y="214" text-anchor="middle" font-size="6.0" letter-spacing="2" fill="#25211D" font-weight="400">正 己 而 物 正</text>
+  <line x1="474" y1="228" x2="496" y2="250" stroke="#BFB4A4" stroke-width="0.8"/>
+  <path d="M 492.7,249.2 L 496,250 L 495.2,246.7" fill="none" stroke="#BFB4A4" stroke-width="0.7200000000000001"/>
+  <text x="150" y="468" text-anchor="middle" font-size="5.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">四 等：阿 殉 之 下，忠 而 未 大，有 意 之 上，无 意 无 必</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">大人者，正己而物正者也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百九十六 · 天民 · ch196a</text>
+</svg>

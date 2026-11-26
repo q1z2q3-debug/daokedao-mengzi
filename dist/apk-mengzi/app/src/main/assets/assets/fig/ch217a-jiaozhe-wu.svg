@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">教 者 五</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第二百一十七章　MZ217</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.5" letter-spacing="1" fill="#BFB4A4" font-weight="400">君子之所以教者五：时雨化之、成德、达财、答问、私淑艾</text>
+  <line x1="130" y1="396" x2="632" y2="396" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="230.4" y1="300" x2="230.4" y2="396" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="330.8" y1="300" x2="330.8" y2="396" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="431.20000000000005" y1="300" x2="431.20000000000005" y2="396" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="531.6" y1="300" x2="531.6" y2="396" stroke="#DCD5C8" stroke-width="0.7"/>
+  <path d="M 148.0,246 q 6,-12 18,-8 q 4,-14 18,-8 q 14,-4 16,8 q 2,8 -8,8 L 198.0,254" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.0"/>
+  <line x1="158.24" y1="260" x2="156.24" y2="276" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="169.12" y1="260" x2="167.12" y2="276" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="180.0" y1="260" x2="178.0" y2="276" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="190.88" y1="260" x2="188.88" y2="276" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="201.76000000000002" y1="260" x2="199.76000000000002" y2="276" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 166,368 q -6,-14 0,-24" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M 192,368 q 6,-14 0,-24" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="180" y="416" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#7C6D5C" font-weight="400">时 雨 化 之</text>
+  <ellipse cx="281.0" cy="318" rx="23.0" ry="6" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.1"/>
+  <path d="M 258,322 C 254,345.0 264,362 281.0,364 C 298,362 308,345.0 304,322" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.1"/>
+  <path d="M 270.88,364 L 269.04,372 L 292.96,372 L 291.12,364" fill="none" stroke="#8C7B69" stroke-width="0.9900000000000001"/>
+  <text x="281" y="416" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#7C6D5C" font-weight="400">成 德</text>
+  <circle cx="378" cy="292.45" r="6.45" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="378" y1="298.9" x2="378" y2="351.36" stroke="#25211D" stroke-width="1.125"/>
+  <line x1="378" y1="309.21999999999997" x2="364.24" y2="326.41999999999996" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="378" y1="309.21999999999997" x2="421.0" y2="314.38" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="378" y1="351.36" x2="370.26" y2="372" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="378" y1="351.36" x2="385.74" y2="372" stroke="#25211D" stroke-width="0.9"/>
+  <path d="M 400,306 q 7.0,-16.8 28,0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 400,306 l 28,0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="414" y1="306" x2="404.2" y2="293.0" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="414" y1="306" x2="414.0" y2="293.0" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="414" y1="306" x2="423.8" y2="293.0" stroke="#BFB4A4" stroke-width="0.7"/>
+  <text x="378" y="416" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#7C6D5C" font-weight="400">达 财</text>
+  <circle cx="470" cy="292.45" r="6.45" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="470" y1="298.9" x2="470" y2="351.36" stroke="#25211D" stroke-width="1.125"/>
+  <line x1="470" y1="309.21999999999997" x2="456.24" y2="328.14" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="470" y1="309.21999999999997" x2="483.76" y2="328.14" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="470" y1="351.36" x2="462.26" y2="372" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="470" y1="351.36" x2="477.74" y2="372" stroke="#25211D" stroke-width="0.9"/>
+  <path d="M 485.6,315.5 A 9 9 0 0 1 485.6,324.5" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 489.2,312.8 A 12.6 12.6 0 0 1 489.2,327.2" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 492.8,310.1 A 16.2 16.2 0 0 1 492.8,329.9" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <circle cx="540" cy="292.45" r="6.45" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="540" y1="298.9" x2="540" y2="351.36" stroke="#BFB4A4" stroke-width="1.125"/>
+  <line x1="540" y1="309.21999999999997" x2="526.24" y2="328.14" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="540" y1="309.21999999999997" x2="553.76" y2="328.14" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="540" y1="351.36" x2="532.26" y2="372" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="540" y1="351.36" x2="547.74" y2="372" stroke="#BFB4A4" stroke-width="0.9"/>
+  <text x="505" y="416" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#7C6D5C" font-weight="400">答 问</text>
+  <circle cx="596" cy="292.45" r="6.45" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="596" y1="298.9" x2="596" y2="351.36" stroke="#BFB4A4" stroke-width="1.125"/>
+  <line x1="596" y1="309.21999999999997" x2="582.24" y2="328.14" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="596" y1="309.21999999999997" x2="609.76" y2="328.14" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="596" y1="351.36" x2="588.26" y2="372" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="596" y1="351.36" x2="603.74" y2="372" stroke="#BFB4A4" stroke-width="0.9"/>
+  <rect x="614" y="300" width="16" height="40" fill="#FCFAF6" stroke="#BFB4A4" stroke-width="0.8"/>
+  <line x1="632" y1="300" x2="632" y2="340" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="654" y1="300" x2="654" y2="340" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="676" y1="300" x2="676" y2="340" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="698" y1="300" x2="698" y2="340" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="617" y1="307" x2="627" y2="307" stroke="#7C6D5C" stroke-width="0.7"/>
+  <line x1="617" y1="333" x2="627" y2="333" stroke="#7C6D5C" stroke-width="0.7"/>
+  <path d="M 600,340 L 604,310" fill="none" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="3,3"/>
+  <text x="600" y="416" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">私 淑 艾</text>
+  <text x="380" y="200" text-anchor="middle" font-size="6.4" letter-spacing="2" fill="#25211D" font-weight="400">因 其 材，无 弃 人</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">圣贤施教，各因其材，小以成小，大以成大。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图二百一十七 · 教者五 · ch217a</text>
+</svg>

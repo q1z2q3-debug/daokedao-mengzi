@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">归 斯 受 之</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百四十九章　MZ249</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.0" letter-spacing="1.2" fill="#7C6D5C" font-weight="400">逃墨必归于杨，逃杨必归于儒。归，斯受之而已矣</text>
+  <line x1="452.0" y1="404" x2="452.0" y2="272" stroke="#7C6D5C" stroke-width="1.4300000000000002"/>
+  <path d="M 448.0,279 L 452.0,268 L 456.0,279" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="480.0" y1="404" x2="480.0" y2="272" stroke="#7C6D5C" stroke-width="1.4300000000000002"/>
+  <path d="M 476.0,279 L 480.0,268 L 484.0,279" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="508.0" y1="404" x2="508.0" y2="272" stroke="#7C6D5C" stroke-width="1.4300000000000002"/>
+  <path d="M 504.0,279 L 508.0,268 L 512.0,279" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="536.0" y1="404" x2="536.0" y2="272" stroke="#7C6D5C" stroke-width="1.4300000000000002"/>
+  <path d="M 532.0,279 L 536.0,268 L 540.0,279" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="564.0" y1="404" x2="564.0" y2="272" stroke="#7C6D5C" stroke-width="1.4300000000000002"/>
+  <path d="M 560.0,279 L 564.0,268 L 568.0,279" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="592.0" y1="404" x2="592.0" y2="272" stroke="#7C6D5C" stroke-width="1.4300000000000002"/>
+  <path d="M 588.0,279 L 592.0,268 L 596.0,279" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="620.0" y1="404" x2="620.0" y2="272" stroke="#7C6D5C" stroke-width="1.4300000000000002"/>
+  <path d="M 616.0,279 L 620.0,268 L 624.0,279" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="452" y1="308.8" x2="620" y2="308.8" stroke="#7C6D5C" stroke-width="0.9900000000000001"/>
+  <line x1="452" y1="357.76" x2="620" y2="357.76" stroke="#7C6D5C" stroke-width="0.9900000000000001"/>
+  <line x1="452" y1="404" x2="620" y2="404" stroke="#7C6D5C" stroke-width="1.6"/>
+  <line x1="620" y1="272" x2="620" y2="404" stroke="#7C6D5C" stroke-width="1.6"/>
+  <ellipse cx="534" cy="385.9" rx="22" ry="10.559999999999999" fill="#F0EBE2" stroke="#25211D" stroke-width="1.2"/>
+  <circle cx="555.56" cy="379.52" r="7.260000000000001" fill="#F0EBE2" stroke="#25211D" stroke-width="1.2"/>
+  <path d="M 558.2,375.12 L 559.52,370.28 L 555.12,372.92" fill="none" stroke="#25211D" stroke-width="0.96"/>
+  <path d="M 552.48,374.68 L 552.92,369.84 L 549.4,372.92" fill="none" stroke="#25211D" stroke-width="0.96"/>
+  <line x1="517.72" y1="393.6" x2="517.72" y2="398" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="528.28" y1="393.6" x2="528.28" y2="398" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="538.84" y1="393.6" x2="538.84" y2="398" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="549.4" y1="393.6" x2="549.4" y2="398" stroke="#25211D" stroke-width="1.2"/>
+  <path d="M 513.32,384.36 C 502.76,374.68 506.72,364.56 498.36,366.76" fill="none" stroke="#25211D" stroke-width="1.32"/>
+  <text x="536" y="246" text-anchor="middle" font-size="5.2" letter-spacing="1.2" fill="#7C6D5C" font-weight="400">既入其苙</text>
+  <circle cx="300" cy="289.3" r="9.299999999999999" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="300" y1="298.6" x2="300" y2="374.24" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="300" y1="313.48" x2="280.16" y2="340.76" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="300" y1="313.48" x2="319.84" y2="340.76" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="300" y1="374.24" x2="288.84" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="300" y1="374.24" x2="311.16" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <path d="M 360,324 C 420,338 500,362 542,382" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <circle cx="549" cy="384" r="8" fill="none" stroke="#994433" stroke-width="1.2"/>
+  <text x="424" y="300" text-anchor="middle" font-size="4.6" letter-spacing="0" fill="#994433" font-weight="400">招＝羁其足</text>
+  <text x="300" y="252" text-anchor="middle" font-size="4.6" letter-spacing="1" fill="#8C7B69" font-weight="400">栏外之人</text>
+  <text x="380" y="424" text-anchor="middle" font-size="6.2" letter-spacing="2" fill="#25211D" font-weight="400">豚已进栏，绳还在手</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">距之严，待之恕；归了就收，收完就完。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图二百四十九 · 归斯受之 · ch249a</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="6" fill="#25211D" font-weight="700">靶 前 回 身</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C">《孟子》公孙丑上　第三十章　MZ030</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <circle cx="540" cy="252" r="52" fill="none" stroke="#25211D" stroke-width="1.4"/>
+  <circle cx="540" cy="252" r="34" fill="none" stroke="#8C7B69" stroke-width="1"/>
+  <circle cx="540" cy="252" r="16" fill="none" stroke="#994433" stroke-width="1.4"/>
+  <text x="540" y="330" text-anchor="middle" font-size="6.8" fill="#7C6D5C">正鹄</text>
+
+  <line x1="474" y1="206" x2="524" y2="230" stroke="#BFB4A4" stroke-width="1.4"/>
+  <polygon points="532,234 512,232 520,222" fill="#BFB4A4"/>
+  <text x="452" y="196" text-anchor="end" font-size="6.6" fill="#8C7B69">偏出去这一箭</text>
+
+  <circle cx="238" cy="238" r="11" fill="none" stroke="#994433" stroke-width="1.2"/>
+  <line x1="238" y1="249" x2="238" y2="284" stroke="#994433" stroke-width="1.2"/>
+  <line x1="238" y1="284" x2="226" y2="308" stroke="#994433" stroke-width="1.2"/>
+  <line x1="238" y1="284" x2="250" y2="308" stroke="#994433" stroke-width="1.2"/>
+  <path d="M 265,244 C 288,252 288,286 265,296" fill="none" stroke="#994433" stroke-width="1.4"/>
+  <line x1="265" y1="246" x2="265" y2="294" stroke="#994433" stroke-width="0.9"/>
+  <line x1="212" y1="268" x2="262" y2="262" stroke="#994433" stroke-width="1.1"/>
+  <line x1="290" y1="270" x2="300" y2="298" stroke="#994433" stroke-width="1"/>
+  <text x="238" y="196" text-anchor="middle" font-size="7" fill="#994433">正己而后发</text>
+
+  <path d="M 486,344 C 430,392 336,392 278,346" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <polygon points="264,338 284,338 274,352" fill="#994433"/>
+  <text x="380" y="384" text-anchor="middle" font-size="6.6" fill="#8C7B69">不怨胜己者，反求诸己</text>
+
+  <circle cx="654" cy="228" r="9" fill="none" stroke="#BFB4A4" stroke-width="1.1"/>
+  <line x1="654" y1="237" x2="654" y2="264" stroke="#BFB4A4" stroke-width="1.1"/>
+  <line x1="654" y1="264" x2="646" y2="284" stroke="#BFB4A4" stroke-width="1.1"/>
+  <line x1="654" y1="264" x2="662" y2="284" stroke="#BFB4A4" stroke-width="1.1"/>
+  <path d="M 634,246 C 646,242 662,242 674,248" fill="none" stroke="#BFB4A4" stroke-width="1"/>
+  <text x="654" y="306" text-anchor="middle" font-size="6.8" fill="#8C7B69">胜己者</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D">偏了就回身，回身才有下一箭。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 公孙丑上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图三十 · 靶前回身 · ch30a</text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">良 贵</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子上　第一百五十八章　MZ158</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">欲贵者，人之同心也；人人有贵于己者，弗思耳</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <circle cx="220" cy="294.85" r="8.85" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="220" y1="303.7" x2="220" y2="375.68" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="220" y1="317.86" x2="201.12" y2="343.82" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="220" y1="317.86" x2="238.88" y2="343.82" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="220" y1="375.68" x2="209.38" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="220" y1="375.68" x2="230.62" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <rect x="206" y="308" width="28" height="28" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.1"/>
+  <circle cx="220" cy="322" r="5.6000000000000005" fill="none" stroke="#7C6D5C" stroke-width="0.8800000000000001"/>
+  <text x="220" y="296" text-anchor="middle" font-size="6.0" letter-spacing="2" fill="#994433" font-weight="400">良 贵</text>
+  <text x="220" y="424" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">在我者</text>
+  <circle cx="560" cy="294.85" r="8.85" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="560" y1="303.7" x2="560" y2="375.68" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="560" y1="317.86" x2="541.12" y2="343.82" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="560" y1="317.86" x2="578.88" y2="343.82" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="560" y1="375.68" x2="549.38" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="560" y1="375.68" x2="570.62" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <rect x="586.88" y="284" width="66.24" height="7" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.32"/>
+  <path d="M 597.0,284 q 0,-26 23.0,-26 q 23.0,0 23.0,26" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="606.2" y1="290" x2="604.36" y2="320" stroke="#7C6D5C" stroke-width="0.84"/>
+  <line x1="633.8" y1="290" x2="635.64" y2="320" stroke="#7C6D5C" stroke-width="0.84"/>
+  <line x1="620" y1="284" x2="620" y2="272" stroke="#7C6D5C" stroke-width="1.08"/>
+  <line x1="568" y1="330" x2="600" y2="330" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="620" y="300" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">赵孟之所贵</text>
+  <text x="560" y="424" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">在人者</text>
+  <line x1="330" y1="322" x2="486" y2="322" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 482.6,324.1 L 486,322 L 482.6,319.9" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <text x="408" y="306" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#994433" font-weight="400">赵孟能贱之</text>
+  <text x="380" y="210" text-anchor="middle" font-size="6.0" letter-spacing="2" fill="#25211D" font-weight="400">既醉以酒，既饱以德</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">言饱乎仁义也，所以不愿人之膏粱之味也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百五十八 · 良贵 · ch158a</text>
+</svg>

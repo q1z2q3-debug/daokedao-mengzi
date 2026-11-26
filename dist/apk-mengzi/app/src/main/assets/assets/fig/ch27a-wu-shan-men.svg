@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="492" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <g transform="translate(0,0.769) scale(1,0.961538)">
+  <text x="380" y="48" text-anchor="middle" font-size="21.84" letter-spacing="6" fill="#25211D" font-weight="700">五 扇 门</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.92" letter-spacing="2" fill="#7C6D5C">《孟子》公孙丑上　第二十七章　MZ027</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="110" y="200" width="78" height="118" fill="#FCFAF6" stroke="#25211D" stroke-width="1.3"/>
+  <rect x="118" y="212" width="62" height="94" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+  <line x1="149" y1="306" x2="149" y2="200" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="4 4"/>
+  <line x1="110" y1="200" x2="96" y2="212" stroke="#994433" stroke-width="1.1"/>
+  <line x1="188" y1="306" x2="202" y2="294" stroke="#994433" stroke-width="1.1"/>
+  <line x1="80" y1="312" x2="184" y2="312" stroke="#BFB4A4" stroke-width="1"/>
+  <circle cx="149" cy="246" r="7" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <line x1="149" y1="253" x2="149" y2="267" stroke="#994433" stroke-width="1.1"/>
+  <line x1="149" y1="267" x2="143" y2="281" stroke="#994433" stroke-width="1.1"/>
+  <line x1="149" y1="267" x2="155" y2="281" stroke="#994433" stroke-width="1.1"/>
+  <text x="149" y="188" text-anchor="middle" font-size="11.44" letter-spacing="3" fill="#25211D">士</text>
+  <text x="149" y="338" text-anchor="middle" font-size="6.66" fill="#994433">俊杰在位</text>
+  <rect x="250" y="200" width="78" height="118" fill="#FCFAF6" stroke="#25211D" stroke-width="1.3"/>
+  <rect x="258" y="212" width="62" height="94" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+  <line x1="289" y1="306" x2="289" y2="200" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="4 4"/>
+  <line x1="250" y1="200" x2="236" y2="212" stroke="#994433" stroke-width="1.1"/>
+  <line x1="328" y1="306" x2="342" y2="294" stroke="#994433" stroke-width="1.1"/>
+  <line x1="220" y1="312" x2="324" y2="312" stroke="#BFB4A4" stroke-width="1"/>
+  <circle cx="289" cy="246" r="7" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <line x1="289" y1="253" x2="289" y2="267" stroke="#994433" stroke-width="1.1"/>
+  <line x1="289" y1="267" x2="283" y2="281" stroke="#994433" stroke-width="1.1"/>
+  <line x1="289" y1="267" x2="295" y2="281" stroke="#994433" stroke-width="1.1"/>
+  <text x="289" y="188" text-anchor="middle" font-size="11.44" letter-spacing="3" fill="#25211D">商</text>
+  <text x="289" y="338" text-anchor="middle" font-size="6.66" fill="#994433">廛而不征</text>
+  <rect x="390" y="200" width="78" height="118" fill="#FCFAF6" stroke="#25211D" stroke-width="1.3"/>
+  <rect x="398" y="212" width="62" height="94" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+  <line x1="429" y1="306" x2="429" y2="200" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="4 4"/>
+  <line x1="390" y1="200" x2="376" y2="212" stroke="#994433" stroke-width="1.1"/>
+  <line x1="468" y1="306" x2="482" y2="294" stroke="#994433" stroke-width="1.1"/>
+  <line x1="360" y1="312" x2="464" y2="312" stroke="#BFB4A4" stroke-width="1"/>
+  <circle cx="429" cy="246" r="7" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <line x1="429" y1="253" x2="429" y2="267" stroke="#994433" stroke-width="1.1"/>
+  <line x1="429" y1="267" x2="423" y2="281" stroke="#994433" stroke-width="1.1"/>
+  <line x1="429" y1="267" x2="435" y2="281" stroke="#994433" stroke-width="1.1"/>
+  <text x="429" y="188" text-anchor="middle" font-size="11.44" letter-spacing="3" fill="#25211D">旅</text>
+  <text x="429" y="338" text-anchor="middle" font-size="6.66" fill="#994433">讥而不征</text>
+  <rect x="530" y="200" width="78" height="118" fill="#FCFAF6" stroke="#25211D" stroke-width="1.3"/>
+  <rect x="538" y="212" width="62" height="94" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+  <line x1="569" y1="306" x2="569" y2="200" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="4 4"/>
+  <line x1="530" y1="200" x2="516" y2="212" stroke="#994433" stroke-width="1.1"/>
+  <line x1="608" y1="306" x2="622" y2="294" stroke="#994433" stroke-width="1.1"/>
+  <line x1="500" y1="312" x2="604" y2="312" stroke="#BFB4A4" stroke-width="1"/>
+  <circle cx="569" cy="246" r="7" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <line x1="569" y1="253" x2="569" y2="267" stroke="#994433" stroke-width="1.1"/>
+  <line x1="569" y1="267" x2="563" y2="281" stroke="#994433" stroke-width="1.1"/>
+  <line x1="569" y1="267" x2="575" y2="281" stroke="#994433" stroke-width="1.1"/>
+  <text x="569" y="188" text-anchor="middle" font-size="11.44" letter-spacing="3" fill="#25211D">农</text>
+  <text x="569" y="338" text-anchor="middle" font-size="6.66" fill="#994433">助而不税</text>
+  <rect x="668" y="200" width="78" height="118" fill="#FCFAF6" stroke="#25211D" stroke-width="1.3"/>
+  <rect x="676" y="212" width="62" height="94" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+  <line x1="707" y1="306" x2="707" y2="200" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="4 4"/>
+  <line x1="668" y1="200" x2="654" y2="212" stroke="#994433" stroke-width="1.1"/>
+  <line x1="746" y1="306" x2="760" y2="294" stroke="#994433" stroke-width="1.1"/>
+  <line x1="638" y1="312" x2="742" y2="312" stroke="#BFB4A4" stroke-width="1"/>
+  <circle cx="707" cy="246" r="7" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <line x1="707" y1="253" x2="707" y2="267" stroke="#994433" stroke-width="1.1"/>
+  <line x1="707" y1="267" x2="701" y2="281" stroke="#994433" stroke-width="1.1"/>
+  <line x1="707" y1="267" x2="713" y2="281" stroke="#994433" stroke-width="1.1"/>
+  <text x="707" y="188" text-anchor="middle" font-size="11.44" letter-spacing="3" fill="#25211D">民</text>
+  <text x="707" y="338" text-anchor="middle" font-size="6.66" fill="#994433">无夫里之布</text>
+  <line x1="86" y1="378" x2="704" y2="378" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="380" y="404" text-anchor="middle" font-size="7.28" fill="#7C6D5C">每扇门上都少收一样：人在门外，自己往里走</text>
+  <line x1="120" y1="456" x2="640" y2="456" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="480" text-anchor="middle" font-size="8.94" letter-spacing="2" fill="#25211D">门槛低一寸，来人多一层。</text>
+  <text x="120" y="514" font-size="5.82" fill="#7C6D5C">孟子 · 公孙丑上</text>
+  <text x="640" y="514" text-anchor="end" font-size="5.82" fill="#7C6D5C">图二十七 · 五扇门 · ch27a</text>
+
+  </g>
+</svg>

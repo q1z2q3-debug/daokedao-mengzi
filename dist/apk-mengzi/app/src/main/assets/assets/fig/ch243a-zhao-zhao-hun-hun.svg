@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">以 其 昭 昭</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百四十三章　MZ243</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.0" letter-spacing="1.2" fill="#7C6D5C" font-weight="400">贤者以其昭昭，使人昭昭；今以其昏昏，使人昭昭</text>
+  <circle cx="210" cy="291.15" r="9.15" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="210" y1="300.3" x2="210" y2="374.72" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="210" y1="314.94" x2="190.48" y2="341.78" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="210" y1="314.94" x2="229.52" y2="341.78" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="210" y1="374.72" x2="199.02" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="210" y1="374.72" x2="220.98" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <circle cx="210" cy="266" r="15" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="224" y1="274" x2="292" y2="302" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="220" y1="282" x2="290" y2="314" stroke="#7C6D5C" stroke-width="0.7"/>
+  <circle cx="316" cy="311.5" r="7.5" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="316" y1="319.0" x2="316" y2="380.0" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="316" y1="331.0" x2="300.0" y2="353.0" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="316" y1="331.0" x2="332.0" y2="353.0" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="316" y1="380.0" x2="307.0" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="316" y1="380.0" x2="325.0" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <circle cx="316" cy="306" r="6.4" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="210" y="240" text-anchor="middle" font-size="5.2" letter-spacing="2" fill="#994433" font-weight="400">昭昭</text>
+  <path d="M 388,180 L 388,404" fill="none" stroke="#DCD5C8" stroke-width="1.0" stroke-dasharray="6,4"/>
+  <circle cx="462" cy="291.15" r="9.15" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="462" y1="300.3" x2="462" y2="374.72" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="462" y1="314.94" x2="442.48" y2="339.34" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="462" y1="314.94" x2="523.0" y2="322.26" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="462" y1="374.72" x2="451.02" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="462" y1="374.72" x2="472.98" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <circle cx="462" cy="268" r="14" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <path d="M 454,262 L 472,274" fill="none" stroke="#BFB4A4" stroke-width="0.8"/>
+  <path d="M 456,274 L 468,262" fill="none" stroke="#BFB4A4" stroke-width="0.8"/>
+  <path d="M 462,258 L 462,280" fill="none" stroke="#BFB4A4" stroke-width="0.8"/>
+  <line x1="520" y1="340" x2="552" y2="336" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="552" y1="336" x2="552" y2="322" stroke="#25211D" stroke-width="1.0"/>
+  <path d="M 544,322 L 560,322 L 556,334 L 548,334 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M 546,318 C 550,312 554,312 558,318" fill="none" stroke="#994433" stroke-width="0.7"/>
+  <path d="M 548,314 C 552,308 556,310 558,316" fill="none" stroke="#994433" stroke-width="0.6"/>
+  <line x1="568" y1="322" x2="592" y2="318" stroke="#BFB4A4" stroke-width="0.9"/>
+  <circle cx="614" cy="315.2" r="7.199999999999999" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="614" y1="322.4" x2="614" y2="380.96" stroke="#BFB4A4" stroke-width="1.125"/>
+  <line x1="614" y1="333.91999999999996" x2="598.64" y2="355.03999999999996" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="614" y1="333.91999999999996" x2="629.36" y2="355.03999999999996" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="614" y1="380.96" x2="605.36" y2="404" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="614" y1="380.96" x2="622.64" y2="404" stroke="#BFB4A4" stroke-width="0.9"/>
+  <circle cx="614" cy="310" r="5.4" fill="none" stroke="#BFB4A4" stroke-width="0.7"/>
+  <text x="462" y="240" text-anchor="middle" font-size="5.2" letter-spacing="2" fill="#8C7B69" font-weight="400">昏昏</text>
+  <text x="676" y="322" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#8C7B69" font-weight="400">仍暗</text>
+  <text x="380" y="432" text-anchor="middle" font-size="6.2" letter-spacing="2" fill="#25211D" font-weight="400">先自昭，然后昭人</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">教的不是话，是人。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图二百四十三 · 以其昭昭 · ch243a</text>
+</svg>

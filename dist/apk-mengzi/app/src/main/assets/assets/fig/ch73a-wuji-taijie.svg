@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">五 级 台 阶</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》离娄上　第七十三章　MZ073</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">获上 → 信友 → 悦亲 → 诚身 → 明善</text>
+  <rect x="296" y="388" width="72" height="24" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="296" y1="388" x2="296" y2="422" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="332" y="405" text-anchor="middle" font-size="7.2" letter-spacing="0" fill="#25211D" font-weight="400">明善</text>
+  <rect x="356" y="364" width="72" height="24" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="356" y1="364" x2="356" y2="422" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="392" y="381" text-anchor="middle" font-size="7.2" letter-spacing="0" fill="#25211D" font-weight="400">诚身</text>
+  <rect x="416" y="340" width="72" height="24" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="416" y1="340" x2="416" y2="422" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="452" y="357" text-anchor="middle" font-size="7.2" letter-spacing="0" fill="#25211D" font-weight="400">悦亲</text>
+  <rect x="476" y="316" width="72" height="24" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="476" y1="316" x2="476" y2="422" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="512" y="333" text-anchor="middle" font-size="7.2" letter-spacing="0" fill="#25211D" font-weight="400">信友</text>
+  <rect x="536" y="292" width="72" height="24" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="536" y1="292" x2="536" y2="422" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="572" y="309" text-anchor="middle" font-size="7.2" letter-spacing="0" fill="#25211D" font-weight="400">获上</text>
+  <line x1="296" y1="422" x2="608" y2="422" stroke="#8C7B69" stroke-width="1.4"/>
+  <rect x="200" y="246" width="60" height="176" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M 200,246 C 218,230 242,230 260,246" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="230" y="324" text-anchor="middle" font-size="24" letter-spacing="0" fill="#994433" font-weight="700">诚</text>
+  <text x="230" y="350" text-anchor="middle" font-size="6.2" letter-spacing="0" fill="#BFB4A4" font-weight="400">实也</text>
+  <circle cx="658" cy="318.4" r="8.4" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="658" y1="326.8" x2="658" y2="395.12" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="658" y1="340.24" x2="640.08" y2="364.88" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="658" y1="340.24" x2="675.92" y2="364.88" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="658" y1="395.12" x2="647.92" y2="422" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="658" y1="395.12" x2="668.08" y2="422" stroke="#25211D" stroke-width="1.2"/>
+  <text x="658" y="440" text-anchor="middle" font-size="6.2" letter-spacing="0" fill="#7C6D5C" font-weight="400">在下位者</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">诚者，天之道也；思诚者，人之道也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图七十三 · 五级台阶 · ch73a</text>
+</svg>

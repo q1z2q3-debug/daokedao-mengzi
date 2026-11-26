@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">舍 生 取 义</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子上　第一百五十一章　MZ151</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="3" fill="#BFB4A4" font-weight="400">二者不可得兼</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <path d="M 175.0,300 C 197.0,284 252.0,284 267.4,300 C 252.0,316 197.0,316 175.0,300 Z" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M 267.4,300 L 285.0,288 L 285.0,312 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <circle cx="199.2" cy="296" r="2.4" fill="#7C6D5C" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="230" y="340" text-anchor="middle" font-size="7.0" letter-spacing="3" fill="#7C6D5C" font-weight="400">鱼</text>
+  <ellipse cx="500" cy="378" rx="43.0" ry="24" fill="#F0EBE2" stroke="62" stroke-width="1.2"/>
+  <ellipse cx="473" cy="398" rx="7.5" ry="10" fill="#FCFAF6" stroke="62" stroke-width="1.08"/>
+  <line x1="473" y1="407" x2="470" y2="413" stroke="62" stroke-width="0.96"/>
+  <ellipse cx="491" cy="398" rx="7.5" ry="10" fill="#FCFAF6" stroke="62" stroke-width="1.08"/>
+  <line x1="491" y1="407" x2="488" y2="413" stroke="62" stroke-width="0.96"/>
+  <ellipse cx="509" cy="398" rx="7.5" ry="10" fill="#FCFAF6" stroke="62" stroke-width="1.08"/>
+  <line x1="509" y1="407" x2="506" y2="413" stroke="62" stroke-width="0.96"/>
+  <ellipse cx="527" cy="398" rx="7.5" ry="10" fill="#FCFAF6" stroke="62" stroke-width="1.08"/>
+  <line x1="527" y1="407" x2="524" y2="413" stroke="62" stroke-width="0.96"/>
+  <text x="500" y="360" text-anchor="middle" font-size="7.0" letter-spacing="3" fill="#7C6D5C" font-weight="400">熊掌</text>
+  <path d="M 356,258 L 356,346" fill="none" stroke="#994433" stroke-width="1.4" stroke-dasharray="5,4"/>
+  <text x="380" y="300" text-anchor="middle" font-size="6.4" letter-spacing="2" fill="#994433" font-weight="400">不　可　得　兼</text>
+  <text x="380" y="380" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">取舍之间，见其所欲之深浅</text>
+  <text x="380" y="424" text-anchor="middle" font-size="5.8" letter-spacing="0" fill="#25211D" font-weight="400">所欲有甚于生者</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">二者不可得兼，舍生而取义者也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百五十一 · 舍生取义 · ch151a</text>
+</svg>

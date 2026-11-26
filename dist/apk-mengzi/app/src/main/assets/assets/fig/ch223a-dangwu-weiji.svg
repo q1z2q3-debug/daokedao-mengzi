@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">当 务 为 急</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第二百二十三章　MZ223</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.5" letter-spacing="1" fill="#BFB4A4" font-weight="400">知者无不知也，当务之为急；仁者无不爱也，急亲贤之为务</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <text x="380" y="150" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#BFB4A4" font-weight="400">尧 舜 之 知 而 不 遍 物，急 先 务 也</text>
+  <circle cx="158" cy="384" r="5" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <circle cx="188" cy="392" r="4" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <circle cx="212" cy="376" r="5" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <circle cx="240" cy="390" r="4" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <circle cx="176" cy="360" r="4" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <circle cx="206" cy="350" r="4" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <circle cx="232" cy="362" r="5" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <circle cx="150" cy="356" r="3" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <text x="196" y="424" text-anchor="middle" font-size="5.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">遍 物</text>
+  <line x1="258" y1="366" x2="316" y2="348" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M 313.3,351.0 L 316,348 L 312.1,347.0" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <circle cx="400" cy="310" r="58" fill="none" stroke="#7C6D5C" stroke-width="1.3"/>
+  <text x="400" y="318" text-anchor="middle" font-size="11.0" letter-spacing="1" fill="#7C6D5C" font-weight="400">贤</text>
+  <text x="400" y="236" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#7C6D5C" font-weight="400">当 务 之 为 急</text>
+  <text x="400" y="424" text-anchor="middle" font-size="5.0" letter-spacing="1" fill="#7C6D5C" font-weight="400">亲 贤</text>
+  <text x="576" y="306" text-anchor="middle" font-size="4.7" letter-spacing="1" fill="#BFB4A4" font-weight="400">不 能 三 年 之 丧</text>
+  <text x="576" y="322" text-anchor="middle" font-size="4.7" letter-spacing="1" fill="#BFB4A4" font-weight="400">而 缌 小 功 之 察</text>
+  <text x="576" y="340" text-anchor="middle" font-size="4.7" letter-spacing="1" fill="#994433" font-weight="400">是 之 谓 不 知 务</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">知者无不知也，当务之为急。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图二百二十三 · 当务为急 · ch223a</text>
+</svg>

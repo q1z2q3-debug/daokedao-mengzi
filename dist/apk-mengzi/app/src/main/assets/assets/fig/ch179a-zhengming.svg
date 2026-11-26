@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">正 命</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第一百七十九章　MZ179</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">莫非命也，顺受其正；知命者不立乎岩墙之下</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <path d="M 150,404 L 150,276 L 168,268 L 186,276 L 206,270 L 246,276 L 246,404 Z" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.2"/>
+  <path d="M 202.8,280 L 190.32,324.64 L 205.68,352.8 L 194.16,398" fill="none" stroke="#994433" stroke-width="1.0"/>
+  <text x="198" y="424" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#7C6D5C" font-weight="400">岩 墙</text>
+  <circle cx="300" cy="318.9" r="6.8999999999999995" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="300" y1="325.8" x2="300" y2="381.92" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="300" y1="336.84000000000003" x2="285.28" y2="357.08000000000004" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="300" y1="336.84000000000003" x2="314.72" y2="357.08000000000004" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="300" y1="381.92" x2="291.72" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="300" y1="381.92" x2="308.28" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <path d="M 272,320 L 204,300" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="3,3"/>
+  <text x="240" y="288" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#994433" font-weight="400">不 立</text>
+  <line x1="400" y1="354" x2="560" y2="354" stroke="#7C6D5C" stroke-width="1.1"/>
+  <circle cx="560" cy="354" r="12" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="560" y="358" text-anchor="middle" font-size="7.0" letter-spacing="0" fill="#25211D" font-weight="400">终</text>
+  <text x="480" y="344" text-anchor="middle" font-size="5.2" letter-spacing="0" fill="#7C6D5C" font-weight="400">尽 其 道</text>
+  <circle cx="616" cy="315.2" r="7.199999999999999" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="616" y1="322.4" x2="616" y2="380.96" stroke="#25211D" stroke-width="1.125"/>
+  <line x1="616" y1="333.91999999999996" x2="600.64" y2="355.03999999999996" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="616" y1="333.91999999999996" x2="631.36" y2="355.03999999999996" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="616" y1="380.96" x2="607.36" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="616" y1="380.96" x2="624.64" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <rect x="583.0" y="334.0" width="66" height="20" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.1"/>
+  <ellipse cx="598" cy="344" rx="8" ry="9" fill="none" stroke="#8C7B69" stroke-width="0.9900000000000001"/>
+  <ellipse cx="634" cy="344" rx="8" ry="9" fill="none" stroke="#8C7B69" stroke-width="0.9900000000000001"/>
+  <text x="616" y="424" text-anchor="middle" font-size="5.0" letter-spacing="0" fill="#BFB4A4" font-weight="400">桎 梏 者</text>
+  <text x="470" y="210" text-anchor="middle" font-size="5.2" letter-spacing="0" fill="#994433" font-weight="400">桎梏死者，非正命也</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">尽其道而死者，正命也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百七十九 · 正命 · ch179a</text>
+</svg>

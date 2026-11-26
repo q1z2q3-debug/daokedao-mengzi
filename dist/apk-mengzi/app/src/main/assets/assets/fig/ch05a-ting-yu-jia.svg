@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="492" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <g transform="translate(0,0.769) scale(1,0.961538)">
+  <text x="380" y="48" text-anchor="middle" font-size="21.84" letter-spacing="6" fill="#25211D" font-weight="700">梃 与 甲</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.92" letter-spacing="2" fill="#7C6D5C">《孟子》梁惠王上　第五章　MZ005</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="196" y="112" text-anchor="middle" font-size="8.32" letter-spacing="2" fill="#7C6D5C">器：一把木杖</text>
+  <text x="470" y="112" text-anchor="middle" font-size="8.32" letter-spacing="2" fill="#994433">器：一身坚甲</text>
+  <text x="584" y="112" text-anchor="middle" font-size="8.32" letter-spacing="2" fill="#8C7B69">甲后面：没有人</text>
+
+  <polygon points="112,178 226,204 220,214 106,188" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="120" y1="188" x2="220" y2="210" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="166" y="240" text-anchor="middle" font-size="7.28" fill="#7C6D5C">制梃以挞</text>
+
+  <line x1="238" y1="196" x2="306" y2="196" stroke="#994433" stroke-width="1.2"/>
+  <polygon points="318,196 302,190 302,202" fill="#994433"/>
+
+  <polygon points="392,124 440,124 458,154 458,272 374,272 374,154" fill="#FCFAF6" stroke="#994433" stroke-width="1.4"/>
+  <line x1="392" y1="154" x2="440" y2="154" stroke="#994433" stroke-width="1"/>
+  <polyline points="416,128 426,172 412,216 422,268" fill="none" stroke="#994433" stroke-width="1.5"/>
+  <text x="416" y="298" text-anchor="middle" font-size="7.28" fill="#994433">甲已裂</text>
+
+  <g stroke="#8C7B69" stroke-width="0.9" stroke-dasharray="4 3" fill="none">
+    <circle cx="584" cy="158" r="11"/>
+    <line x1="584" y1="170" x2="584" y2="226"/>
+    <line x1="556" y1="196" x2="612" y2="196"/>
+    <line x1="584" y1="226" x2="566" y2="268"/>
+    <line x1="584" y1="226" x2="602" y2="268"/>
+  </g>
+  <text x="584" y="298" text-anchor="middle" font-size="7.28" fill="#8C7B69">民散则甲空</text>
+
+  <line x1="120" y1="330" x2="640" y2="330" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="120" y="356" font-size="7.70" fill="#7C6D5C">政：省刑罚，薄税敛，深耕易耨</text>
+
+  <rect x="120" y="370" width="84" height="32" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="162" y="391" text-anchor="middle" font-size="7.28" fill="#7C6D5C">省刑罚</text>
+  <rect x="214" y="370" width="84" height="32" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="256" y="391" text-anchor="middle" font-size="7.28" fill="#7C6D5C">薄税敛</text>
+  <rect x="308" y="370" width="84" height="32" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="350" y="391" text-anchor="middle" font-size="7.28" fill="#7C6D5C">深耕易耨</text>
+
+  <line x1="406" y1="386" x2="486" y2="386" stroke="#994433" stroke-width="1.2"/>
+  <polygon points="498,386 482,380 482,392" fill="#994433"/>
+
+  <g stroke="#994433" stroke-width="1" fill="none">
+    <circle cx="530" cy="396" r="6"/><line x1="526" y1="391" x2="518" y2="378"/><line x1="534" y1="391" x2="542" y2="378"/>
+    <circle cx="570" cy="396" r="6"/><line x1="566" y1="391" x2="558" y2="378"/><line x1="574" y1="391" x2="582" y2="378"/>
+    <circle cx="610" cy="396" r="6"/><line x1="606" y1="391" x2="598" y2="378"/><line x1="614" y1="391" x2="622" y2="378"/>
+  </g>
+  <text x="570" y="416" text-anchor="middle" font-size="7.28" fill="#994433">民乐效死</text>
+  <line x1="120" y1="456" x2="640" y2="456" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="480" text-anchor="middle" font-size="8.94" letter-spacing="2" fill="#25211D">甲不是被梃打碎的，是被自己的民放下的。</text>
+  <text x="120" y="514" font-size="5.82" fill="#7C6D5C">孟子 · 梁惠王上</text>
+  <text x="640" y="514" text-anchor="end" font-size="5.82" fill="#7C6D5C">图五 · 梃与甲 · ch05a</text>
+
+  </g>
+</svg>

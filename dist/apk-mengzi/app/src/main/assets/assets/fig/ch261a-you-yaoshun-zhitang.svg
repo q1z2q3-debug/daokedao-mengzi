@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">由 尧 舜 至 于 汤</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百六十一章　MZ261　篇终</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.4" letter-spacing="0.8" fill="#7C6D5C" font-weight="400">见而知之，闻而知之；五百有余岁</text>
+  <text x="380" y="138" text-anchor="middle" font-size="5.0" letter-spacing="2" fill="#8C7B69" font-weight="400">道 统 相 接</text>
+  <line x1="170" y1="250" x2="320" y2="250" stroke="#7C6D5C" stroke-width="1.8"/>
+  <line x1="320" y1="250" x2="470" y2="250" stroke="#7C6D5C" stroke-width="1.8"/>
+  <line x1="470" y1="250" x2="620" y2="250" stroke="#7C6D5C" stroke-width="1.8"/>
+  <line x1="620" y1="250" x2="700" y2="250" stroke="#BFB4A4" stroke-width="1.0" stroke-dasharray="4,6"/>
+  <circle cx="170" cy="250" r="5.2" fill="#25211D" stroke="#25211D" stroke-width="1.2"/>
+  <text x="170" y="274" text-anchor="middle" font-size="6.2" letter-spacing="1.2" fill="#25211D" font-weight="400">尧舜</text>
+  <circle cx="320" cy="250" r="5.2" fill="#25211D" stroke="#25211D" stroke-width="1.2"/>
+  <text x="320" y="274" text-anchor="middle" font-size="6.2" letter-spacing="1.2" fill="#25211D" font-weight="400">汤</text>
+  <circle cx="470" cy="250" r="5.2" fill="#25211D" stroke="#25211D" stroke-width="1.2"/>
+  <text x="470" y="274" text-anchor="middle" font-size="6.2" letter-spacing="1.2" fill="#25211D" font-weight="400">文王</text>
+  <circle cx="620" cy="250" r="5.2" fill="#25211D" stroke="#25211D" stroke-width="1.2"/>
+  <text x="620" y="274" text-anchor="middle" font-size="6.2" letter-spacing="1.2" fill="#25211D" font-weight="400">孔子</text>
+  <text x="704" y="258" text-anchor="middle" font-size="13.0" letter-spacing="0" fill="#994433" font-weight="400">？</text>
+  <text x="668" y="230" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#994433" font-weight="400">今</text>
+  <circle cx="220.0" cy="250" r="3.4" fill="#25211D" stroke="#25211D" stroke-width="0.9"/>
+  <circle cx="270.0" cy="250" r="3.4" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <text x="220.0" y="234" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#25211D" font-weight="400">见</text>
+  <text x="270.0" y="234" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">闻</text>
+  <text x="220.0" y="300" text-anchor="middle" font-size="5.2" letter-spacing="0.2" fill="#7C6D5C" font-weight="400">禹·皋陶</text>
+  <circle cx="370.0" cy="250" r="3.4" fill="#25211D" stroke="#25211D" stroke-width="0.9"/>
+  <circle cx="420.0" cy="250" r="3.4" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <text x="370.0" y="234" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#25211D" font-weight="400">见</text>
+  <text x="420.0" y="234" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">闻</text>
+  <text x="370.0" y="300" text-anchor="middle" font-size="5.2" letter-spacing="0.2" fill="#7C6D5C" font-weight="400">伊尹·莱朱</text>
+  <circle cx="520.0" cy="250" r="3.4" fill="#25211D" stroke="#25211D" stroke-width="0.9"/>
+  <circle cx="570.0" cy="250" r="3.4" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <text x="520.0" y="234" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#25211D" font-weight="400">见</text>
+  <text x="570.0" y="234" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">闻</text>
+  <text x="520.0" y="300" text-anchor="middle" font-size="5.2" letter-spacing="0.2" fill="#7C6D5C" font-weight="400">太公望·散宜生</text>
+  <text x="380" y="336" text-anchor="middle" font-size="5.2" letter-spacing="0.8" fill="#8C7B69" font-weight="400">前三段，段段有人接；末一段，接的人不见</text>
+  <text x="380" y="366" text-anchor="middle" font-size="5.0" letter-spacing="0.6" fill="#7C6D5C" font-weight="400">见者，同时之臣；闻者，即次一代之圣</text>
+  <text x="380" y="392" text-anchor="middle" font-size="5.6" letter-spacing="1.0" fill="#7C6D5C" font-weight="400">去圣人之世未远，近圣人之居甚近</text>
+  <text x="380" y="414" text-anchor="middle" font-size="6.6" letter-spacing="1.8" fill="#25211D" font-weight="400">然而无有乎尔，则亦无有乎尔</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">链到孔子，线还在往前；前面是实的，末端是空的。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图二百六十一 · 由尧舜至于汤 · ch261a</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">豪 杰 之 士</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第一百八十七章　MZ187</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">待文王而后兴者，凡民也；豪杰之士，虽无文王犹兴</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <rect x="150" y="316" width="66" height="88" fill="none" stroke="#8C7B69" stroke-width="1.0"/>
+  <line x1="150" y1="316" x2="216" y2="316" stroke="#8C7B69" stroke-width="1.1"/>
+  <text x="183" y="424" text-anchor="middle" font-size="4.8" letter-spacing="0" fill="#BFB4A4" font-weight="400">文 王 未 至</text>
+  <circle cx="183" cy="268" r="16" fill="none" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="183" y="272" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">空</text>
+  <circle cx="330" cy="333.7" r="5.7" fill="none" stroke="#8C7B69" stroke-width="0.9"/>
+  <line x1="330" y1="339.4" x2="330" y2="385.76" stroke="#8C7B69" stroke-width="1.125"/>
+  <line x1="330" y1="348.52" x2="317.84" y2="365.24" stroke="#8C7B69" stroke-width="0.9"/>
+  <line x1="330" y1="348.52" x2="342.16" y2="365.24" stroke="#8C7B69" stroke-width="0.9"/>
+  <line x1="330" y1="385.76" x2="323.16" y2="404" stroke="#8C7B69" stroke-width="0.9"/>
+  <line x1="330" y1="385.76" x2="336.84" y2="404" stroke="#8C7B69" stroke-width="0.9"/>
+  <text x="330" y="424" text-anchor="middle" font-size="5.0" letter-spacing="0" fill="#BFB4A4" font-weight="400">凡 民 待 之</text>
+  <text x="330" y="268" text-anchor="middle" font-size="4.8" letter-spacing="0" fill="#BFB4A4" font-weight="400">坐 而 待</text>
+  <path d="M 470,404 L 500,376 L 540,376 L 540,404 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <circle cx="520" cy="279.8" r="7.8" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="520" y1="287.6" x2="520" y2="351.04" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="520" y1="300.08000000000004" x2="503.36" y2="322.96000000000004" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="520" y1="300.08000000000004" x2="536.64" y2="322.96000000000004" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="520" y1="351.04" x2="510.64" y2="376" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="520" y1="351.04" x2="529.36" y2="376" stroke="#25211D" stroke-width="1.2"/>
+  <text x="520" y="424" text-anchor="middle" font-size="5.2" letter-spacing="0" fill="#994433" font-weight="400">豪 杰 自 兴</text>
+  <line x1="500" y1="330" x2="520" y2="300" stroke="#7C6D5C" stroke-width="0.9"/>
+  <path d="M 519.8,304.0 L 520,300 L 516.4,301.7" fill="none" stroke="#7C6D5C" stroke-width="0.81"/>
+  <text x="566" y="262" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#994433" font-weight="400">虽 无 文 王</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">若夫豪杰之士，虽无文王犹兴。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百八十七 · 豪杰 · ch187a</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">蔽 贤 之 实</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》离娄下　第一百零七章　MZ107</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">言无实不祥　不祥之实，蔽贤者当之</text>
+  <line x1="96" y1="404" x2="664" y2="404" stroke="#8C7B69" stroke-width="1.3"/>
+  <line x1="600" y1="404" x2="600" y2="316" stroke="#7C6D5C" stroke-width="1.4"/>
+  <ellipse cx="600" cy="316" rx="24" ry="8" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M 600,310 C 592,298 594,282 600,272 C 606,282 608,298 600,310 Z" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <line x1="624" y1="312" x2="656" y2="348" stroke="#994433" stroke-width="0.8" stroke-dasharray="4,3"/>
+  <circle cx="462" cy="315.2" r="7.199999999999999" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="462" y1="322.4" x2="462" y2="380.96" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="462" y1="333.91999999999996" x2="446.64" y2="353.11999999999995" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="462" y1="333.91999999999996" x2="510.0" y2="339.67999999999995" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="462" y1="380.96" x2="453.36" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="462" y1="380.96" x2="470.64" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <path d="M 480,282 L 516,274 L 516,352 L 480,344 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="508" y="258" text-anchor="middle" font-size="7.4" letter-spacing="3" fill="#7C6D5C" font-weight="400">蔽</text>
+  <line x1="538" y1="330" x2="528" y2="336" stroke="#BFB4A4" stroke-width="0.7"/>
+  <text x="380" y="424" text-anchor="middle" font-size="6.2" letter-spacing="0" fill="#BFB4A4" font-weight="400">贤者之光，为一人所遮</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">不祥之实，蔽贤者当之。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百零七 · 蔽贤之实 · ch107a</text>
+</svg>

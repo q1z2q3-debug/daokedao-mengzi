@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">诗 亡 春 秋</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》离娄下　补章　MZ121</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">王者之迹熄而诗亡　诗亡然后春秋作</text>
+  <line x1="96" y1="404" x2="664" y2="404" stroke="#8C7B69" stroke-width="1.3"/>
+  <path d="M 380,250 L 380,404" fill="none" stroke="#DCD5C8" stroke-width="1.0" stroke-dasharray="4,4"/>
+  <line x1="210" y1="316" x2="210" y2="372" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="184" y1="372" x2="236" y2="372" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M 180,316 C 182,334 238,334 240,316" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.3"/>
+  <line x1="210" y1="316" x2="210" y2="306" stroke="#7C6D5C" stroke-width="1.0"/>
+  <circle cx="210" cy="303" r="2.6" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <path d="M 206,286 C 210,272 214,266 212,258" fill="none" stroke="#BFB4A4" stroke-width="0.7"/>
+  <path d="M 218,284 C 224,272 228,264 226,254" fill="none" stroke="#BFB4A4" stroke-width="0.7"/>
+  <text x="210" y="260" text-anchor="middle" font-size="5.8" letter-spacing="1" fill="#7C6D5C" font-weight="400">灯无焰</text>
+  <text x="210" y="424" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">迹熄：政教号令不及于天下</text>
+  <rect x="462.0" y="282" width="116" height="122" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="464.0" y1="308.84000000000003" x2="576.0" y2="308.84000000000003" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="464.0" y1="377.16" x2="576.0" y2="377.16" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="474.0" y1="292" x2="474.0" y2="394" stroke="#BFB4A4" stroke-width="0.5"/>
+  <line x1="492.4" y1="292" x2="492.4" y2="394" stroke="#BFB4A4" stroke-width="0.5"/>
+  <line x1="510.8" y1="292" x2="510.8" y2="394" stroke="#BFB4A4" stroke-width="0.5"/>
+  <line x1="529.2" y1="292" x2="529.2" y2="394" stroke="#BFB4A4" stroke-width="0.5"/>
+  <line x1="547.6" y1="292" x2="547.6" y2="394" stroke="#BFB4A4" stroke-width="0.5"/>
+  <text x="520" y="274" text-anchor="middle" font-size="6.2" letter-spacing="1" fill="#7C6D5C" font-weight="400">鲁之春秋</text>
+  <text x="520" y="424" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">其事则齐桓晋文　其文则史　其义则丘窃取</text>
+  <text x="380" y="268" text-anchor="middle" font-size="5.8" letter-spacing="0" fill="#994433" font-weight="400">晋之乘　楚之梼杌　鲁之春秋　一也</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">诗亡然后春秋作。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄下（补章）</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百二十一 · 诗亡春秋 · ch121a</text>
+</svg>

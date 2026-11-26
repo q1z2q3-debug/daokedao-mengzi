@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">一 本 与 二 本</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C">《孟子》滕文公上　第五十一章　MZ051</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <path d="M 236,404 C 236,352 236,300 236,246" fill="none" stroke="#25211D" stroke-width="2.2"/>
+  <path d="M 236,352 C 212,330 188,300 170,272" fill="none" stroke="#25211D" stroke-width="1.5"/>
+  <path d="M 170,272 L 162,244" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <path d="M 236,320 C 236,292 239,270 243,246" fill="none" stroke="#25211D" stroke-width="1.5"/>
+  <path d="M 236,368 C 262,348 290,322 308,294" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <path d="M 308,294 L 318,268" fill="none" stroke="#25211D" stroke-width="1"/>
+  <line x1="204" y1="412" x2="268" y2="412" stroke="#8C7B69" stroke-width="1.6"/>
+  <text x="236" y="432" text-anchor="middle" font-size="6.6" fill="#25211D">一本</text>
+  <text x="236" y="448" text-anchor="middle" font-size="5.6" fill="#8C7B69">天之生物，使之一本</text>
+  <text x="146" y="238" text-anchor="middle" font-size="5.6" fill="#994433">亲</text>
+  <text x="248" y="238" text-anchor="middle" font-size="5.6" fill="#994433">兄之子</text>
+  <text x="322" y="262" text-anchor="middle" font-size="5.6" fill="#BFB4A4">邻之赤子</text>
+
+  <line x1="536" y1="404" x2="536" y2="248" stroke="#7C6D5C" stroke-width="2"/>
+  <line x1="596" y1="404" x2="596" y2="248" stroke="#7C6D5C" stroke-width="2"/>
+  <circle cx="536" cy="244" r="3.2" fill="none" stroke="#7C6D5C" stroke-width="1"/>
+  <circle cx="596" cy="244" r="3.2" fill="none" stroke="#7C6D5C" stroke-width="1"/>
+  <path d="M 536,330 L 512,306" fill="none" stroke="#7C6D5C" stroke-width="1"/>
+  <path d="M 596,330 L 620,306" fill="none" stroke="#7C6D5C" stroke-width="1"/>
+  <line x1="506" y1="412" x2="626" y2="412" stroke="#BFB4A4" stroke-width="1.4"/>
+  <text x="566" y="432" text-anchor="middle" font-size="6.6" fill="#7C6D5C">二本</text>
+  <text x="566" y="448" text-anchor="middle" font-size="5.6" fill="#BFB4A4">父母与路人，各有本源</text>
+  <text x="536" y="234" text-anchor="middle" font-size="5.6" fill="#7C6D5C">父母</text>
+  <text x="596" y="234" text-anchor="middle" font-size="5.6" fill="#7C6D5C">路人</text>
+
+  <line x1="372" y1="196" x2="372" y2="430" stroke="#DCD5C8" stroke-width="0.8"/>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D">一个本源才生得出次序，两个本源只能排出先后。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 滕文公上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图五十一 · 一本与二本 · ch51a</text>
+</svg>

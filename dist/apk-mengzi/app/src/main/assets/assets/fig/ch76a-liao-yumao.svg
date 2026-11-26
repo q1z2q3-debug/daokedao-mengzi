@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">了 与 眊</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》离娄上　第七十六章　MZ076</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <line x1="380" y1="100" x2="380" y2="424" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="200" y="124" text-anchor="middle" font-size="9.4" letter-spacing="4" fill="#7C6D5C" font-weight="400">胸 中 正</text>
+  <text x="566" y="124" text-anchor="middle" font-size="9.4" letter-spacing="3" fill="#994433" font-weight="400">胸 中 不 正</text>
+  <path d="M 132,258 C 156,220 244,220 268,258" fill="none" stroke="#25211D" stroke-width="1.5"/>
+  <path d="M 268,258 C 244,294 156,294 132,258" fill="none" stroke="#25211D" stroke-width="1.5"/>
+  <circle cx="200" cy="258" r="26" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <circle cx="200" cy="258" r="11" fill="#25211D" stroke="#25211D" stroke-width="1.2"/>
+  <circle cx="193" cy="251" r="3.6" fill="#FCFAF6" stroke="#FCFAF6" stroke-width="0.6"/>
+  <text x="200" y="316" text-anchor="middle" font-size="9.4" letter-spacing="2" fill="#7C6D5C" font-weight="400">了</text>
+  <path d="M 492,258 C 516,220 604,220 628,258" fill="none" stroke="#25211D" stroke-width="1.5"/>
+  <path d="M 628,258 C 604,294 516,294 492,258" fill="none" stroke="#25211D" stroke-width="1.5"/>
+  <circle cx="560" cy="258" r="25" fill="none" stroke="#BFB4A4" stroke-width="0.8"/>
+  <circle cx="560" cy="258" r="17" fill="none" stroke="#BFB4A4" stroke-width="0.6"/>
+  <circle cx="560" cy="258" r="11" fill="#BFB4A4" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="590.0" y1="258.0" x2="596.0" y2="258.0" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="581.2" y1="279.2" x2="585.5" y2="283.5" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="560.0" y1="288.0" x2="560.0" y2="294.0" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="538.8" y1="279.2" x2="534.5" y2="283.5" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="530.0" y1="258.0" x2="524.0" y2="258.0" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="538.8" y1="236.8" x2="534.5" y2="232.5" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="560.0" y1="228.0" x2="560.0" y2="222.0" stroke="#BFB4A4" stroke-width="0.7"/>
+  <line x1="581.2" y1="236.8" x2="585.5" y2="232.5" stroke="#BFB4A4" stroke-width="0.7"/>
+  <text x="560" y="316" text-anchor="middle" font-size="9.4" letter-spacing="2" fill="#994433" font-weight="400">眊</text>
+  <rect x="120" y="350" width="160" height="28" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.0"/>
+  <circle cx="120" cy="364" r="6" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.0"/>
+  <circle cx="280" cy="364" r="6" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.0"/>
+  <line x1="138" y1="360" x2="262" y2="360" stroke="#BFB4A4" stroke-width="0.6" stroke-dasharray="6,3"/>
+  <line x1="138" y1="368" x2="246" y2="368" stroke="#BFB4A4" stroke-width="0.6" stroke-dasharray="6,3"/>
+  <rect x="480" y="350" width="160" height="28" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.0"/>
+  <circle cx="480" cy="364" r="6" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.0"/>
+  <circle cx="640" cy="364" r="6" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.0"/>
+  <line x1="498" y1="360" x2="622" y2="360" stroke="#BFB4A4" stroke-width="0.6" stroke-dasharray="6,3"/>
+  <line x1="498" y1="368" x2="606" y2="368" stroke="#BFB4A4" stroke-width="0.6" stroke-dasharray="6,3"/>
+  <text x="200" y="400" text-anchor="middle" font-size="6.2" letter-spacing="0" fill="#7C6D5C" font-weight="400">听其言</text>
+  <text x="560" y="400" text-anchor="middle" font-size="6.2" letter-spacing="0" fill="#BFB4A4" font-weight="400">听其言</text>
+  <text x="380" y="428" text-anchor="middle" font-size="6.2" letter-spacing="0" fill="#BFB4A4" font-weight="400">言可伪，目不容伪</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">听其言也，观其眸子，人焉廋哉？</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图七十六 · 了与眊 · ch76a</text>
+</svg>

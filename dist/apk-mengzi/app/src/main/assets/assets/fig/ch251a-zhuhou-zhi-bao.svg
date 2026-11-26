@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">诸 侯 之 宝</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百五十一章　MZ251</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.6" letter-spacing="1.0" fill="#7C6D5C" font-weight="400">诸侯之宝三：土地，人民，政事。宝珠玉者，殃必及身</text>
+  <rect x="150" y="152" width="140" height="78" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.4"/>
+  <text x="220" y="200" text-anchor="middle" font-size="16.0" letter-spacing="3" fill="#25211D" font-weight="400">土</text>
+  <rect x="310" y="152" width="140" height="78" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.4"/>
+  <text x="380" y="200" text-anchor="middle" font-size="16.0" letter-spacing="3" fill="#25211D" font-weight="400">民</text>
+  <rect x="470" y="152" width="140" height="78" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.4"/>
+  <text x="540" y="200" text-anchor="middle" font-size="16.0" letter-spacing="3" fill="#25211D" font-weight="400">政</text>
+  <text x="380" y="250" text-anchor="middle" font-size="5.0" letter-spacing="2" fill="#7C6D5C" font-weight="400">三 宝：所守·所养·所理</text>
+  <text x="380" y="292" text-anchor="middle" font-size="5.4" letter-spacing="1.4" fill="#994433" font-weight="400">宝珠玉者，殃必及身</text>
+  <circle cx="322" cy="320" r="16" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.1"/>
+  <circle cx="356" cy="328" r="13" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.1"/>
+  <circle cx="386" cy="318" r="10" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.1"/>
+  <ellipse cx="326" cy="358" rx="26" ry="12" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.0"/>
+  <ellipse cx="326" cy="358" rx="9" ry="5" fill="none" stroke="#BFB4A4" stroke-width="0.8"/>
+  <ellipse cx="386" cy="356" rx="26" ry="12" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.0"/>
+  <ellipse cx="386" cy="356" rx="9" ry="5" fill="none" stroke="#BFB4A4" stroke-width="0.8"/>
+  <line x1="305" y1="303" x2="339" y2="337" stroke="#994433" stroke-width="1.6"/>
+  <line x1="339" y1="303" x2="305" y2="337" stroke="#994433" stroke-width="1.6"/>
+  <line x1="369" y1="325" x2="399" y2="355" stroke="#994433" stroke-width="1.6"/>
+  <line x1="399" y1="325" x2="369" y2="355" stroke="#994433" stroke-width="1.6"/>
+  <text x="400" y="390" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#8C7B69" font-weight="400">珠 玉</text>
+  <text x="380" y="424" text-anchor="middle" font-size="6.2" letter-spacing="1.8" fill="#25211D" font-weight="400">能锁进库房的不是宝</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">宝得其宝者安，宝失其宝者危。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图二百五十一 · 诸侯之宝 · ch251a</text>
+</svg>

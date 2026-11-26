@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">皞 皞</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第一百九十章　MZ190</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">霸者之民，驩虞如也；王者之民，皞皞如也</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="380" y1="150" x2="380" y2="404" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="250" y="168" text-anchor="middle" font-size="7.4" letter-spacing="3" fill="#7C6D5C" font-weight="400">霸 者</text>
+  <text x="510" y="168" text-anchor="middle" font-size="7.4" letter-spacing="3" fill="#7C6D5C" font-weight="400">王 者</text>
+  <line x1="196" y1="404" x2="196" y2="226" stroke="#8C7B69" stroke-width="1.1"/>
+  <path d="M 196,232 L 250,244 L 196,258 Z" fill="#E8D9D2" stroke="#994433" stroke-width="1.0"/>
+  <circle cx="272" cy="318.9" r="6.8999999999999995" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="272" y1="325.8" x2="272" y2="381.92" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="272" y1="336.84000000000003" x2="257.28" y2="355.24" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="272" y1="336.84000000000003" x2="318.0" y2="342.36" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="272" y1="381.92" x2="263.72" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="272" y1="381.92" x2="280.28" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <text x="250" y="424" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#994433" font-weight="400">驩 虞 如 也</text>
+  <text x="250" y="350" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">有 所 造 为</text>
+  <line x1="447" y1="358.56" x2="535" y2="358.56" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="447" y1="379.44" x2="535" y2="379.44" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="478.52" y1="334" x2="478.52" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="503.48" y1="334" x2="503.48" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <circle cx="408" cy="363" r="5" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="408" y1="368" x2="408" y2="392.96" stroke="#25211D" stroke-width="1.125"/>
+  <line x1="408" y1="373.52" x2="400.64" y2="383.64" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="408" y1="373.52" x2="415.36" y2="383.64" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="408" y1="392.96" x2="403.86" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="408" y1="392.96" x2="412.14" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <circle cx="600" cy="363" r="5" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="600" y1="368" x2="600" y2="392.96" stroke="#25211D" stroke-width="1.125"/>
+  <line x1="600" y1="373.52" x2="592.64" y2="383.64" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="600" y1="373.52" x2="607.36" y2="383.64" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="600" y1="392.96" x2="595.86" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="600" y1="392.96" x2="604.14" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <text x="510" y="424" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#7C6D5C" font-weight="400">皞 皞 如 也</text>
+  <text x="510" y="308" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">耕 田 凿 井</text>
+  <text x="510" y="474" text-anchor="middle" font-size="5.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">亦 不 令 人 喜，亦 不 令 人 怒</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">民日迁善而不知为之者。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百九十 · 皞皞 · ch190a</text>
+</svg>

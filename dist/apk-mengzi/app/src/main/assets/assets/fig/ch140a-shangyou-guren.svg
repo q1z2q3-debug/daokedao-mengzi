@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">尚 友 古 人</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》万章下　第一百四十章　MZ140</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">一乡 → 一国 → 天下 → 古人</text>
+  <path d="M 238,404 A 62,62 0 0 1 362,404" fill="none" stroke="#DCD5C8" stroke-width="1.0"/>
+  <text x="356" y="350" text-anchor="end" font-size="6.0" letter-spacing="0" fill="#7C6D5C" font-weight="400">一乡</text>
+  <path d="M 192,404 A 108,108 0 0 1 408,404" fill="none" stroke="#DCD5C8" stroke-width="1.0"/>
+  <text x="402" y="316" text-anchor="end" font-size="6.0" letter-spacing="0" fill="#7C6D5C" font-weight="400">一国</text>
+  <path d="M 146,404 A 154,154 0 0 1 454,404" fill="none" stroke="#BFB4A4" stroke-width="1.0"/>
+  <text x="448" y="282" text-anchor="end" font-size="6.0" letter-spacing="0" fill="#7C6D5C" font-weight="400">天下</text>
+  <line x1="120" y1="404" x2="470" y2="404" stroke="#8C7B69" stroke-width="1.3"/>
+  <circle cx="300" cy="388" r="6" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="300" y1="394" x2="300" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <text x="300" y="376" text-anchor="middle" font-size="6.0" letter-spacing="0" fill="#7C6D5C" font-weight="400">善士</text>
+  <rect x="500" y="328" width="150" height="34" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.0"/>
+  <line x1="518" y1="328" x2="518" y2="362" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="540" y1="328" x2="540" y2="362" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="562" y1="328" x2="562" y2="362" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="584" y1="328" x2="584" y2="362" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="503" y1="335" x2="647" y2="335" stroke="#7C6D5C" stroke-width="0.7"/>
+  <line x1="503" y1="355" x2="647" y2="355" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="575" y="320" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#7C6D5C" font-weight="400">颂其诗　读其书</text>
+  <circle cx="575" cy="300" r="7.6" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="575" y1="308" x2="575" y2="348" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="575" y1="348" x2="562" y2="372" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="575" y1="348" x2="588" y2="372" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="620" y="300" text-anchor="start" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">古人</text>
+  <path d="M 460,360 C 480,344 496,340 508,336" fill="none" stroke="#994433" stroke-width="0.9" stroke-dasharray="4,3"/>
+  <text x="380" y="430" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">不知其人，可乎？是以论其世也</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">以友天下之善士为未足，又尚论古之人。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 万章下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百四十 · 尚友古人 · ch140a</text>
+</svg>

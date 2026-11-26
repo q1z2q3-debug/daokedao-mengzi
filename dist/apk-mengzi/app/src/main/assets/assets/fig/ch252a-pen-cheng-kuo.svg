@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">盆 成 括</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百五十二章　MZ252</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.0" letter-spacing="1.4" fill="#7C6D5C" font-weight="400">其为人也小有才，未闻君子之大道也</text>
+  <circle cx="230" cy="287.45" r="9.45" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="230" y1="296.9" x2="230" y2="373.76" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="230" y1="312.02" x2="209.84" y2="339.74" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="230" y1="312.02" x2="250.16" y2="339.74" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="230" y1="373.76" x2="218.66" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="230" y1="373.76" x2="241.34" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <path d="M 256,329 L 302,328.64 L 256,343 Z" fill="#FCFAF6" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="247" y1="337.0" x2="256" y2="338.0" stroke="#25211D" stroke-width="1.68"/>
+  <text x="238" y="262" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#8C7B69" font-weight="400">小 有 才</text>
+  <line x1="308" y1="404" x2="600" y2="250" stroke="#7C6D5C" stroke-width="1.6"/>
+  <line x1="436" y1="404" x2="656" y2="250" stroke="#7C6D5C" stroke-width="1.6"/>
+  <line x1="308" y1="404" x2="436" y2="404" stroke="#7C6D5C" stroke-width="1.4"/>
+  <path d="M 361,376 L 476,376" fill="none" stroke="#BFB4A4" stroke-width="0.55"/>
+  <path d="M 415,348 L 516,348" fill="none" stroke="#BFB4A4" stroke-width="0.55"/>
+  <path d="M 469,319 L 557,319" fill="none" stroke="#BFB4A4" stroke-width="0.55"/>
+  <path d="M 523,291 L 598,291" fill="none" stroke="#BFB4A4" stroke-width="0.55"/>
+  <path d="M 577,262 L 638,262" fill="none" stroke="#BFB4A4" stroke-width="0.55"/>
+  <path d="M 372,404 L 628,250" fill="none" stroke="#BFB4A4" stroke-width="0.45" stroke-dasharray="7,6"/>
+  <circle cx="644" cy="258" r="4.2" fill="#994433" stroke="#994433" stroke-width="1.0"/>
+  <text x="560" y="316" text-anchor="middle" font-size="5.0" letter-spacing="1.2" fill="#7C6D5C" font-weight="400">君子之大道</text>
+  <text x="668" y="248" text-anchor="start" font-size="4.4" letter-spacing="0" fill="#994433" font-weight="400">赭</text>
+  <text x="380" y="424" text-anchor="middle" font-size="6.2" letter-spacing="1.6" fill="#25211D" font-weight="400">才使他敢动，无道使他不知何时停</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">恃才妄作，所以取祸。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图二百五十二 · 盆成括 · ch252a</text>
+</svg>

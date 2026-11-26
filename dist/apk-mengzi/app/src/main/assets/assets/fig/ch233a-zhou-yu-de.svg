@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">周 于 德</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百三十三章　MZ233</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.9" letter-spacing="1" fill="#BFB4A4" font-weight="400">周于利者，凶年不能杀；周于德者，邪世不能乱</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <text x="380" y="158" text-anchor="middle" font-size="6.0" letter-spacing="2" fill="#25211D" font-weight="400">周，足 也；积 之 厚，则 用 有 余</text>
+  <path d="M 158.0,404 L 222,342 L 286.0,404" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="145.2" y1="404" x2="298.8" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="210.224" y1="393.46" x2="229.68" y2="399.65999999999997" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="198.448" y1="382.92" x2="237.36" y2="389.12" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="186.672" y1="372.38" x2="245.04" y2="378.58" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="174.896" y1="361.84000000000003" x2="252.72" y2="368.04" stroke="#BFB4A4" stroke-width="0.6"/>
+  <text x="222" y="424" text-anchor="middle" font-size="5.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">周 于 利</text>
+  <text x="222" y="320" text-anchor="middle" font-size="4.6" letter-spacing="1" fill="#7C6D5C" font-weight="400">凶 年 不 能 杀</text>
+  <text x="222" y="380" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#BFB4A4" font-weight="400">满</text>
+  <path d="M 446.0,404 L 534,296 L 622.0,404" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="428.4" y1="404" x2="639.6" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="517.808" y1="385.64" x2="544.56" y2="396.44" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="501.616" y1="367.28" x2="555.12" y2="378.08" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="485.424" y1="348.92" x2="565.68" y2="359.72" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="469.23199999999997" y1="330.56" x2="576.24" y2="341.36" stroke="#BFB4A4" stroke-width="0.6"/>
+  <text x="534" y="424" text-anchor="middle" font-size="5.0" letter-spacing="1" fill="#7C6D5C" font-weight="400">周 于 德</text>
+  <text x="534" y="276" text-anchor="middle" font-size="4.6" letter-spacing="1" fill="#7C6D5C" font-weight="400">邪 世 不 能 乱</text>
+  <text x="534" y="378" text-anchor="middle" font-size="5.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">满</text>
+  <text x="380" y="300" text-anchor="middle" font-size="6.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">积</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">周于利者，凶年不能杀；周于德者，邪世不能乱。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图二百三十三 · 周于德 · ch233a</text>
+</svg>

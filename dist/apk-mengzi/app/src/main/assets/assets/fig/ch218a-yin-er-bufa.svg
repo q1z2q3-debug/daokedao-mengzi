@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">引 而 不 发</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第二百一十八章　MZ218</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.8" letter-spacing="1" fill="#BFB4A4" font-weight="400">道则高矣，美矣，宜若登天然，似不可及也</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <text x="380" y="166" text-anchor="middle" font-size="6.6" letter-spacing="2" fill="#25211D" font-weight="400">引 而 不 发，跃 如 也</text>
+  <path d="M 270,214 Q 350,300 270,386" fill="none" stroke="#25211D" stroke-width="1.6"/>
+  <path d="M 270,214 L 196,300 L 270,386" fill="none" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="270" y1="214" x2="256" y2="204" stroke="#25211D" stroke-width="1.4"/>
+  <line x1="270" y1="386" x2="256" y2="396" stroke="#25211D" stroke-width="1.4"/>
+  <line x1="198" y1="300" x2="292" y2="300" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M 288.6,302.1 L 292,300 L 288.6,297.9" fill="none" stroke="#7C6D5C" stroke-width="1.08"/>
+  <text x="186" y="284" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#7C6D5C" font-weight="400">引</text>
+  <text x="346" y="284" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#BFB4A4" font-weight="400">不 发</text>
+  <text x="300" y="424" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">彀 率</text>
+  <path d="M 470,200 L 470,404" fill="none" stroke="#DCD5C8" stroke-width="1.0" stroke-dasharray="4,4"/>
+  <circle cx="470" cy="293.0" r="9.0" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="470" y1="302.0" x2="470" y2="375.2" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="470" y1="316.4" x2="450.8" y2="342.79999999999995" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="470" y1="316.4" x2="489.2" y2="342.79999999999995" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="470" y1="375.2" x2="459.2" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="470" y1="375.2" x2="480.8" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <text x="470" y="424" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#7C6D5C" font-weight="400">中 道 而 立</text>
+  <text x="440" y="188" text-anchor="middle" font-size="4.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">非 难 非 易</text>
+  <line x1="576" y1="404" x2="576" y2="356" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="680" y1="404" x2="680" y2="356" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="576" y1="356" x2="680" y2="356" stroke="#25211D" stroke-width="1.6"/>
+  <text x="628" y="424" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">绳 墨</text>
+  <text x="628" y="340" text-anchor="middle" font-size="4.7" letter-spacing="1" fill="#7C6D5C" font-weight="400">大 匠 不 改</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">大匠不为拙工改废绳墨，羿不为拙射变其彀率。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图二百一十八 · 引而不发 · ch218a</text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">德 慧 术 知</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第一百九十五章　MZ195</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">人之有德慧术知者，恒存乎疢疾</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="286" y1="404" x2="286" y2="214" stroke="#8C7B69" stroke-width="1.4300000000000002"/>
+  <line x1="272" y1="404" x2="286" y2="394" stroke="#8C7B69" stroke-width="0.9900000000000001"/>
+  <line x1="300" y1="404" x2="286" y2="394" stroke="#8C7B69" stroke-width="0.9900000000000001"/>
+  <line x1="286" y1="252.0" x2="252" y2="221.6" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="286" y1="252.0" x2="316" y2="212" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="286" y1="278.6" x2="322" y2="259.6" stroke="#8C7B69" stroke-width="0.9900000000000001"/>
+  <line x1="286" y1="309.0" x2="320" y2="282.4" stroke="#8C7B69" stroke-width="0.9900000000000001"/>
+  <line x1="286" y1="331.8" x2="256" y2="301.4" stroke="#8C7B69" stroke-width="0.9900000000000001"/>
+  <line x1="279" y1="290.0" x2="293" y2="290.0" stroke="#994433" stroke-width="1.8"/>
+  <line x1="280" y1="294.0" x2="294" y2="294.0" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 291,290.0 C 302,280.0 306,272.0 308,264.0" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <circle cx="309" cy="261.0" r="3.0" fill="none" stroke="#994433" stroke-width="0.8"/>
+  <text x="286" y="424" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#994433" font-weight="400">疢 疾 · 灾 患</text>
+  <text x="186" y="236" text-anchor="middle" font-size="5.0" letter-spacing="1" fill="#994433" font-weight="400">伤 处 生 枝</text>
+  <path d="M 214,244 L 268,272" fill="none" stroke="#BFB4A4" stroke-width="0.7" stroke-dasharray="3,3"/>
+  <circle cx="474" cy="304.1" r="8.1" fill="none" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="474" y1="312.2" x2="474" y2="378.08" stroke="#25211D" stroke-width="1.25"/>
+  <line x1="474" y1="325.15999999999997" x2="456.72" y2="348.91999999999996" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="474" y1="325.15999999999997" x2="491.28" y2="348.91999999999996" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="474" y1="378.08" x2="464.28" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="474" y1="378.08" x2="483.72" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <text x="474" y="424" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#7C6D5C" font-weight="400">孤 臣</text>
+  <circle cx="546" cy="335.55" r="5.55" fill="none" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="546" y1="341.1" x2="546" y2="386.24" stroke="#25211D" stroke-width="1.125"/>
+  <line x1="546" y1="349.98" x2="534.16" y2="366.26" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="546" y1="349.98" x2="557.84" y2="366.26" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="546" y1="386.24" x2="539.34" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <line x1="546" y1="386.24" x2="552.66" y2="404" stroke="#25211D" stroke-width="0.9"/>
+  <text x="546" y="424" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#7C6D5C" font-weight="400">孽 子</text>
+  <line x1="430" y1="322" x2="590" y2="322" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="510" y="312" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">操 心 也 危 · 虑 患 也 深</text>
+  <text x="510" y="348" text-anchor="middle" font-size="6.0" letter-spacing="2" fill="#25211D" font-weight="400">故 达</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">其操心也危，其虑患也深，故达。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百九十五 · 德慧术知 · ch195a</text>
+</svg>

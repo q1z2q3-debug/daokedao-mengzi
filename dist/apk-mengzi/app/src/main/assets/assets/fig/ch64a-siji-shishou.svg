@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">四 级 失 守</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》离娄上　第六十四章　MZ064</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">不仁者，先失其位，后失其身</text>
+  <rect x="200" y="200" width="400" height="10" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="200" y1="210" x2="600" y2="210" stroke="#994433" stroke-width="1.6"/>
+  <text x="188" y="209" text-anchor="end" font-size="6.6" letter-spacing="0" fill="#25211D" font-weight="400">天子</text>
+  <text x="608" y="209" text-anchor="start" font-size="6.6" letter-spacing="0" fill="#7C6D5C" font-weight="400">四海</text>
+  <rect x="200" y="250" width="300" height="10" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="200" y1="260" x2="500" y2="260" stroke="#994433" stroke-width="1.6"/>
+  <text x="188" y="259" text-anchor="end" font-size="6.6" letter-spacing="0" fill="#25211D" font-weight="400">诸侯</text>
+  <text x="508" y="259" text-anchor="start" font-size="6.6" letter-spacing="0" fill="#7C6D5C" font-weight="400">社稷</text>
+  <rect x="200" y="300" width="220" height="10" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="200" y1="310" x2="420" y2="310" stroke="#994433" stroke-width="1.6"/>
+  <text x="188" y="309" text-anchor="end" font-size="6.6" letter-spacing="0" fill="#25211D" font-weight="400">卿大夫</text>
+  <text x="428" y="309" text-anchor="start" font-size="6.6" letter-spacing="0" fill="#7C6D5C" font-weight="400">宗庙</text>
+  <rect x="200" y="350" width="140" height="10" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="200" y1="360" x2="340" y2="360" stroke="#994433" stroke-width="1.6"/>
+  <text x="188" y="359" text-anchor="end" font-size="6.6" letter-spacing="0" fill="#25211D" font-weight="400">士庶人</text>
+  <text x="348" y="359" text-anchor="start" font-size="6.6" letter-spacing="0" fill="#7C6D5C" font-weight="400">四体</text>
+  <line x1="600" y1="206" x2="340" y2="356" stroke="#BFB4A4" stroke-width="1.0" stroke-dasharray="4,4"/>
+  <circle cx="392" cy="347" r="5" fill="none" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="392" y1="352" x2="392" y2="383.04" stroke="#25211D" stroke-width="1.25"/>
+  <line x1="392" y1="358.48" x2="383.36" y2="370.36" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="392" y1="358.48" x2="400.64" y2="370.36" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="392" y1="383.04" x2="387.14" y2="396" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="392" y1="383.04" x2="396.86" y2="396" stroke="#25211D" stroke-width="1.0"/>
+  <text x="474" y="330" text-anchor="start" font-size="6.2" letter-spacing="0" fill="#BFB4A4" font-weight="400">一级比一级贴身</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">天子不仁，不保四海；士庶人不仁，不保四体。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图六十四 · 四级失守 · ch64a</text>
+</svg>

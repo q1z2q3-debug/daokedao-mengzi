@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">仁 声 善 教</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第一百九十一章　MZ191</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">仁言不如仁声之入人深也，善政不如善教之得民也</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="380" y1="150" x2="380" y2="404" stroke="#DCD5C8" stroke-width="0.9"/>
+  <rect x="158" y="250" width="74" height="130" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="172" y1="280" x2="218" y2="280" stroke="#BFB4A4" stroke-width="0.8"/>
+  <line x1="172" y1="310" x2="218" y2="310" stroke="#BFB4A4" stroke-width="0.8"/>
+  <line x1="172" y1="340" x2="218" y2="340" stroke="#BFB4A4" stroke-width="0.8"/>
+  <text x="195" y="424" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">政 · 法 度 禁 令</text>
+  <circle cx="292" cy="315.2" r="7.199999999999999" fill="none" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="292" y1="322.4" x2="292" y2="380.96" stroke="#25211D" stroke-width="1.25"/>
+  <line x1="292" y1="333.91999999999996" x2="276.64" y2="355.03999999999996" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="292" y1="333.91999999999996" x2="307.36" y2="355.03999999999996" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="292" y1="380.96" x2="283.36" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="292" y1="380.96" x2="300.64" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <circle cx="252" cy="318.9" r="6.8999999999999995" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="252" y1="325.8" x2="252" y2="381.92" stroke="#BFB4A4" stroke-width="1.125"/>
+  <line x1="252" y1="336.84000000000003" x2="237.28" y2="357.08000000000004" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="252" y1="336.84000000000003" x2="266.72" y2="357.08000000000004" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="252" y1="381.92" x2="243.72" y2="404" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="252" y1="381.92" x2="260.28" y2="404" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="284" y1="350" x2="244" y2="350" stroke="#BFB4A4" stroke-width="0.9"/>
+  <path d="M 246.9,348.2 L 244,350 L 246.9,351.8" fill="none" stroke="#BFB4A4" stroke-width="0.81"/>
+  <text x="264" y="338" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">畏</text>
+  <circle cx="464" cy="307.8" r="7.8" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="464" y1="315.6" x2="464" y2="379.04" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="464" y1="328.08000000000004" x2="447.36" y2="350.96000000000004" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="464" y1="328.08000000000004" x2="480.64" y2="350.96000000000004" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="464" y1="379.04" x2="454.64" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="464" y1="379.04" x2="473.36" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <path d="M 493.0,292.7 A 30.0,30.0 0 0 1 493.0,331.3" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M 504.5,283.1 A 45.0,45.0 0 0 1 504.5,340.9" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M 516.0,273.4 A 60.0,60.0 0 0 1 516.0,350.6" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="530" y="288" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#994433" font-weight="400">仁 声</text>
+  <circle cx="604" cy="315.2" r="7.199999999999999" fill="none" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="604" y1="322.4" x2="604" y2="380.96" stroke="#25211D" stroke-width="1.25"/>
+  <line x1="604" y1="333.91999999999996" x2="588.64" y2="355.03999999999996" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="604" y1="333.91999999999996" x2="619.36" y2="355.03999999999996" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="604" y1="380.96" x2="595.36" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="604" y1="380.96" x2="612.64" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <path d="M 570,336 L 590,320" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="3,3"/>
+  <text x="610" y="338" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#994433" font-weight="400">爱</text>
+  <text x="542" y="424" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">教 · 道 德 齐 礼</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">善政得民财，善教得民心。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百九十一 · 仁声善教 · ch191a</text>
+</svg>

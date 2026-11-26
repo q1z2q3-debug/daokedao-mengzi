@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">养 其 大 者</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子上　第一百五十五章　MZ155</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">体有贵贱，有小大；无以小害大，无以贱害贵</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <circle cx="200" cy="285.6" r="9.6" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="200" y1="295.2" x2="200" y2="373.28" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="200" y1="310.56" x2="179.52" y2="338.72" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="200" y1="310.56" x2="220.48" y2="338.72" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="200" y1="373.28" x2="188.48" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="200" y1="373.28" x2="211.52" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <circle cx="200" cy="328" r="15" fill="none" stroke="#994433" stroke-width="1.0"/>
+  <text x="200" y="331" text-anchor="middle" font-size="6.4" letter-spacing="0" fill="#994433" font-weight="400">心</text>
+  <text x="200" y="302" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#7C6D5C" font-weight="400">贵 · 大</text>
+  <circle cx="200" cy="372" r="11" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <text x="200" y="374" text-anchor="middle" font-size="5.0" letter-spacing="0" fill="#BFB4A4" font-weight="400">口</text>
+  <text x="200" y="396" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">贱 · 小</text>
+  <line x1="120" y1="396" x2="160" y2="396" stroke="#DCD5C8" stroke-width="0.8"/>
+  <line x1="386" y1="370" x2="354" y2="300" stroke="#7C6D5C" stroke-width="1.32"/>
+  <path d="M 354,300 L 366,296 L 366,312 L 352,314 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M 296,404 L 298,320 L 302,320 L 304,404 Z" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.1"/>
+  <path d="M 297,362.0 q -13.0,-8 -26,-6" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <ellipse cx="277.5" cy="354.0" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.77"/>
+  <ellipse cx="272.5" cy="349.0" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.77"/>
+  <ellipse cx="267.5" cy="344.0" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.77"/>
+  <path d="M 303,346.88 q 12.0,-8 24,-6" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <ellipse cx="321.0" cy="338.88" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.77"/>
+  <ellipse cx="326.0" cy="333.88" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.77"/>
+  <ellipse cx="331.0" cy="328.88" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.77"/>
+  <path d="M 297,331.76 q -8.0,-8 -16,-6" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+  <ellipse cx="285.0" cy="323.76" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.77"/>
+  <ellipse cx="280.0" cy="318.76" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.77"/>
+  <ellipse cx="275.0" cy="313.76" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.77"/>
+  <path d="M 416,404 L 418,340 L 422,340 L 424,404 Z" fill="#FCFAF6" stroke="#BFB4A4" stroke-width="0.9"/>
+  <path d="M 417,372.0 q -13.0,-8 -26,-6" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <ellipse cx="397.5" cy="364.0" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#BFB4A4" stroke-width="0.63"/>
+  <ellipse cx="392.5" cy="359.0" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#BFB4A4" stroke-width="0.63"/>
+  <ellipse cx="387.5" cy="354.0" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#BFB4A4" stroke-width="0.63"/>
+  <path d="M 423,360.48 q 12.0,-8 24,-6" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <ellipse cx="441.0" cy="352.48" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#BFB4A4" stroke-width="0.63"/>
+  <ellipse cx="446.0" cy="347.48" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#BFB4A4" stroke-width="0.63"/>
+  <ellipse cx="451.0" cy="342.48" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#BFB4A4" stroke-width="0.63"/>
+  <path d="M 417,348.96 q -8.0,-8 -16,-6" fill="none" stroke="#BFB4A4" stroke-width="0.9"/>
+  <ellipse cx="405.0" cy="340.96" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#BFB4A4" stroke-width="0.63"/>
+  <ellipse cx="400.0" cy="335.96" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#BFB4A4" stroke-width="0.63"/>
+  <ellipse cx="395.0" cy="330.96" rx="5.5" ry="3.8" fill="#F0EBE2" stroke="#BFB4A4" stroke-width="0.63"/>
+  <line x1="413" y1="394" x2="407" y2="396" stroke="#BFB4A4" stroke-width="0.63"/>
+  <line x1="420" y1="385" x2="414" y2="387" stroke="#BFB4A4" stroke-width="0.63"/>
+  <line x1="427" y1="376" x2="421" y2="378" stroke="#BFB4A4" stroke-width="0.63"/>
+  <text x="300" y="424" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#7C6D5C" font-weight="400">梧 槚</text>
+  <text x="420" y="424" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">樲 棘</text>
+  <text x="360" y="268" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#7C6D5C" font-weight="400">场 师</text>
+  <text x="530" y="300" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">舍其梧槚，养其樲棘</text>
+  <text x="530" y="330" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">则为贱场师焉</text>
+  <text x="380" y="200" text-anchor="middle" font-size="5.8" letter-spacing="0" fill="#994433" font-weight="400">养其小者为小人，养其大者为大人</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">饮食之人，则人贱之矣，为其养小以失大也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百五十五 · 养其大者 · ch155a</text>
+</svg>

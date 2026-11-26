@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">无 耻 之 耻</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第一百八十三章　MZ183</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">人不可以无耻。无耻之耻，无耻矣</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <circle cx="246" cy="292" r="46" fill="none" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="230" y1="282" x2="236" y2="282" stroke="#25211D" stroke-width="0.8"/>
+  <line x1="256" y1="282" x2="262" y2="282" stroke="#25211D" stroke-width="0.8"/>
+  <line x1="236" y1="312" x2="256" y2="312" stroke="#8C7B69" stroke-width="0.9"/>
+  <text x="246" y="424" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">无 耻</text>
+  <circle cx="508" cy="292" r="46" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="492" y1="282" x2="498" y2="282" stroke="#25211D" stroke-width="0.7"/>
+  <line x1="518" y1="282" x2="524" y2="282" stroke="#25211D" stroke-width="0.7"/>
+  <path d="M 496,314 q 6,-4 12,0 q 6,4 12,0" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <path d="M 470,270 L 486,296" fill="none" stroke="#994433" stroke-width="0.8"/>
+  <path d="M 486,262 L 500,290" fill="none" stroke="#994433" stroke-width="0.8"/>
+  <path d="M 502,258 L 516,288" fill="none" stroke="#994433" stroke-width="0.8"/>
+  <text x="508" y="424" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#994433" font-weight="400">耻 其 无 耻</text>
+  <line x1="310" y1="292" x2="446" y2="292" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M 441.7,294.6 L 446,292 L 441.7,289.4" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="378" y="274" text-anchor="middle" font-size="5.2" letter-spacing="0" fill="#BFB4A4" font-weight="400">反 而 耻 之</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">人能耻己之无所耻，则终身无复耻辱之累。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百八十三 · 无耻之耻 · ch183a</text>
+</svg>

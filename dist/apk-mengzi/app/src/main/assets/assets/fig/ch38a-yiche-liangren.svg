@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">一 车 两 人</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C">《孟子》公孙丑下　第三十八章　MZ038</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <circle cx="264" cy="336" r="34" fill="none" stroke="#8C7B69" stroke-width="1.5"/>
+  <circle cx="264" cy="336" r="5" fill="#8C7B69"/>
+  <circle cx="496" cy="336" r="34" fill="none" stroke="#8C7B69" stroke-width="1.5"/>
+  <circle cx="496" cy="336" r="5" fill="#8C7B69"/>
+  <rect x="236" y="268" width="288" height="46" rx="4" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.4"/>
+  <line x1="236" y1="282" x2="524" y2="282" stroke="#DCD5C8" stroke-width="0.9"/>
+  <line x1="258" y1="314" x2="258" y2="336" stroke="#8C7B69" stroke-width="1"/>
+  <line x1="502" y1="314" x2="502" y2="336" stroke="#8C7B69" stroke-width="1"/>
+  <line x1="380" y1="268" x2="380" y2="314" stroke="#BFB4A4" stroke-width="0.9" stroke-dasharray="4 4"/>
+  <text x="380" y="256" text-anchor="middle" font-size="5.8" fill="#BFB4A4">这道线</text>
+
+  <circle cx="318" cy="224" r="9" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="318" y1="233" x2="318" y2="286" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="318" y1="258" x2="340" y2="272" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="318" y1="258" x2="296" y2="272" stroke="#25211D" stroke-width="1.1"/>
+  <text x="318" y="206" text-anchor="middle" font-size="6.4" fill="#25211D">正使</text>
+
+  <circle cx="442" cy="224" r="9" fill="none" stroke="#994433" stroke-width="1.2"/>
+  <line x1="442" y1="233" x2="442" y2="286" stroke="#994433" stroke-width="1.2"/>
+  <line x1="442" y1="258" x2="464" y2="272" stroke="#994433" stroke-width="1.1"/>
+  <line x1="442" y1="258" x2="420" y2="272" stroke="#994433" stroke-width="1.1"/>
+  <text x="442" y="206" text-anchor="middle" font-size="6.4" fill="#994433">副使</text>
+
+  <text x="380" y="384" text-anchor="middle" font-size="6.6" fill="#8C7B69">反齐滕之路，未尝与之言行事</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D">同路，不必同心；共事，只交接口。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 公孙丑下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图三十八 · 一车两人 · ch38a</text>
+</svg>

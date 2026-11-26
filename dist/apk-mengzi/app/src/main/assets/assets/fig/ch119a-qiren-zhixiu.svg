@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">齐 人 之 羞</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》离娄下　第一百一十九章　MZ119</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">卒之东郭墦间，之祭者，乞其余</text>
+  <line x1="96" y1="404" x2="664" y2="404" stroke="#8C7B69" stroke-width="1.3"/>
+  <path d="M 150,404 C 176,356 244,356 270,404 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.1"/>
+  <rect x="200" y="336" width="18" height="44" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="210" y="328" text-anchor="middle" font-size="5.8" letter-spacing="2" fill="#7C6D5C" font-weight="400">墦</text>
+  <circle cx="236" cy="372" r="11" fill="none" stroke="#8C7B69" stroke-width="1.0"/>
+  <line x1="236" y1="362" x2="236" y2="378" stroke="#8C7B69" stroke-width="0.8"/>
+  <circle cx="300" cy="330.0" r="6.0" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="300" y1="336.0" x2="300" y2="384.8" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="300" y1="345.6" x2="287.2" y2="361.6" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="300" y1="345.6" x2="340.0" y2="350.40000000000003" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="300" y1="384.8" x2="292.8" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="300" y1="384.8" x2="307.2" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <ellipse cx="336" cy="384" rx="18" ry="7" fill="#F0EBE2" stroke="#25211D" stroke-width="1.4"/>
+  <path d="M 318,384 C 318,394.5 326.1,398.7 336,398.7 C 345.9,398.7 354,394.5 354,384" fill="#F0EBE2" stroke="#25211D" stroke-width="1.4"/>
+  <path d="M 330.6,398.7 L 331.68,402.2 L 340.32,402.2 L 341.4,398.7" fill="none" stroke="#25211D" stroke-width="1.26"/>
+  <text x="300" y="298" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">乞其余</text>
+  <line x1="400" y1="250" x2="400" y2="396" stroke="#BFB4A4" stroke-width="0.7" stroke-dasharray="5,4"/>
+  <circle cx="452" cy="318.9" r="6.8999999999999995" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="452" y1="325.8" x2="452" y2="381.92" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="452" y1="336.84000000000003" x2="437.28" y2="357.08000000000004" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="452" y1="336.84000000000003" x2="466.72" y2="357.08000000000004" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="452" y1="381.92" x2="443.72" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="452" y1="381.92" x2="460.28" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <circle cx="514" cy="331.85" r="5.85" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="514" y1="337.7" x2="514" y2="385.28" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="514" y1="347.06" x2="501.52" y2="364.22" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="514" y1="347.06" x2="526.48" y2="364.22" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="514" y1="385.28" x2="506.98" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="514" y1="385.28" x2="521.02" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="466" y1="344" x2="452" y2="366" stroke="#25211D" stroke-width="0.8"/>
+  <line x1="500" y1="340" x2="514" y2="366" stroke="#25211D" stroke-width="0.8"/>
+  <text x="483" y="250" text-anchor="middle" font-size="5.8" letter-spacing="2" fill="#7C6D5C" font-weight="400">中庭</text>
+  <circle cx="470" cy="294" r="2.2" fill="none" stroke="#994433" stroke-width="0.8"/>
+  <circle cx="494" cy="294" r="2.2" fill="none" stroke="#994433" stroke-width="0.8"/>
+  <text x="483" y="386" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#994433" font-weight="400">相泣</text>
+  <text x="380" y="424" text-anchor="middle" font-size="6.2" letter-spacing="0" fill="#BFB4A4" font-weight="400">所仰望而终身者，今若此；其妻妾不羞者几希</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">其妻妾不羞也，而不相泣者，几希矣。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百一十九 · 齐人之羞 · ch119a</text>
+</svg>

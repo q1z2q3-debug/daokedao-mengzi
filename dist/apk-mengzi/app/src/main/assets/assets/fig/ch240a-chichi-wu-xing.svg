@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">迟 迟 吾 行</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百四十章　MZ240</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.0" letter-spacing="1.4" fill="#7C6D5C" font-weight="400">去父母国，迟迟吾行；去他国，接淅而行</text>
+  <line x1="120" y1="404" x2="640" y2="404" stroke="#7C6D5C" stroke-width="1.4"/>
+  <circle cx="220" cy="291.15" r="9.15" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="220" y1="300.3" x2="220" y2="374.72" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="220" y1="314.94" x2="200.48" y2="341.78" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="220" y1="314.94" x2="239.52" y2="341.78" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="220" y1="374.72" x2="209.02" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="220" y1="374.72" x2="230.98" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <ellipse cx="246" cy="400" rx="4.2" ry="2.3100000000000005" fill="#8C7B69" stroke="#8C7B69" stroke-width="0.7"/>
+  <ellipse cx="254" cy="396" rx="4.2" ry="2.3100000000000005" fill="#8C7B69" stroke="#8C7B69" stroke-width="0.7"/>
+  <ellipse cx="262" cy="400" rx="4.2" ry="2.3100000000000005" fill="#8C7B69" stroke="#8C7B69" stroke-width="0.7"/>
+  <ellipse cx="270" cy="396" rx="4.2" ry="2.3100000000000005" fill="#8C7B69" stroke="#8C7B69" stroke-width="0.7"/>
+  <ellipse cx="278" cy="400" rx="4.2" ry="2.3100000000000005" fill="#8C7B69" stroke="#8C7B69" stroke-width="0.7"/>
+  <ellipse cx="286" cy="396" rx="4.2" ry="2.3100000000000005" fill="#8C7B69" stroke="#8C7B69" stroke-width="0.7"/>
+  <ellipse cx="294" cy="400" rx="4.2" ry="2.3100000000000005" fill="#8C7B69" stroke="#8C7B69" stroke-width="0.7"/>
+  <text x="220" y="250" text-anchor="middle" font-size="5.0" letter-spacing="1.4" fill="#994433" font-weight="400">迟迟吾行也</text>
+  <circle cx="500" cy="291.15" r="9.15" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="500" y1="300.3" x2="500" y2="374.72" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="500" y1="314.94" x2="480.48" y2="339.34" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="500" y1="314.94" x2="561.0" y2="322.26" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="500" y1="374.72" x2="489.02" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="500" y1="374.72" x2="510.98" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <ellipse cx="586" cy="340" rx="18" ry="6" fill="#F0EBE2" stroke="#25211D" stroke-width="1.4"/>
+  <path d="M 568,340 C 568,349.0 576.1,352.6 586,352.6 C 595.9,352.6 604,349.0 604,340" fill="#F0EBE2" stroke="#25211D" stroke-width="1.4"/>
+  <path d="M 580.6,352.6 L 581.68,355.6 L 590.32,355.6 L 591.4,352.6" fill="none" stroke="#25211D" stroke-width="1.26"/>
+  <line x1="574" y1="358" x2="574" y2="368" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="586" y1="360" x2="586" y2="372" stroke="#BFB4A4" stroke-width="0.9"/>
+  <line x1="598" y1="358" x2="598" y2="368" stroke="#BFB4A4" stroke-width="0.9"/>
+  <text x="600" y="322" text-anchor="middle" font-size="5.0" letter-spacing="1" fill="#994433" font-weight="400">接淅</text>
+  <ellipse cx="368" cy="398" rx="4.6" ry="2.53" fill="#8C7B69" stroke="#8C7B69" stroke-width="0.7"/>
+  <ellipse cx="412" cy="398" rx="4.6" ry="2.53" fill="#8C7B69" stroke="#8C7B69" stroke-width="0.7"/>
+  <ellipse cx="456" cy="398" rx="4.6" ry="2.53" fill="#8C7B69" stroke="#8C7B69" stroke-width="0.7"/>
+  <text x="420" y="250" text-anchor="middle" font-size="5.0" letter-spacing="1.4" fill="#994433" font-weight="400">接淅而行</text>
+  <text x="380" y="428" text-anchor="middle" font-size="6.0" letter-spacing="1.4" fill="#25211D" font-weight="400">同一双脚，两种走法；差别只在脚下的土</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">去国有差等，亲疏定其迟速。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 离娄上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图二百四十 · 迟迟吾行 · ch240a</text>
+</svg>

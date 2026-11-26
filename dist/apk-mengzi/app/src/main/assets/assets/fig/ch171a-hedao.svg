@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">貉 道</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子下　第一百七十一章　MZ171</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">欲轻之于尧舜之道者，大貉小貉也</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <circle cx="380" cy="290" r="88" fill="none" stroke="#DCD5C8" stroke-width="0.7"/>
+  <path d="M 380,290 L 380.0,206.0 A 84,84 0 0 1 406.0,210.1 Z" fill="#994433" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 406.0,210.1 A 84,84 0 0 1 429.4,222.0 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 429.4,222.0 A 84,84 0 0 1 448.0,240.6 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 448.0,240.6 A 84,84 0 0 1 459.9,264.0 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 459.9,264.0 A 84,84 0 0 1 464.0,290.0 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 464.0,290.0 A 84,84 0 0 1 459.9,316.0 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 459.9,316.0 A 84,84 0 0 1 448.0,339.4 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 448.0,339.4 A 84,84 0 0 1 429.4,358.0 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 429.4,358.0 A 84,84 0 0 1 406.0,369.9 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 406.0,369.9 A 84,84 0 0 1 380.0,374.0 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 380.0,374.0 A 84,84 0 0 1 354.0,369.9 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 354.0,369.9 A 84,84 0 0 1 330.6,358.0 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 330.6,358.0 A 84,84 0 0 1 312.0,339.4 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 312.0,339.4 A 84,84 0 0 1 300.1,316.0 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 300.1,316.0 A 84,84 0 0 1 296.0,290.0 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 296.0,290.0 A 84,84 0 0 1 300.1,264.0 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 300.1,264.0 A 84,84 0 0 1 312.0,240.6 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 312.0,240.6 A 84,84 0 0 1 330.6,222.0 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 330.6,222.0 A 84,84 0 0 1 354.0,210.1 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M 380,290 L 354.0,210.1 A 84,84 0 0 1 380.0,206.0 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="0.8"/>
+  <circle cx="380" cy="290" r="6" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="380" y="300" text-anchor="middle" font-size="8.0" letter-spacing="2" fill="#25211D" font-weight="400">二 十</text>
+  <text x="380" y="424" text-anchor="middle" font-size="5.8" letter-spacing="1" fill="#994433" font-weight="400">二十而取一</text>
+  <path d="M 480,232 L 520,214" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <text x="536" y="208" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#994433" font-weight="400">取其一</text>
+  <text x="200" y="250" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">万室之国</text>
+  <text x="200" y="272" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">一人陶，则可乎？</text>
+  <text x="560" y="300" text-anchor="middle" font-size="5.2" letter-spacing="0" fill="#BFB4A4" font-weight="400">貉：五谷不生</text>
+  <text x="560" y="320" text-anchor="middle" font-size="5.2" letter-spacing="0" fill="#BFB4A4" font-weight="400">无城郭宫室宗庙</text>
+  <text x="560" y="340" text-anchor="middle" font-size="5.2" letter-spacing="0" fill="#BFB4A4" font-weight="400">无诸侯币帛饔飧</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">去人伦，无君子，如之何其可也？</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百七十一 · 貉道 · ch171a</text>
+</svg>

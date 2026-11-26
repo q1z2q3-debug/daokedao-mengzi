@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">徐 行 后 长</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子下　第一百六十三章　MZ163</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">徐行后长者谓之弟，疾行先长者谓之不弟</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <circle cx="430" cy="296.7" r="8.7" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="430" y1="305.4" x2="430" y2="376.16" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="430" y1="319.32" x2="411.44" y2="344.84" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="430" y1="319.32" x2="448.56" y2="344.84" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="430" y1="376.16" x2="419.56" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="430" y1="376.16" x2="440.44" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="430" y1="296" x2="392" y2="404" stroke="#7C6D5C" stroke-width="1.3"/>
+  <circle cx="430" cy="268" r="7" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="430" y1="275" x2="430" y2="320" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="430" y1="320" x2="414" y2="360" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="430" y1="320" x2="446" y2="360" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="430" y1="288" x2="452" y2="278" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="408" y1="288" x2="424" y2="296" stroke="#25211D" stroke-width="1.0"/>
+  <text x="430" y="250" text-anchor="middle" font-size="5.6" letter-spacing="2" fill="#7C6D5C" font-weight="400">长 者</text>
+  <circle cx="250" cy="315.2" r="7.199999999999999" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="250" y1="322.4" x2="250" y2="380.96" stroke="#25211D" stroke-width="1.375"/>
+  <line x1="250" y1="333.91999999999996" x2="234.64" y2="355.03999999999996" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="250" y1="333.91999999999996" x2="265.36" y2="355.03999999999996" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="250" y1="380.96" x2="241.36" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="250" y1="380.96" x2="258.64" y2="404" stroke="#25211D" stroke-width="1.1"/>
+  <text x="250" y="424" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#994433" font-weight="400">少者徐行</text>
+  <path d="M 290,372 L 380,372" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="3,3"/>
+  <line x1="300" y1="372" x2="372" y2="372" stroke="#994433" stroke-width="0.9"/>
+  <path d="M 368.6,374.1 L 372,372 L 368.6,369.9" fill="none" stroke="#994433" stroke-width="0.81"/>
+  <text x="300" y="342" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#994433" font-weight="400">后 长</text>
+  <circle cx="590" cy="304.1" r="8.1" fill="none" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="590" y1="312.2" x2="590" y2="378.08" stroke="#25211D" stroke-width="1.25"/>
+  <line x1="590" y1="325.15999999999997" x2="572.72" y2="348.91999999999996" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="590" y1="325.15999999999997" x2="607.28" y2="348.91999999999996" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="590" y1="378.08" x2="580.28" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="590" y1="378.08" x2="599.72" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <text x="590" y="424" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">疾行先长</text>
+  <path d="M 560,300 L 620,300" fill="none" stroke="#BFB4A4" stroke-width="0.8"/>
+  <path d="M 620,300 L 560,318" fill="none" stroke="#BFB4A4" stroke-width="0.8"/>
+  <text x="380" y="220" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">亦为之而已矣　弗为耳</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">尧舜之道，孝弟而已矣。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百六十三 · 徐行后长 · ch163a</text>
+</svg>

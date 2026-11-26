@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="6" fill="#25211D" font-weight="700">两 把 剑</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C">《孟子》梁惠王下　第十章　MZ010</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <line x1="380" y1="96" x2="380" y2="336" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="196" y="116" text-anchor="middle" font-size="8" letter-spacing="2" fill="#8C7B69">小勇　敌一人者也</text>
+  <text x="566" y="116" text-anchor="middle" font-size="8" letter-spacing="2" fill="#994433">大勇　安天下之民</text>
+
+  <rect x="108" y="196" width="120" height="10" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.1"/>
+  <polygon points="228,196 260,201 228,206" fill="#FCFAF6" stroke="#8C7B69" stroke-width="1.1"/>
+  <line x1="96" y1="194" x2="108" y2="194" stroke="#8C7B69" stroke-width="1.4"/>
+  <line x1="96" y1="212" x2="108" y2="212" stroke="#8C7B69" stroke-width="1.4"/>
+
+  <circle cx="322" cy="176" r="12" fill="none" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="322" y1="188" x2="322" y2="222" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="304" y1="200" x2="340" y2="200" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="322" y1="222" x2="310" y2="248" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="322" y1="222" x2="334" y2="248" stroke="#8C7B69" stroke-width="1.2"/>
+  <text x="196" y="282" text-anchor="middle" font-size="7.4" fill="#8C7B69">按剑疾视</text>
+  <text x="196" y="298" text-anchor="middle" font-size="7" fill="#7C6D5C">“彼恶敢当我哉”</text>
+  <text x="196" y="316" text-anchor="middle" font-size="7" fill="#7C6D5C">此匹夫之勇</text>
+
+  <rect x="474" y="196" width="120" height="10" fill="#FCFAF6" stroke="#994433" stroke-width="1.1"/>
+  <polygon points="594,196 626,201 594,206" fill="#FCFAF6" stroke="#994433" stroke-width="1.1"/>
+  <line x1="462" y1="194" x2="474" y2="194" stroke="#994433" stroke-width="1.4"/>
+  <line x1="462" y1="212" x2="474" y2="212" stroke="#994433" stroke-width="1.4"/>
+
+  <rect x="640" y="172" width="56" height="56" fill="#F0EBE2" stroke="#25211D" stroke-width="1.3"/>
+  <text x="668" y="206" text-anchor="middle" font-size="9" fill="#25211D">暴</text>
+
+  <circle cx="486" cy="256" r="6" fill="none" stroke="#994433" stroke-width="1"/>
+  <circle cx="504" cy="268" r="6" fill="none" stroke="#994433" stroke-width="1"/>
+  <circle cx="478" cy="270" r="6" fill="none" stroke="#994433" stroke-width="1"/>
+  <text x="556" y="282" text-anchor="middle" font-size="7.4" fill="#994433">一怒而安天下之民</text>
+  <text x="556" y="298" text-anchor="middle" font-size="7" fill="#7C6D5C">文王一怒而安</text>
+  <text x="556" y="316" text-anchor="middle" font-size="7" fill="#7C6D5C">此武王之勇也</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D">怒气朝哪，勇就分两种：朝人是血气，朝暴是理义。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 梁惠王下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图十 · 两把剑 · ch10a</text>
+</svg>

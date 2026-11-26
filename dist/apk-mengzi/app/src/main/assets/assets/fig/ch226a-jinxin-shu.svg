@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">尽 信 书</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心下　第二百二十六章　MZ226</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">尽信《书》，则不如无《书》。吾于《武成》，取二三策而已矣</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <text x="380" y="158" text-anchor="middle" font-size="6.4" letter-spacing="2" fill="#25211D" font-weight="400">取 二 三 策 而 已 矣</text>
+  <rect x="196" y="300" width="200" height="84" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="222" y1="304" x2="222" y2="380" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="260" y1="304" x2="260" y2="380" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="298" y1="304" x2="298" y2="380" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="336" y1="304" x2="336" y2="380" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="374" y1="304" x2="374" y2="380" stroke="#BFB4A4" stroke-width="0.6"/>
+  <line x1="196" y1="312" x2="396" y2="312" stroke="#7C6D5C" stroke-width="0.7"/>
+  <line x1="196" y1="372" x2="396" y2="372" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="296" y="412" text-anchor="middle" font-size="5.4" letter-spacing="1" fill="#7C6D5C" font-weight="400">《武 成》</text>
+  <line x1="360" y1="330" x2="380" y2="356" stroke="#994433" stroke-width="1.2"/>
+  <line x1="380" y1="330" x2="360" y2="356" stroke="#994433" stroke-width="1.2"/>
+  <text x="470" y="366" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#994433" font-weight="400">血 流 漂 杵</text>
+  <path d="M 397,344 L 440,352" fill="none" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="3,2"/>
+  <rect x="486" y="306" width="30" height="74" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="486" y1="330" x2="516" y2="330" stroke="#BFB4A4" stroke-width="0.6"/>
+  <rect x="532" y="306" width="30" height="74" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="532" y1="330" x2="562" y2="330" stroke="#BFB4A4" stroke-width="0.6"/>
+  <rect x="578" y="306" width="30" height="74" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="578" y1="330" x2="608" y2="330" stroke="#BFB4A4" stroke-width="0.6"/>
+  <text x="552" y="396" text-anchor="middle" font-size="4.8" letter-spacing="1" fill="#7C6D5C" font-weight="400">二 三 策</text>
+  <text x="552" y="412" text-anchor="middle" font-size="4.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">奉 天 伐 暴</text>
+  <text x="380" y="240" text-anchor="middle" font-size="5.6" letter-spacing="2" fill="#25211D" font-weight="400">仁 人 无 敌 于 天 下</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">以至仁伐至不仁，而何其血之流杵也？</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心下</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图二百二十六 · 尽信书 · ch226a</text>
+</svg>

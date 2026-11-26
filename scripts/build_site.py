@@ -27,10 +27,21 @@ figure.fig svg{width:620px;max-width:none;margin:0 4px}}
 """
 
 
-def head():
+BASE = "https://q1z2q3-debug.github.io/daokedao-mengzi/"
+
+
+def head(path="book.html", desc=None):
     shell = open(os.path.join(ROOT, "scripts/_shell_book.html"), encoding="utf-8").read()
     h = shell[:shell.index("</head>") + 7]
     h = re.sub(r"<title>.*?</title>", "<title>__TITLE__</title>", h, count=1, flags=re.S)
+    h = re.sub(r'<link rel="canonical" href="[^"]*">',
+               '<link rel="canonical" href="%s%s"><meta property="og:url" content="%s%s">'
+               % (BASE, path, BASE, path), h, count=1)
+    if desc:
+        h = re.sub(r'<meta name="description" content="[^"]*">',
+                   '<meta name="description" content="%s">' % desc, h, count=1)
+        h = re.sub(r'<meta property="og:description" content="[^"]*">',
+                   '<meta property="og:description" content="%s">' % desc, h, count=1)
     return h.replace("</style>", EXTRA + "</style>")
 
 
@@ -62,7 +73,8 @@ def main():
                      lambda m: fig_inline(m.group(1), m.group(2)), raw)
         raw = raw.replace("<h1>", '<h1 class="ch">', 1)
         page = "ch/%s.html" % ch["id"].lower()
-        doc = (head().replace("__TITLE__", "润泽说 道可道之孟子 · %s %s" % (ch["id"], title))
+        desc = "《孟子》%s·%s：经文本义、赵岐与朱子注、义理与时代之问，一页一章。" % (ch["篇"], title)
+        doc = (head(page, desc).replace("__TITLE__", "润泽说 道可道之孟子 · %s %s" % (ch["id"], title))
                + '<body>\n<div class="bar"><div><a href="../index.html">← 目录</a></div>'
                  '<div><span class="bname">润 泽 说 · 道 可 道 之 孟 子　</span>%s</div></div>\n' % ch["id"]
                + '<div class="wrap">\n' + raw + '\n'

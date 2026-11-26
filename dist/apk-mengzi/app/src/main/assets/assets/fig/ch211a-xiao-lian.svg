@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">小 廉</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》尽心上　第二百一十一章　MZ211</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="5.7" letter-spacing="1" fill="#BFB4A4" font-weight="400">不义与之齐国而弗受，人皆信之，是舍箪食豆羹之义也</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <ellipse cx="168" cy="366" rx="30" ry="9" fill="#F0EBE2" stroke="#25211D" stroke-width="1.4"/>
+  <path d="M 138,366 C 138,379.5 151.5,384.9 168,384.9 C 184.5,384.9 198,379.5 198,366" fill="#F0EBE2" stroke="#25211D" stroke-width="1.4"/>
+  <path d="M 159.0,384.9 L 160.8,389.4 L 175.2,389.4 L 177.0,384.9" fill="none" stroke="#25211D" stroke-width="1.26"/>
+  <text x="168" y="424" text-anchor="middle" font-size="5.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">箪 食</text>
+  <ellipse cx="236" cy="342" rx="34" ry="10" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M 212,350 C 212,376 260,376 260,350" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="236" y1="376" x2="236" y2="392" stroke="#7C6D5C" stroke-width="1.32"/>
+  <ellipse cx="236" cy="394" rx="20" ry="7" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="236" y="424" text-anchor="middle" font-size="5.0" letter-spacing="1" fill="#BFB4A4" font-weight="400">豆 羹</text>
+  <text x="202" y="300" text-anchor="middle" font-size="6.2" letter-spacing="2" fill="#7C6D5C" font-weight="400">小 义</text>
+  <circle cx="392" cy="300.4" r="8.4" fill="none" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="392" y1="308.8" x2="392" y2="377.12" stroke="#25211D" stroke-width="1.5"/>
+  <line x1="392" y1="322.24" x2="374.08" y2="344.64" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="392" y1="322.24" x2="448.0" y2="328.96000000000004" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="392" y1="377.12" x2="381.92" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="392" y1="377.12" x2="402.08" y2="404" stroke="#25211D" stroke-width="1.2"/>
+  <path d="M 300,340 L 352,340" fill="none" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="3,3"/>
+  <text x="318" y="326" text-anchor="middle" font-size="4.7" letter-spacing="1" fill="#994433" font-weight="400">辟 兄 离 母</text>
+  <rect x="520" y="292" width="88" height="88" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.4"/>
+  <rect x="534" y="306" width="60" height="60" fill="none" stroke="#7C6D5C" stroke-width="0.7"/>
+  <rect x="534" y="306" width="60" height="60" fill="none" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="564" y="352" text-anchor="middle" font-size="9.4" letter-spacing="0" fill="#7C6D5C" font-weight="400">齐</text>
+  <text x="564" y="424" text-anchor="middle" font-size="5.2" letter-spacing="1" fill="#BFB4A4" font-weight="400">大 国 之 位</text>
+  <text x="380" y="190" text-anchor="middle" font-size="6.2" letter-spacing="2" fill="#25211D" font-weight="400">以 其 小 者 信 其 大 者</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">以其小者信其大者，奚可哉？</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 尽心上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图二百一十一 · 小廉 · ch211a</text>
+</svg>

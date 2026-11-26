@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">志 于 彀</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子上　第一百六十一章　MZ161</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.4" letter-spacing="1" fill="#BFB4A4" font-weight="400">羿之教人射，必志于彀；大匠诲人，必以规矩</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <path d="M 273.0,404 q -69.0,-60.0 0,-120" fill="none" stroke="#7C6D5C" stroke-width="1.8199999999999998"/>
+  <line x1="273.0" y1="404" x2="273.0" y2="284" stroke="#BFB4A4" stroke-width="1.1700000000000002"/>
+  <line x1="277.0" y1="344.0" x2="221.48" y2="344.0" stroke="#7C6D5C" stroke-width="1.1700000000000002"/>
+  <path d="M 221.48,344.0 L 211.48,340.0 L 211.48,348.0 Z" fill="#F0EBE2" stroke="#7C6D5C" stroke-width="1.04"/>
+  <line x1="256" y1="352.0" x2="259.2" y2="396" stroke="#7C6D5C" stroke-width="0.9099999999999999"/>
+  <line x1="252" y1="356.0" x2="259.2" y2="400" stroke="#7C6D5C" stroke-width="0.9099999999999999"/>
+  <line x1="248" y1="360.0" x2="259.2" y2="404" stroke="#7C6D5C" stroke-width="0.9099999999999999"/>
+  <text x="250" y="424" text-anchor="middle" font-size="5.8" letter-spacing="1" fill="#7C6D5C" font-weight="400">必 志 于 彀</text>
+  <text x="250" y="258" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">弓 满</text>
+  <line x1="430" y1="210" x2="430" y2="404" stroke="#DCD5C8" stroke-width="0.8"/>
+  <path d="M 482,314 L 544,314 L 544,326 L 494,326 L 494,374 L 482,374 Z" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.2"/>
+  <circle cx="586" cy="348" r="30" fill="none" stroke="#7C6D5C" stroke-width="0.84"/>
+  <line x1="578" y1="322" x2="574" y2="378" stroke="#7C6D5C" stroke-width="1.44"/>
+  <line x1="594" y1="322" x2="608" y2="378" stroke="#7C6D5C" stroke-width="1.44"/>
+  <circle cx="586" cy="318" r="4" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="540" y="424" text-anchor="middle" font-size="5.8" letter-spacing="2" fill="#7C6D5C" font-weight="400">规 矩</text>
+  <text x="540" y="258" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">大 匠</text>
+  <text x="380" y="190" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">学者亦必志于彀　学者亦必以规矩</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">事必有法，然后可成。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百六十一 · 志于彀 · ch161a</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="21" letter-spacing="5" fill="#25211D" font-weight="700">水 之 就 下</text>
+  <text x="380" y="68" text-anchor="middle" font-size="10.5" letter-spacing="2" fill="#7C6D5C" font-weight="400">《孟子》告子上　第一百四十三章　MZ143</text>
+  <line x1="120" y1="80" x2="640" y2="80" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="112" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#BFB4A4" font-weight="400">决诸东方则东流，决诸西方则西流</text>
+  <line x1="120" y1="404" x2="660" y2="404" stroke="#8C7B69" stroke-width="1.2"/>
+  <path d="M 160,296 L 240,296 L 240,326 L 320,326 L 320,356 L 400,356 L 400,404 L 160,404 Z" fill="#F0EBE2" stroke="#8C7B69" stroke-width="1.2"/>
+  <line x1="166" y1="316" x2="236" y2="316" stroke="#7C6D5C" stroke-width="0.7"/>
+  <line x1="246" y1="346" x2="316" y2="346" stroke="#7C6D5C" stroke-width="0.7"/>
+  <line x1="326" y1="376" x2="396" y2="376" stroke="#7C6D5C" stroke-width="0.7"/>
+  <path d="M 196,308 q 8,-5 16,0 q 8,5 16,0" fill="none" stroke="#7C6D5C" stroke-width="0.7"/>
+  <path d="M 286,338 q 8,-5 16,0 q 8,5 16,0" fill="none" stroke="#7C6D5C" stroke-width="0.7"/>
+  <path d="M 356,368 q 8,-5 16,0 q 8,5 16,0" fill="none" stroke="#7C6D5C" stroke-width="0.7"/>
+  <circle cx="150" cy="300" r="8" fill="none" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="150" y1="308" x2="150" y2="358" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="150" y1="358" x2="138" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="150" y1="358" x2="162" y2="404" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="150" y1="320" x2="132" y2="330" stroke="#25211D" stroke-width="1.0"/>
+  <line x1="150" y1="320" x2="168" y2="330" stroke="#25211D" stroke-width="1.0"/>
+  <text x="150" y="424" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#7C6D5C" font-weight="400">搏而跃之</text>
+  <line x1="430" y1="320" x2="560" y2="388" stroke="#994433" stroke-width="1.1"/>
+  <path d="M 555.0,388.3 L 560,388 L 557.4,383.7" fill="none" stroke="#994433" stroke-width="0.9900000000000001"/>
+  <text x="580" y="360" text-anchor="middle" font-size="7.0" letter-spacing="3" fill="#994433" font-weight="400">就 下</text>
+  <text x="560" y="424" text-anchor="middle" font-size="5.6" letter-spacing="0" fill="#BFB4A4" font-weight="400">水无有不下</text>
+  <text x="300" y="260" text-anchor="middle" font-size="5.4" letter-spacing="0" fill="#BFB4A4" font-weight="400">可使过颡，可使在山——势也，非性也</text>
+  <line x1="120" y1="436" x2="640" y2="436" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="460" text-anchor="middle" font-size="8.6" letter-spacing="2" fill="#25211D" font-weight="400">人性之善也，犹水之就下也。</text>
+  <text x="120" y="494" font-size="5.6" fill="#7C6D5C">孟子 · 告子上</text>
+  <text x="640" y="494" text-anchor="end" font-size="5.6" fill="#7C6D5C">图一百四十三 · 水之就下 · ch143a</text>
+</svg>
