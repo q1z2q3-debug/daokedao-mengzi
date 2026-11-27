@@ -1,0 +1,44 @@
+{
+  "slug": "mengzi",
+  "out": "daokedao-mengzi",
+  "package": "com.runze.daokedaomengzi",
+  "app_name": "道可道之孟子",
+  "version_code": 37,
+  "version_name": "0.37.0",
+  "docs": "docs",
+  "entry": "index.html",
+  "copy_files": [
+    "index.html",
+    "book.html"
+  ],
+  "copy_dirs": [
+    "ch",
+    [
+      "assets",
+      [
+        "_shots",
+        "_history"
+      ]
+    ]
+  ],
+  "site_prefixes": [
+    "https://q1z2q3-debug.github.io/daokedao-mengzi/",
+    "https://q1z2q3-debug.github.io/daokedao-mengzi",
+    "/daokedao-mengzi/"
+  ],
+  "bare_index_fix": true,
+  "strip_blocks": [
+    [
+      "<!-- apk-dl:start -->",
+      "<!-- apk-dl:end -->"
+    ]
+  ],
+  "strip_hrefs": [
+    "sitemap.xml",
+    "dl/mengzi-v0.37.0.apk",
+    "dl/mengzi-v0.37.0-全本离线.html"
+  ],
+  "strip_link_regex": [
+    "fonts/css2"
+  ]
+}

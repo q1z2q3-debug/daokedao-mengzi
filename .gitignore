@@ -1,3 +1,12 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# APK 工程
+dist/apk-mengzi-web/build/
+dist/apk-mengzi-web/.debug.keystore
+dist/apk-mengzi-web/app/src/main/assets/
+dist/apk-mengzi-web/.gradle/
+dist/apk-mengzi-web/local.properties
+dist/*.apk
+*.idsig
